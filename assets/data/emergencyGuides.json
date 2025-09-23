@@ -1,0 +1,2448 @@
+[
+    {
+        "title": "Avalanche",
+        "disasterType": "avalanche",
+        "description": [
+            "Avalanches are fast-moving snow slides that happen on steep slopes (30–45°), often triggered by people, snow buildup, or strong winds. They’re most common from December to March and can reach speeds of 60–80 mph.",
+            "The main dangers include suffocation, injuries from impact, and hypothermia. Hard-packed snow makes rescue harder. Knowing the risks, avoiding unstable slopes, and carrying proper gear can save lives."
+        ],
+        "imageKey": "avalanche",
+        "before": [
+            {
+                "step": "Know Avalanche Risk",
+                "notes": [
+                    "Learn risks and warning signs",
+                    "Avoid risky slopes",
+                    "Get trained and sign up for alerts"
+                ]
+            },
+            {
+                "step": "Get Equipment",
+                "notes": [
+                    "Helmet, beacon, probe, shovel, airbag",
+                    "First aid training"
+                ]
+            }
+        ],
+        "during": [
+            {
+                "step": "Use Safety Gear",
+                "notes": [
+                    "Stay on surface if caught",
+                    "Create air pocket near your face if buried"
+                ]
+            },
+            {
+                "step": "Rescue Others",
+                "notes": [
+                    "Call 911 and help if safe"
+                ]
+            }
+        ],
+        "after": [
+            {
+                "step": "Treat hypothermia immediately",
+                "notes": [
+                    "Warm the chest, head, and neck first.",
+                    "Avoid rubbing frostbitten areas and do not use direct heat."
+                ]
+            },
+            {
+                "step": "Stay dry and insulated",
+                "notes": [
+                    "Change out of wet clothing as soon as possible.",
+                    "Wrap up in blankets or dry layers to retain body heat."
+                ]
+            },
+            {
+                "step": "Take care of mental health",
+                "notes": [
+                    "Avalanche experiences can be traumatic.",
+                    "Talk to someone or seek support if you feel overwhelmed."
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Drought",
+        "disasterType": "drought",
+        "description": [
+            "Droughts are long periods of unusually low rainfall that reduce water availability for people, animals, and crops. They can develop slowly but have lasting impacts on communities and the environment.",
+            "Using water wisely during a drought helps protect local supplies. Conservation efforts like limiting outdoor use and fixing leaks make a big difference."
+        ],
+        "imageKey": "drought",
+        "before": [
+            {
+                "step": "Conserve Water Daily",
+                "notes": [
+                    "Make saving water a habit"
+                ]
+            },
+            {
+                "step": "Indoor Water Saving",
+                "notes": [
+                    "Fix leaks",
+                    "Reuse water",
+                    "Use efficient appliances"
+                ]
+            },
+            {
+                "step": "Outdoor Water Saving",
+                "notes": [
+                    "Plant drought-tolerant plants",
+                    "Use mulch and smart irrigation"
+                ]
+            },
+            {
+                "step": "Pool Maintenance",
+                "notes": [
+                    "Cover pools to reduce evaporation"
+                ]
+            }
+        ],
+        "during": [
+            {
+                "step": "Follow Restrictions",
+                "notes": [
+                    "Obey water use rules",
+                    "Stay updated on drought conditions"
+                ]
+            },
+            {
+                "step": "Save Water Indoors",
+                "notes": [
+                    "Short showers",
+                    "Avoid flushing unnecessarily",
+                    "Turn off taps when not needed"
+                ]
+            },
+            {
+                "step": "Save Water Outdoors",
+                "notes": [
+                    "Water lawns early morning or late evening",
+                    "Use broom to clean areas",
+                    "Never leave sprinklers or hoses unattended"
+                ]
+            }
+        ],
+        "after": [
+            {
+                "step": "Continue conserving water",
+                "notes": [
+                    "Don’t return to old water usage habits immediately.",
+                    "Sustained conservation helps prevent future shortages."
+                ]
+            },
+            {
+                "step": "Stay informed about water conditions",
+                "notes": [
+                    "Follow updates from local water authorities.",
+                    "Be aware of any ongoing restrictions or advisories."
+                ]
+            },
+            {
+                "step": "Keep practicing water-saving habits",
+                "notes": [
+                    "Fix leaks promptly and limit unnecessary water use.",
+                    "Use efficient appliances and reuse water where possible."
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Earthquake",
+        "disasterType": "earthquake",
+        "description": [
+            "Earthquakes are sudden, rapid shaking events caused by shifts in underground rock. They can strike without warning and affect any region, though places like California, Alaska, Hawaii, and parts of the Midwest are at higher risk.",
+            "Besides ground shaking, earthquakes can trigger fires, landslides, tsunamis, or avalanches. Being prepared can help reduce injuries and damage when one occurs."
+        ],
+        "imageKey": "earthquake",
+        "before": [
+            {
+                "step": "Practice Earthquake Safety",
+                "notes": [
+                    "Practice protecting yourself during earthquakes with family and coworkers."
+                ]
+            },
+            {
+                "step": "Make an Emergency Plan",
+                "notes": [
+                    "Create a family communication plan with an out-of-state contact.",
+                    "Plan meeting places if separated.",
+                    "Prepare a supply kit with food, water, flashlight, fire extinguisher, and whistle."
+                ]
+            },
+            {
+                "step": "Prepare Your Home",
+                "notes": [
+                    "Secure heavy items like bookcases, refrigerators, water heaters, and TVs.",
+                    "Store heavy and breakable items on low shelves.",
+                    "Fix structural issues to reduce collapse risk.",
+                    "Consider earthquake insurance, as standard homeowner policies usually don't cover quake damage."
+                ]
+            }
+        ],
+        "during": [
+            {
+                "step": "If Indoors",
+                "notes": [
+                    "Stay inside — do not run outside or stand in doorways.",
+                    "If you're in bed, lie face down and cover your head and neck with a pillow."
+                ]
+            },
+            {
+                "step": "If in a Vehicle",
+                "notes": [
+                    "Pull over safely and come to a complete stop.",
+                    "Set your parking brake and stay inside until the shaking stops."
+                ]
+            },
+            {
+                "step": "If Outdoors",
+                "notes": [
+                    "Move to a clear area away from buildings, trees, power lines, and streetlights.",
+                    "Drop low and protect yourself from flying debris."
+                ]
+            },
+            {
+                "step": "Drop, Cover, and Hold On",
+                "notes": [
+                    "Drop to your hands and knees to prevent falling.",
+                    "Cover your head and neck with your arms or get under sturdy furniture.",
+                    "Hold on until the shaking stops, or shield your neck if no shelter is available."
+                ]
+            }
+        ],
+        "after": [
+            {
+                "step": "Be prepared for aftershocks",
+                "notes": [
+                    "Drop, Cover, and Hold On if shaking starts again."
+                ]
+            },
+            {
+                "step": "Leave unsafe buildings",
+                "notes": [
+                    "Exit damaged buildings immediately.",
+                    "Do not re-enter until authorities say it’s safe."
+                ]
+            },
+            {
+                "step": "Signal for help if trapped",
+                "notes": [
+                    "Text for help or bang on pipes/walls to make noise.",
+                    "Cover your mouth with your shirt and use a whistle instead of shouting."
+                ]
+            },
+            {
+                "step": "Move to higher ground in tsunami zones",
+                "notes": [
+                    "Avoid coastal areas and stay clear of floodwaters."
+                ]
+            },
+            {
+                "step": "Check for injuries",
+                "notes": [
+                    "Treat yourself if you’re hurt.",
+                    "Help others only if you’re trained."
+                ]
+            },
+            {
+                "step": "Stay informed",
+                "notes": [
+                    "Listen to local news and emergency alerts via radio, TV, or social media."
+                ]
+            },
+            {
+                "step": "Communicate your safety",
+                "notes": [
+                    "Use text or social media to let others know you're okay."
+                ]
+            },
+            {
+                "step": "Be cautious during cleanup",
+                "notes": [
+                    "Wear protective clothing and gloves.",
+                    "Avoid lifting heavy debris alone."
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Explosion",
+        "disasterType": "none",
+        "description": [
+            "An explosion is a sudden, violent release of energy that can cause damage, injury, or death.",
+            "Explosive devices can be carried in vehicles, by persons, delivered in packages, or concealed roadside."
+        ],
+        "imageKey": "explosion",
+        "before": [
+            {
+                "step": "Build an Emergency Supply Kit",
+                "notes": [
+                    "Include water, cleaning supplies, flashlight, canned food, and other essentials."
+                ]
+            },
+            {
+                "step": "Make a Family Emergency Plan",
+                "notes": [
+                    "Include communication plans and designated meeting points."
+                ]
+            },
+            {
+                "step": "Learn to Identify Suspicious Activity",
+                "notes": [
+                    "Know how to respond to bomb threats and report suspicious behavior to law enforcement."
+                ]
+            },
+            {
+                "step": "Inform Employers of Medical Needs",
+                "notes": [
+                    "Make sure employers have updated information and emergency contacts."
+                ]
+            },
+            {
+                "step": "Stay Alert and Report",
+                "notes": [
+                    "If you see something suspicious, say something to protect your community."
+                ]
+            }
+        ],
+        "during": [
+            {
+                "step": "Follow Local Officials' Instructions",
+                "notes": [
+                    "Emergency services may be delayed; stay calm and listen."
+                ]
+            },
+            {
+                "step": "Protect Yourself Immediately",
+                "notes": [
+                    "Get under a sturdy table or desk if things are falling."
+                ]
+            },
+            {
+                "step": "Evacuate Quickly if Safe",
+                "notes": [
+                    "Leave the area without stopping for personal items or phone calls."
+                ]
+            },
+            {
+                "step": "Notify Family Once Safe",
+                "notes": [
+                    "Use text or social media to inform loved ones you are safe; save calls for emergencies."
+                ]
+            },
+            {
+                "step": "Stay Informed",
+                "notes": [
+                    "Listen to local officials for further instructions like evacuation or utility shutdowns."
+                ]
+            },
+            {
+                "step": "If Inside and Able to Evacuate",
+                "notes": [
+                    "Check for fire and hazards, stay low if smoke is present.",
+                    "Avoid elevators and weakened stairways."
+                ]
+            },
+            {
+                "step": "If Trapped Under Debris",
+                "notes": [
+                    "Signal rescuers using flashlight, whistle, or tapping on pipes.",
+                    "Cover nose and mouth to avoid inhaling dust.",
+                    "Shout only as last resort."
+                ]
+            },
+            {
+                "step": "If Outside",
+                "notes": [
+                    "Move away from the area to safety.",
+                    "Help others if it is safe to do so.",
+                    "Do not attempt to move trapped people; notify emergency services."
+                ]
+            }
+        ],
+        "after": [
+            {
+                "step": "Stay calm and follow official guidance",
+                "notes": [
+                    "Listen to emergency services for instructions.",
+                    "Avoid acting on rumors or unverified info."
+                ]
+            },
+            {
+                "step": "Let others know you’re safe",
+                "notes": [
+                    "Use text or social media to contact family and friends.",
+                    "Avoid making phone calls unless necessary."
+                ]
+            },
+            {
+                "step": "Do not return to the area too soon",
+                "notes": [
+                    "Only re-enter when authorities confirm it’s safe.",
+                    "Hazards may remain even if the event is over."
+                ]
+            },
+            {
+                "step": "Watch out for secondary dangers",
+                "notes": [
+                    "Stay alert for fires, gas leaks, damaged structures, or floods.",
+                    "Report any new hazards to emergency services."
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Heat Wave",
+        "disasterType": "heat wave",
+        "description": [
+            "A heat wave is a period of high temperatures and humidity, with temperatures rising above 90°F for two to three days or longer. The combination of heat and humidity can make it feel even hotter, increasing the risk to people’s health.",
+            "Heat waves can cause serious heat-related illnesses and even death, especially among older adults, young children, and people with chronic health conditions. Staying cool and hydrated is essential during these events."
+        ],
+        "imageKey": "extremeHeat",
+        "before": [
+            {
+                "step": "Know the signs of heat illness",
+                "notes": [
+                    "Watch for cramps, exhaustion, dizziness, or heat stroke symptoms."
+                ]
+            },
+            {
+                "step": "Don’t rely on fans alone",
+                "notes": [
+                    "Fans don’t lower your body temperature during extreme heat."
+                ]
+            },
+            {
+                "step": "Locate nearby cooling centers",
+                "notes": [
+                    "Places like malls, libraries, or community centers can provide relief."
+                ]
+            },
+            {
+                "step": "Keep your home cool",
+                "notes": [
+                    "Use shades or reflective window covers to block sunlight.",
+                    "Seal gaps with weather-stripping and add insulation where possible.",
+                    "Use attic fans or air conditioning effectively by sealing around units."
+                ]
+            }
+        ],
+        "during": [
+            {
+                "step": "While at home",
+                "notes": [
+                    "Never leave people or pets in a hot car — it can become deadly quickly.",
+                    "Avoid using the oven or stove to reduce indoor heat.",
+                    "Take cool showers or baths to lower your body temperature.",
+                    "Wear light, loose-fitting, and bright-colored clothing.",
+                    "Drink plenty of water regularly, even if you don’t feel thirsty.",
+                    "Avoid outdoor activities during the hottest parts of the day (midday).",
+                    "Check on elderly or vulnerable neighbors to ensure they’re safe.",
+                    "Provide pets with shade and fresh water, and avoid walking them on hot pavements."
+                ]
+            },
+            {
+                "step": "If outside",
+                "notes": [
+                    "Stay in shaded areas as much as possible and wear a wide-brimmed hat.",
+                    "Drink fluids often to stay hydrated.",
+                    "Rest immediately if you feel dizzy, weak, or unwell."
+                ]
+            },
+            {
+                "step": "Recognize heat-related illnesses",
+                "notes": [
+                    "Heat stroke symptoms include temperature above 103°F (39°C), red or dry skin, no sweating, strong pulse, and confusion. Call 911 immediately. Move the person to shade and cool them with wet cloths or ice packs.",
+                    "Heat cramps cause painful muscle spasms, usually in arms, legs, or stomach. Rest and hydrate with water or sports drinks.",
+                    "Heat exhaustion includes sweating, weakness, headache, nausea, and pale skin. Move to a cool place, sip fluids, and remove extra clothing."
+                ]
+            }
+        ],
+        "after": [
+            {
+                "step": "Move to a cooler place and hydrate if you experience heat cramps or exhaustion",
+                "notes": [
+                    "Rest in the shade or air-conditioned area.",
+                    "Drink water or electrolyte-replenishing drinks slowly."
+                ]
+            },
+            {
+                "step": "Seek medical help if symptoms worsen or persist",
+                "notes": [
+                    "Contact a healthcare professional if you feel worse or symptoms last more than an hour.",
+                    "Don’t ignore persistent headaches, dizziness, or nausea."
+                ]
+            },
+            {
+                "step": "Call 911 immediately for heat stroke signs",
+                "notes": [
+                    "Heat stroke is a medical emergency—look for high fever, confusion, or loss of consciousness.",
+                    "While waiting for help, cool the person with wet cloths or a cool bath."
+                ]
+            },
+            {
+                "step": "Keep monitoring vulnerable people after the heat wave",
+                "notes": [
+                    "Older adults, children, and people with chronic illnesses may need extra care during recovery.",
+                    "Check on them regularly and watch for delayed symptoms."
+                ]
+            },
+            {
+                "step": "Practice emergency plans regularly with your family",
+                "notes": [
+                    "Rehearse heat safety and communication plans to be prepared.",
+                    "Include children in drills so they know what to do."
+                ]
+            },
+            {
+                "step": "Teach children emergency contacts and safety steps",
+                "notes": [
+                    "Make sure kids know how to call for help and recognize warning signs.",
+                    "Use simple language and practice regularly."
+                ]
+            },
+            {
+                "step": "Use educational tools to teach kids about heat safety",
+                "notes": [
+                    "Activity books, games, and videos can make learning fun and memorable.",
+                    "Encourage questions and discussions to reinforce knowledge."
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Flood",
+        "disasterType": "flood",
+        "description": [
+            "Floods occur when water covers land that is usually dry. They can be caused by heavy rain, snowmelt, storms, or dam failures. Flooding can develop slowly or happen suddenly, like in flash floods.",
+            "Floods are very dangerous and can damage roads, buildings, and power supplies. Always avoid entering floodwaters, as they can be deeper and faster-moving than they appear."
+        ],
+        "imageKey": "flood",
+        "before": [
+            {
+                "step": "Know your flood risk",
+                "notes": [
+                    "Sign up for local alerts or weather apps."
+                ]
+            },
+            {
+                "step": "Get flood insurance",
+                "notes": [
+                    "Buy or renew coverage early — it takes 30 days to activate."
+                ]
+            },
+            {
+                "step": "Make a plan",
+                "notes": [
+                    "Practice evacuation routes and shelter plans.",
+                    "Pack emergency supplies (food, water, meds, cleaning items)."
+                ]
+            },
+            {
+                "step": "Protect valuables",
+                "notes": [
+                    "Store documents in waterproof containers.",
+                    "Backup files digitally and move items to higher ground."
+                ]
+            }
+        ],
+        "during": [
+            {
+                "step": "Evacuate if told",
+                "notes": [
+                    "Never drive around barricades — they save lives."
+                ]
+            },
+            {
+                "step": "Need medical help?",
+                "notes": [
+                    "Call 911 in emergencies.",
+                    "Otherwise, contact your doctor and shelter in place."
+                ]
+            },
+            {
+                "step": "Stay informed",
+                "notes": [
+                    "Follow local alerts for updates and instructions."
+                ]
+            },
+            {
+                "step": "Avoid floodwaters",
+                "notes": [
+                    "Don't walk, swim, or drive through water.",
+                    "Turn Around. Don’t Drown!"
+                ]
+            },
+            {
+                "step": "Stay off bridges",
+                "notes": [
+                    "Fast water can wash them away."
+                ]
+            },
+            {
+                "step": "Trapped in a car?",
+                "notes": [
+                    "Stay inside. Get on the roof if water rises."
+                ]
+            },
+            {
+                "step": "Trapped in a building?",
+                "notes": [
+                    "Climb to the highest level. Use the roof to signal for help.",
+                    "Avoid closed attics — rising water can trap you."
+                ]
+            }
+        ],
+        "after": [
+            {
+                "step": "Return home only when it’s declared safe",
+                "notes": [
+                    "Wait for official announcements before going back.",
+                    "Floodwaters may have caused unseen damage."
+                ]
+            },
+            {
+                "step": "Avoid driving unless it’s an emergency",
+                "notes": [
+                    "Roads may be damaged or flooded.",
+                    "Emergency vehicles need clear access."
+                ]
+            },
+            {
+                "step": "Wear protective gear during cleanup",
+                "notes": [
+                    "Use gloves, boots, and masks to protect against contaminants."
+                ]
+            },
+            {
+                "step": "Be cautious of mold and health risks",
+                "notes": [
+                    "Mold can trigger asthma or infections, especially in vulnerable people.",
+                    "Keep children away from cleanup activities."
+                ]
+            },
+            {
+                "step": "Watch out for snakes and wildlife inside your home",
+                "notes": [
+                    "Floods can displace animals seeking shelter."
+                ]
+            },
+            {
+                "step": "Avoid touching wet electrical equipment",
+                "notes": [
+                    "Turn off power at the main breaker if it’s safe to do so."
+                ]
+            },
+            {
+                "step": "Never wade in floodwater",
+                "notes": [
+                    "Water may contain harmful chemicals or be electrically charged."
+                ]
+            },
+            {
+                "step": "Use generators only outdoors and away from windows",
+                "notes": [
+                    "Prevent carbon monoxide poisoning by ensuring proper ventilation."
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Hazardous Materials",
+        "disasterType": "none",
+        "description": [
+            "Hazardous materials include explosives, flammables, poisons, and radioactive substances that can harm people, animals, or the environment. These chemicals may be toxic vapors, liquids, or solids.",
+            "Emergencies can occur during the handling, storage, or transport of these materials. If a release happens near where you live, work, or play, it poses serious health and safety risks."
+        ],
+        "imageKey": "chemicalsAndHazardousMaterials",
+        "before": [
+            {
+                "step": "Prepare an emergency kit",
+                "notes": [
+                    "Include duct tape, scissors, and plastic sheeting to seal windows and vents.",
+                    "Add masks and gloves to protect against chemical exposure."
+                ]
+            },
+            {
+                "step": "Make a family emergency plan",
+                "notes": [
+                    "Discuss how to communicate and where to meet if an incident occurs."
+                ]
+            },
+            {
+                "step": "Know your home’s ventilation controls",
+                "notes": [
+                    "Learn how to quickly turn off heating, ventilation, and air conditioning (HVAC) systems."
+                ]
+            },
+            {
+                "step": "Choose a shelter room with few openings",
+                "notes": [
+                    "Pick an interior room with minimal windows or vents to reduce exposure."
+                ]
+            }
+        ],
+        "during": [
+            {
+                "step": "Follow local alerts and instructions",
+                "notes": [
+                    "Some chemicals may have no odor, so rely on official warnings.",
+                    "Instructions can vary—sometimes sheltering in place is safest, other times evacuation is required."
+                ]
+            },
+            {
+                "step": "Evacuate immediately if instructed",
+                "notes": [
+                    "Avoid areas that may be contaminated.",
+                    "If you cannot evacuate, move as far away from the hazard as possible and shelter in place."
+                ]
+            },
+            {
+                "step": "If told to stay indoors",
+                "notes": [
+                    "Bring pets inside to protect them.",
+                    "Seal doors, windows, and vents with plastic sheeting and tape.",
+                    "Turn off HVAC systems or set to recirculate indoor air only.",
+                    "Block gaps with wet towels or aluminum foil to reduce infiltration.",
+                    "If air quality is poor, breathe shallowly through a damp cloth."
+                ]
+            },
+            {
+                "step": "If outside during a chemical release",
+                "notes": [
+                    "Move quickly upwind and away from the hazard.",
+                    "In a vehicle, keep windows closed and ventilation turned off.",
+                    "Seek shelter in a nearby building as soon as possible."
+                ]
+            }
+        ],
+        "after": [
+            {
+                "step": "Stay sheltered until authorities declare it safe",
+                "notes": [
+                    "Do not leave your shelter prematurely.",
+                    "Continue following official updates and guidance."
+                ]
+            },
+            {
+                "step": "Return home only when cleared by officials",
+                "notes": [
+                    "Even if it looks safe, wait for confirmation to avoid exposure to lingering hazards."
+                ]
+            },
+            {
+                "step": "If exposed and no immediate medical help is available, decontaminate yourself immediately",
+                "notes": []
+            },
+            {
+                "step": "Decontaminate carefully",
+                "notes": [
+                    "Remove contaminated clothing slowly, avoiding contact with your face or other body parts.",
+                    "Place contaminated clothes in a sealed plastic bag to prevent spread.",
+                    "Remove glasses or contact lenses; disinfect glasses with diluted bleach solution, rinse well, and dry.",
+                    "Wash hands, face, and hair thoroughly with soap and water.",
+                    "Flush your eyes with clean water if exposed.",
+                    "If assisting others, wash yourself thoroughly immediately afterward to avoid cross-contamination."
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Home Fires",
+        "disasterType": "none",
+        "description": [
+            "Home fires can start and spread quickly, becoming deadly within minutes.",
+            "Common causes include cooking, electrical problems, and heating equipment. Smoke and toxic gases are major dangers, so having smoke alarms and an escape plan is essential."
+        ],
+        "imageKey": "houseFires",
+        "before": [
+            {
+                "step": "Make digital copies of important documents",
+                "notes": [
+                    "Store copies securely in the cloud or on a USB drive."
+                ]
+            },
+            {
+                "step": "Create and practice a fire escape plan",
+                "notes": [
+                    "Practice your plan at least twice a year.",
+                    "Identify two exits from every room.",
+                    "Ensure windows open easily and security bars can be unlocked.",
+                    "Practice escaping in the dark or with your eyes closed.",
+                    "Teach children never to hide from firefighters.",
+                    "Check that all exits are accessible, especially if mobility is limited."
+                ]
+            },
+            {
+                "step": "Sleep with your bedroom door closed",
+                "notes": [
+                    "Closed doors can slow the spread of fire and smoke."
+                ]
+            },
+            {
+                "step": "Keep a fire extinguisher in the kitchen",
+                "notes": [
+                    "Learn how to use it properly and check it regularly."
+                ]
+            },
+            {
+                "step": "Consider installing a home sprinkler system",
+                "notes": [
+                    "Sprinklers can control or extinguish fires early."
+                ]
+            }
+        ],
+        "during": [
+            {
+                "step": "Stay low and crawl under smoke to exit",
+                "notes": [
+                    "Smoke and toxic gases rise, so stay close to the floor where the air is clearer."
+                ]
+            },
+            {
+                "step": "Check doors before opening",
+                "notes": [
+                    "If a door feels hot or smoke is coming through cracks, use another exit."
+                ]
+            },
+            {
+                "step": "Open doors slowly and be ready to close them quickly",
+                "notes": [
+                    "This helps prevent fire and smoke from rushing in."
+                ]
+            },
+            {
+                "step": "If you can’t help others safely, evacuate immediately and call emergency services",
+                "notes": [
+                    "Your safety is the top priority."
+                ]
+            },
+            {
+                "step": "Inform firefighters if pets are trapped inside",
+                "notes": [
+                    "Give specific locations to help rescuers find them faster."
+                ]
+            },
+            {
+                "step": "If trapped, close doors and seal gaps with cloth or tape",
+                "notes": [
+                    "Call emergency services and signal for help from a window if possible."
+                ]
+            },
+            {
+                "step": "If your clothes catch fire, stop, drop, and roll",
+                "notes": [
+                    "Cover your face with your hands to protect it.",
+                    "Roll on the ground until flames are out.",
+                    "Use a blanket or towel to smother flames if available.",
+                    "Cool any burns with water for several minutes.",
+                    "Cover burns with a clean, dry cloth and seek medical help immediately."
+                ]
+            }
+        ],
+        "after": [
+            {
+                "step": "Seek support from local disaster relief or community services if needed",
+                "notes": [
+                    "They can provide temporary shelter, food, and counseling."
+                ]
+            },
+            {
+                "step": "Wait for emergency officials to declare your home safe before re-entering",
+                "notes": [
+                    "Returning too soon can expose you to hazards like structural damage or lingering smoke."
+                ]
+            },
+            {
+                "step": "Do not attempt to restore utilities yourself; wait for professionals",
+                "notes": [
+                    "Electrical, gas, and water systems may be damaged and unsafe."
+                ]
+            },
+            {
+                "step": "Document damaged items before disposal for insurance or records",
+                "notes": [
+                    "Take photos or videos and make a detailed list of damaged property."
+                ]
+            },
+            {
+                "step": "Keep receipts for expenses related to fire loss",
+                "notes": [
+                    "Receipts help with insurance claims and financial recovery."
+                ]
+            },
+            {
+                "step": "Notify your financial institution if relevant",
+                "notes": [
+                    "Inform banks or creditors about your situation to arrange payment plans if needed."
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Hurricane",
+        "disasterType": "hurricane",
+        "description": [
+            "Powerful storms that bring destructive winds, heavy rain, storm surge, flooding, and dangerous rip currents.",
+            "Can knock out power, damage homes, and force evacuations."
+        ],
+        "imageKey": "hurricane",
+        "before": [
+            {
+                "step": "Understand Your Risk",
+                "notes": [
+                    "Hurricanes can affect areas far inland with rain, wind, floods, and tornadoes."
+                ]
+            },
+            {
+                "step": "Make an Emergency Plan",
+                "notes": [
+                    "Ensure everyone in your household knows the plan.",
+                    "Include workplaces, schools, and frequent places.",
+                    "Plan how your business or daily activities will continue during a disaster."
+                ]
+            },
+            {
+                "step": "Know Your Evacuation Routes",
+                "notes": [
+                    "Learn and practice evacuation routes with your household and pets.",
+                    "Identify safe places to stay."
+                ]
+            },
+            {
+                "step": "Stay Alert for Warnings",
+                "notes": [
+                    "Use multiple ways to receive emergency alerts.",
+                    "Sign up for local community alerts if available."
+                ]
+            },
+            {
+                "step": "Consider Special Needs",
+                "notes": [
+                    "Plan for additional support if anyone in your household has a disability."
+                ]
+            },
+            {
+                "step": "Prepare Important Documents",
+                "notes": [
+                    "Keep personal documents and insurance up to date and store copies securely."
+                ]
+            },
+            {
+                "step": "Protect Your Home",
+                "notes": [
+                    "Clear drains and gutters, bring in outdoor items, and secure windows or shutters."
+                ]
+            },
+            {
+                "step": "Gather Emergency Supplies",
+                "notes": [
+                    "Stock enough food, water, medications, disinfectants, and pet supplies for several days."
+                ]
+            }
+        ],
+        "during": [
+            {
+                "step": "Stay Informed",
+                "notes": [
+                    "Follow official updates and warnings closely.",
+                    "Evacuate immediately if advised by authorities."
+                ]
+            },
+            {
+                "step": "Protect Yourself from Weather",
+                "notes": [
+                    "Take shelter in an interior room or designated safe area away from windows.",
+                    "If flooding occurs, move to the highest safe level—avoid enclosed attics.",
+                    "Never walk, swim, or drive through floodwaters."
+                ]
+            }
+        ],
+        "after": [
+            {
+                "step": "Follow Local Guidance",
+                "notes": [
+                    "Listen to officials for safety information and instructions."
+                ]
+            },
+            {
+                "step": "Be Careful During Cleanup",
+                "notes": [
+                    "Wear protective clothing and masks if handling mold or debris.",
+                    "People with respiratory or immune issues should avoid moldy areas.",
+                    "Children should not take part in cleanup."
+                ]
+            },
+            {
+                "step": "Avoid Wet Electrical Equipment",
+                "notes": [
+                    "Turn off power if safe to do so before cleaning.",
+                    "Do not touch electrical devices if wet or standing in water."
+                ]
+            },
+            {
+                "step": "Avoid Floodwaters",
+                "notes": [
+                    "Floodwater can carry harmful chemicals, waste, and electricity from downed power lines."
+                ]
+            },
+            {
+                "step": "Limit Phone Calls",
+                "notes": [
+                    "Use texts or social media to communicate to keep phone lines open for emergencies."
+                ]
+            },
+            {
+                "step": "Document Damage",
+                "notes": [
+                    "Take photos of damage for insurance or records."
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Landslide",
+        "disasterType": "landslide",
+        "description": [
+            "Landslides are fast-moving flows of rock, mud, or debris down a slope. They’re often triggered by rain, earthquakes, volcanic activity, or human changes to the land.",
+            "Burned hillsides stay at higher risk for years. Rapid landslides are especially dangerous and can strike with little or no warning."
+        ],
+        "imageKey": "landslide",
+        "before": [
+            {
+                "step": "Prepare an Emergency Kit",
+                "notes": [
+                    "Include basic supplies, medications, and important documents for quick evacuation."
+                ]
+            },
+            {
+                "step": "Make a Plan",
+                "notes": [
+                    "Include your household and pets so everyone knows what to do and where to go."
+                ]
+            },
+            {
+                "step": "Sign Up for Local Alerts",
+                "notes": [
+                    "Use community alert systems to receive timely warnings."
+                ]
+            },
+            {
+                "step": "Evacuate When Advised or If Unsafe",
+                "notes": [
+                    "Leave immediately if you feel at risk or are told to evacuate."
+                ]
+            },
+            {
+                "step": "Consult Experts for Home Protection",
+                "notes": [
+                    "Get professional advice on preventive measures like flexible pipes or barriers."
+                ]
+            },
+            {
+                "step": "Protect Property",
+                "notes": [
+                    "Use sandbags, retaining walls, or deflection channels as recommended.",
+                    "Remember, large flows may still override protections."
+                ]
+            },
+            {
+                "step": "Know the Warning Signs",
+                "notes": [
+                    "Listen for unusual sounds like cracking trees or rumbling.",
+                    "Watch for changes in landscape: new cracks, leaning trees, stuck doors or windows.",
+                    "Notice shifts in water flow or ground bulges.",
+                    "These signs may indicate slow or fast landslide activity."
+                ]
+            }
+        ],
+        "during": [
+            {
+                "step": "Stay Informed",
+                "notes": [
+                    "Use a battery-powered radio or phone to follow official updates."
+                ]
+            },
+            {
+                "step": "Follow Emergency Instructions",
+                "notes": [
+                    "Always obey instructions from authorities without delay to stay safe."
+                ]
+            },
+            {
+                "step": "Stay Alert, Especially During Storms",
+                "notes": [
+                    "Landslides often occur during heavy rain, and many fatalities happen while people are asleep. Stay awake and vigilant during storms"
+                ]
+            },
+            {
+                "step": "Avoid Flooded Roads and Bridges",
+                "notes": [
+                    "Never attempt to cross water or mud flows—they can be fast-moving and deadly."
+                ]
+            },
+            {
+                "step": "If Trapped, Move Uphill Quickly",
+                "notes": [
+                    "Seek higher ground immediately if you find yourself caught in a landslide zone."
+                ]
+            },
+            {
+                "step": "Avoid Valleys and Low Areas",
+                "notes": [
+                    "Stay away from valleys, riverbeds, or other low-lying areas where landslide debris is likely to accumulate."
+                ]
+            },
+            {
+                "step": "Watch for Changes in Streams",
+                "notes": [
+                    "Be alert for sudden rises or drops in water levels, or muddy water, as these may signal an approaching landslide."
+                ]
+            }
+        ],
+        "after": [
+            {
+                "step": "Stay Clear of Slide Area",
+                "notes": [
+                    "Avoid returning too soon, as secondary slides often follow the initial event and can be just as dangerous."
+                ]
+            },
+            {
+                "step": "Listen for Updates",
+                "notes": [
+                    "Keep tuned to official channels for information on ongoing risks and recovery efforts."
+                ]
+            },
+            {
+                "step": "Watch for Flooding",
+                "notes": [
+                    "Be aware that flooding can occur after landslides due to blocked waterways or unstable ground."
+                ]
+            },
+            {
+                "step": "Check for Injured Nearby Safely",
+                "notes": [
+                    "If you see others nearby, alert rescue teams immediately without entering hazardous zones yourself."
+                ]
+            },
+            {
+                "step": "Report Damage",
+                "notes": [
+                    "Inform authorities about any broken utilities, damaged roads, or hazards to help coordinate emergency response."
+                ]
+            },
+            {
+                "step": "Have Professionals Inspect Your Property",
+                "notes": [
+                    "Ensure foundations, slopes, and land stability are assessed to avoid further risks."
+                ]
+            },
+            {
+                "step": "Restore Vegetation Quickly",
+                "notes": [
+                    "Replanting vegetation helps stabilize soil, reducing erosion and the chance of future landslides."
+                ]
+            },
+            {
+                "step": "Seek Expert Advice for Long-Term Safety",
+                "notes": [
+                    "Consult geotechnical experts for recommendations on effective risk mitigation and property protection."
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Public Violence",
+        "disasterType": "none",
+        "description": [
+            "Deliberate attacks in public spaces intended to harm or terrorize groups of people.",
+            "These incidents can occur without warning and involve various violent methods, including: mass shootings, vehicle ramming, improvised explosives, and other tactics."
+        ],
+        "imageKey": "publicViolence",
+        "before": [
+            {
+                "step": "Stay Aware",
+                "notes": [
+                    "Be mindful of your surroundings"
+                ]
+            },
+            {
+                "step": "Report Suspicious Activity",
+                "notes": [
+                    "Notify authorities of anything unusual"
+                ]
+            },
+            {
+                "step": "Recognize Warning Signs",
+                "notes": [
+                    "Look for threats or aggression"
+                ]
+            },
+            {
+                "step": "Plan Your Exits",
+                "notes": [
+                    "Know exit routes at all locations"
+                ]
+            },
+            {
+                "step": "Learn Emergency Skills",
+                "notes": [
+                    "Take first aid and emergency response courses"
+                ]
+            }
+        ],
+        "during": [
+            {
+                "step": "Run to Safety",
+                "notes": [
+                    "Escape if safe, leave belongings, call 911"
+                ]
+            },
+            {
+                "step": "Hide and Cover",
+                "notes": [
+                    "Hide silently behind locked doors or barriers"
+                ]
+            },
+            {
+                "step": "Fight as Last Resort",
+                "notes": [
+                    "Use improvised weapons if no other options"
+                ]
+            },
+            {
+                "step": "Help Injured",
+                "notes": [
+                    "Assist others if safe and call 911"
+                ]
+            }
+        ],
+        "after": [
+            {
+                "step": "Stay calm and follow police instructions",
+                "notes": [
+                    "Keep composed and obey all directions from emergency personnel to ensure your safety."
+                ]
+            },
+            {
+                "step": "Keep hands visible",
+                "notes": [
+                    "Show your hands clearly to responders to avoid misunderstandings and speed up assistance."
+                ]
+            },
+            {
+                "step": "Go to help areas and share info",
+                "notes": [
+                    "Head to emergency help points to receive aid and provide any important details you have."
+                ]
+            },
+            {
+                "step": "Update loved ones when possible",
+                "notes": [
+                    "Let family and friends know you are safe as soon as you can."
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Radiation",
+        "disasterType": "none",
+        "description": [
+            "Radiation emergencies include nuclear accidents, explosions, or exposure to radioactive materials. Despite differences in severity, safety steps are largely the same.",
+            "Knowing how to act before, during, and after helps protect you and your loved ones."
+        ],
+        "imageKey": "radiation",
+        "before": [
+            {
+                "step": "Stay informed",
+                "notes": [
+                    "Use multiple alert sources like local apps or radios.",
+                    "Sign up for community alerts where available.",
+                    "Have a battery-powered or hand crank radio in case of power loss."
+                ]
+            },
+            {
+                "step": "Prepare an emergency kit",
+                "notes": [
+                    "Include clothes, sealed food, water, medicine, and a bag for contaminated items."
+                ]
+            },
+            {
+                "step": "Make a family plan",
+                "notes": [
+                    "Choose a meeting spot if home is unsafe.",
+                    "Pick an emergency contact outside your area.",
+                    "Know evacuation and shelter plans for work, school, and care facilities."
+                ]
+            }
+        ],
+        "during": [
+            {
+                "step": "Get inside, stay inside",
+                "notes": [
+                    "Enter the nearest building quickly, away from windows.",
+                    "Go deep inside or underground, behind thick walls if possible."
+                ]
+            },
+            {
+                "step": "Use time, distance, and shielding",
+                "notes": [
+                    "Spend less time near radiation, stay far from the source, and put heavy barriers between you and it."
+                ]
+            },
+            {
+                "step": "If a nuclear explosion occurs",
+                "notes": [
+                    "Take cover immediately if outdoors.",
+                    "Lie face down to protect skin, then get inside as soon as it’s safe."
+                ]
+            },
+            {
+                "step": "Shelter in place",
+                "notes": [
+                    "Stay sheltered for at least 24 hours unless told otherwise.",
+                    "Turn off systems that bring in outside air.",
+                    "Close windows, doors, and dampers. Bring pets inside."
+                ]
+            },
+            {
+                "step": "Follow official updates",
+                "notes": [
+                    "Only evacuate if advised and use safe routes.",
+                    "Do not return until authorities say it's safe."
+                ]
+            }
+        ],
+        "after": [
+            {
+                "step": "Decontaminate yourself",
+                "notes": [
+                    "Carefully remove outer clothing to eliminate up to 90% of radioactive dust.",
+                    "Avoid touching your face while doing so."
+                ]
+            },
+            {
+                "step": "Wash exposed skin and hair",
+                "notes": [
+                    "Shower or wash with soap and water.",
+                    "If not possible, use a clean, damp cloth. Avoid hand sanitizer or cleaning wipes."
+                ]
+            },
+            {
+                "step": "Clean pets",
+                "notes": [
+                    "Brush off dust and wash them with soap and water if they were outside."
+                ]
+            },
+            {
+                "step": "Eat and drink safely",
+                "notes": [
+                    "Food inside buildings is safe.",
+                    "Wipe sealed containers before opening. Keep contaminated wipes away from people and pets.",
+                    "Avoid unpackaged food from outside until cleared as safe."
+                ]
+            },
+            {
+                "step": "Seek medical help if needed",
+                "notes": [
+                    "If injured or sick, follow local guidance on getting medical care.",
+                    "Notify shelter staff if you're unwell or call emergency services if needed."
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Power Outages",
+        "disasterType": "none",
+        "description": [
+            "Power outages can disrupt your daily life, especially during extreme weather.",
+            "They happen when electricity is lost unexpectedly in your area."
+        ],
+        "imageKey": "powerOutage",
+        "before": [
+            {
+                "step": "Prepare essential supplies and devices",
+                "notes": [
+                    "Make a list of items that rely on electricity (e.g., phones, lights, medical devices)",
+                    "Have flashlights and batteries for everyone in your household",
+                    "Use portable power banks to charge phones and other small devices"
+                ]
+            },
+            {
+                "step": "Plan for medical needs",
+                "notes": [
+                    "Speak to your doctor about backup plans for powered medical devices or refrigerated medication",
+                    "Know how long your medication can last without refrigeration"
+                ]
+            },
+            {
+                "step": "Practice safety with generators and heating",
+                "notes": [
+                    "Only use generators or grills outside, far from windows or doors",
+                    "Never use gas stoves or ovens to heat your home",
+                    "Install carbon monoxide detectors with battery backup if possible"
+                ]
+            },
+            {
+                "step": "Protect appliances and electronics",
+                "notes": [
+                    "Unplug or turn off electronics to avoid damage from power surges",
+                    "Use surge protectors where possible"
+                ]
+            },
+            {
+                "step": "Keep food and water safe",
+                "notes": [
+                    "Have a supply of non-perishable food and drinking water",
+                    "Keep fridge and freezer doors closed to maintain temperature",
+                    "A fridge stays cold for ~4 hours; a full freezer for ~48 hours",
+                    "Use a thermometer to check; discard food if above 5°C (40°F)"
+                ]
+            }
+        ],
+        "during": [
+            {
+                "step": "Keep refrigerators and freezers closed",
+                "notes": [
+                    "Maintaining cold temperatures helps prevent food spoilage."
+                ]
+            },
+            {
+                "step": "Use generators safely outdoors",
+                "notes": [
+                    "Place generators at least 20 feet away from windows, doors, and garages to avoid carbon monoxide poisoning."
+                ]
+            },
+            {
+                "step": "Never use gas stoves, ovens, or grills indoors for heating",
+                "notes": [
+                    "Indoor use increases the risk of fire and carbon monoxide poisoning."
+                ]
+            },
+            {
+                "step": "Disconnect or turn off appliances and electronics",
+                "notes": [
+                    "Protect devices from power surges when electricity is restored."
+                ]
+            },
+            {
+                "step": "Stay informed",
+                "notes": [
+                    "Use battery-powered radios or devices to receive updates and emergency instructions."
+                ]
+            },
+            {
+                "step": "Seek shelter if extreme temperatures pose a risk",
+                "notes": [
+                    "Go to community locations with power, such as warming or cooling centers."
+                ]
+            }
+        ],
+        "after": [
+            {
+                "step": "Check food and medicine",
+                "notes": [
+                    "Throw away food that was above 5°C (40°F) for 2+ hours or looks/smells off",
+                    "Discard any medication that requires refrigeration unless the label says otherwise",
+                    "Consult a pharmacist or doctor if unsure"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Sand Storm",
+        "disasterType": "sand storm",
+        "description": [
+            "A sandstorm, also known as a dust storm, can pose serious risks during an emergency.",
+            "To protect yourself, stay indoors if possible, close windows and doors, and cover your nose and mouth with a mask or damp cloth."
+        ],
+        "imageKey": "sandStorm",
+        "before": [
+            {
+                "step": "Monitor the weather.",
+                "notes": [
+                    "Pay attention to weather forecasts and warnings about sandstorms."
+                ]
+            },
+            {
+                "step": "Prepare supplies.",
+                "notes": [
+                    "Have an emergency kit with essentials like water, a first-aid kit, medications, and a flashlight."
+                ]
+            },
+            {
+                "step": "Know your evacuation plan.",
+                "notes": [
+                    "If evacuation is necessary, have a plan in place, including routes and designated shelters."
+                ]
+            },
+            {
+                "step": "Secure your home.",
+                "notes": [
+                    "Bring loose items indoors, cover outdoor furniture, and prepare your home for high winds and blowing sand."
+                ]
+            },
+            {
+                "step": "Communicate.",
+                "notes": [
+                    "Inform family members about your plan and designated meeting locations."
+                ]
+            }
+        ],
+        "during": [
+            {
+                "step": "Seek Shelter.",
+                "notes": [
+                    "If you are caught outside, find the nearest sturdy building and go inside immediately."
+                ]
+            },
+            {
+                "step": "Close Openings.",
+                "notes": [
+                    "Seal your home by closing windows, doors, and vents."
+                ]
+            },
+            {
+                "step": "Air Quality.",
+                "notes": [
+                    "If possible, use air conditioning on the recirculate setting to avoid drawing in outside air."
+                ]
+            },
+            {
+                "step": "Personal Protection.",
+                "notes": [
+                    "Wear a mask or a damp cloth to cover your nose and mouth, and consider wearing eye protection like goggles or glasses."
+                ]
+            },
+            {
+                "step": "Avoid Outdoor Activity.",
+                "notes": [
+                    "Reduce exposure by minimizing time spent outside and avoiding strenuous activity, especially if you have respiratory conditions."
+                ]
+            },
+            {
+                "step": "Driving.",
+                "notes": [
+                    "If you encounter a sandstorm while driving, slow down gradually, pull over to a safe location away from traffic, turn off your lights, and wait for the storm to pass."
+                ]
+            },
+            {
+                "step": "Stay Calm.",
+                "notes": [
+                    "Panic can make the situation worse. Take deep breaths and focus on following safety procedures."
+                ]
+            }
+        ],
+        "after": [
+            {
+                "step": "Assess Damage.",
+                "notes": [
+                    "Check for any structural damage to your home or property."
+                ]
+            },
+            {
+                "step": "Clean Up.",
+                "notes": [
+                    "Remove sand and debris from your property and clear clogged drains."
+                ]
+            },
+            {
+                "step": "Seek Medical Attention.",
+                "notes": [
+                    "If you or someone you know has respiratory issues or other health problems exacerbated by the storm, seek medical attention."
+                ]
+            },
+            {
+                "step": "Communicate.",
+                "notes": [
+                    "Let others know you are safe."
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Thunderstorm",
+        "disasterType": "thunderstorm",
+        "description": [
+            "Thunderstorms bring strong winds, heavy rain, hail, and lightning that can cause flooding and damage.",
+            "Stay alert to weather updates and take precautions like seeking shelter and avoiding open areas to stay safe."
+        ],
+        "imageKey": "thunderstormsAndLightning",
+        "before": [
+            {
+                "step": "Know the risks",
+                "notes": [
+                    "Thunderstorms can happen year-round and at any time",
+                    "Sign up for local weather alerts"
+                ]
+            },
+            {
+                "step": "Protect your home",
+                "notes": [
+                    "Trim trees that could fall on your home",
+                    "Use surge protectors for electronics",
+                    "Consider lightning rods or protection systems if common in your area"
+                ]
+            },
+            {
+                "step": "Have an emergency plan",
+                "notes": [
+                    "Make a plan with your family for where to go and what to do",
+                    "Know the nearest sturdy shelters at home, school, and work"
+                ]
+            }
+        ],
+        "during": [
+            {
+                "step": "When thunder roars, go indoors!",
+                "notes": [
+                    "Seek shelter inside a building or a vehicle with a roof to stay safe."
+                ]
+            },
+            {
+                "step": "Follow all weather alerts and warnings",
+                "notes": [
+                    "Stay updated through reliable sources to know when it’s safe."
+                ]
+            },
+            {
+                "step": "Avoid wired electronics and plumbing",
+                "notes": [
+                    "Don’t use plugged-in electronics",
+                    "Avoid running water like sinks and showers"
+                ]
+            },
+            {
+                "step": "Avoid driving through floodwater",
+                "notes": [
+                    "Turn around—don’t enter flooded roads",
+                    "Just 15 cm of water can knock you down; 30 cm can move a car"
+                ]
+            }
+        ],
+        "after": [
+            {
+                "step": "Wait for the all-clear",
+                "notes": [
+                    "Check official sources before going outside",
+                    "Watch for flash flood risks"
+                ]
+            },
+            {
+                "step": "Watch for hazards",
+                "notes": [
+                    "Stay away from fallen trees or power lines and report them"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Tornado",
+        "disasterType": "tornado",
+        "description": [
+            "Tornadoes are rapidly spinning columns of air that can cause severe damage by destroying buildings, flipping vehicles, and throwing debris. Their strength and speed make them extremely dangerous.",
+            "Being prepared and knowing how to respond quickly can save lives. Stay alert to warnings and seek shelter immediately when a tornado is nearby."
+        ],
+        "imageKey": "tornado",
+        "before": [
+            {
+                "step": "Know the risk and warning signs",
+                "notes": [
+                    "Tornadoes can happen anywhere, often with little warning",
+                    "Watch for signs like funnel clouds, swirling debris, or a loud roaring sound"
+                ]
+            },
+            {
+                "step": "Get alerts",
+                "notes": [
+                    "Sign up for local weather alerts and know what warning tones or messages mean"
+                ]
+            },
+            {
+                "step": "Identify safe shelter",
+                "notes": [
+                    "Practice going to a small, windowless room or basement on the lowest floor of a sturdy building"
+                ]
+            },
+            {
+                "step": "Make an emergency plan",
+                "notes": [
+                    "Plan ahead for what to do, including where to go, what to bring, and how to stay in contact",
+                    "Include pets in your plan"
+                ]
+            },
+            {
+                "step": "Stock emergency supplies",
+                "notes": [
+                    "Gather food, water, medicine, first aid, and cleaning supplies in case you need to stay home or shelter in place"
+                ]
+            }
+        ],
+        "during": [
+            {
+                "step": "Take shelter immediately",
+                "notes": [
+                    "Go to your identified safe space as soon as a warning is issued or signs appear"
+                ]
+            },
+            {
+                "step": "Stay informed",
+                "notes": [
+                    "Listen to local alerts for real-time updates and safety instructions"
+                ]
+            },
+            {
+                "step": "Protect yourself",
+                "notes": [
+                    "Cover your head and neck with your arms, and use blankets or cushions for extra protection"
+                ]
+            },
+            {
+                "step": "If you're in a vehicle",
+                "notes": [
+                    "If safe, drive at right angles to the tornado’s path",
+                    "If trapped, park safely, stay buckled, keep your head low, and cover it",
+                    "If you can reach a low ditch safely, lie down and cover your head",
+                    "Avoid sheltering under bridges"
+                ]
+            }
+        ],
+        "after": [
+            {
+                "step": "Communicate wisely",
+                "notes": [
+                    "Use text or social media to let others know you're safe; save calls for emergencies"
+                ]
+            },
+            {
+                "step": "Stay updated",
+                "notes": [
+                    "Continue listening for official updates before moving around"
+                ]
+            },
+            {
+                "step": "Stay safe",
+                "notes": [
+                    "Avoid downed power lines and damaged areas",
+                    "Wear sturdy shoes, gloves, and protective gear during clean-up",
+                    "Use face coverings if cleaning debris or mold"
+                ]
+            },
+            {
+                "step": "Seek medical help if needed",
+                "notes": [
+                    "Contact a doctor if you’re injured or unwell and follow instructions"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Space Weather",
+        "disasterType": "none",    
+        "description": [
+            "Space weather includes solar flares and plasma bursts from the sun that can disrupt power, satellites, GPS, and communications.",
+            "Strong space weather can cause blackouts and affect essential services like water, fuel, transport, and medical systems."
+        ],
+        "imageKey": "spaceWeather",
+        "before": [
+            {
+                "step": "Prepare an emergency kit and backup power",
+                "notes": [
+                    "Include food, water, medical supplies, flashlights, batteries, and chargers.",
+                    "Keep external battery packs or car chargers for your devices."
+                ]
+            },
+            {
+                "step": "Have a communication plan",
+                "notes": [
+                    "Plan how to contact family if networks go down.",
+                    "Texting may work better than calling in outages."
+                ]
+            },
+            {
+                "step": "Prepare for power loss",
+                "notes": [
+                    "Keep your car’s fuel tank at least half full since fuel pumps need electricity.",
+                    "Learn how to open your garage door manually.",
+                    "Store refrigerated medications safely; check with your doctor or pharmacist for specifics."
+                ]
+            },
+            {
+                "step": "Know how to manage food during outages",
+                "notes": [
+                    "Refrigerated items stay cold for a few hours if the door stays shut.",
+                    "Use a food thermometer to check if items are safe to eat."
+                ]
+            }
+        ],
+        "during": [
+            {
+                "step": "Limit electricity use",
+                "notes": [
+                    "Reducing demand can help prevent wider blackouts."
+                ]
+            },
+            {
+                "step": "Follow local alerts and instructions",
+                "notes": [
+                    "Stay tuned to official updates and emergency broadcasts."
+                ]
+            },
+            {
+                "step": "Unplug appliances if advised",
+                "notes": [
+                    "This helps protect them from power surges and supports grid stability."
+                ]
+            },
+            {
+                "step": "Avoid unnecessary calls",
+                "notes": [
+                    "Keep phone lines open for emergency services."
+                ]
+            }
+        ],
+        "after": [
+            {
+                "step": "Check food safety",
+                "notes": [
+                    "Discard food left above 4°C (40°F) for 2+ hours or with unusual smell or color.",
+                    "Never taste food to check—bacteria may not affect appearance or odor."
+                ]
+            },
+            {
+                "step": "Refreeze if safe",
+                "notes": [
+                    "Frozen food with ice crystals or below 4°C (40°F) can be safely refrozen."
+                ]
+            },
+            {
+                "step": "Use a food thermometer",
+                "notes": [
+                    "Check internal temperatures if unsure about food safety."
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Tsunami",
+        "disasterType": "tsunami",
+        "description": [
+            "A tsunami is a series of large ocean waves caused by earthquakes, underwater landslides, or volcanic eruptions.",
+            "Tsunamis can cause injury, death, and severe damage to buildings, roads, and coastal infrastructure."
+        ],
+        "imageKey": "tsunami",
+        "before": [
+            {
+                "step": "Learn tsunami warning signs",
+                "notes": [
+                    "Watch for strong earthquakes, loud ocean roars, sudden rising or receding of water, or exposed ocean floor."
+                ]
+            },
+            {
+                "step": "Know your local evacuation routes",
+                "notes": [
+                    "Identify safe zones at least 30m (100 ft) above sea level or 1.5 km (1 mile) inland.",
+                    "Practice routes from home, school, or work."
+                ]
+            },
+            {
+                "step": "Create a family emergency plan",
+                "notes": [
+                    "Include an out-of-area contact and a meeting point in case you're separated.",
+                    "Store emergency numbers in multiple places (written and digital)."
+                ]
+            },
+            {
+                "step": "Sign up for local alerts and warnings",
+                "notes": [
+                    "Use mobile apps or radio stations that provide official alerts.",
+                    "International travelers should check local emergency services when visiting coastal areas."
+                ]
+            },
+            {
+                "step": "Consider insurance coverage if you live near the coast",
+                "notes": [
+                    "Standard insurance may not cover flood or quake damage. Check local options."
+                ]
+            }
+        ],
+        "during": [
+            {
+                "step": "If an earthquake occurs, protect yourself first",
+                "notes": [
+                    "Drop, cover, and hold on until the shaking stops.",
+                    "Move only if it is safe and necessary."
+                ]
+            },
+            {
+                "step": "After shaking, evacuate immediately if you’re in a coastal area",
+                "notes": [
+                    "Do not wait for official warnings if you notice natural signs of a tsunami.",
+                    "Head to higher ground or move inland quickly."
+                ]
+            },
+            {
+                "step": "Follow marked evacuation routes if available",
+                "notes": [
+                    "Look for signs with wave symbols pointing to higher ground."
+                ]
+            },
+            {
+                "step": "If you're already in a safe zone, stay there",
+                "notes": [
+                    "Do not return to coastal areas unless officials say it’s safe."
+                ]
+            },
+            {
+                "step": "If you are in the water, grab something that floats",
+                "notes": [
+                    "Use debris, logs, or life vests to stay above water."
+                ]
+            },
+            {
+                "step": "If you’re on a boat, follow safety protocols",
+                "notes": [
+                    "Head out to deeper water if at sea; otherwise, go inland if docked or near shore."
+                ]
+            }
+        ],
+        "after": [
+            {
+                "step": "Stay informed through trusted sources",
+                "notes": [
+                    "Listen to local alerts for updates, shelter info, and all-clear notices."
+                ]
+            },
+            {
+                "step": "Limit phone calls and use texts or apps to check in",
+                "notes": [
+                    "Networks may be overloaded. Prioritize emergency communications."
+                ]
+            },
+            {
+                "step": "Avoid floodwaters",
+                "notes": [
+                    "They may contain debris, chemicals, or hidden hazards.",
+                    "Water may be deeper or more dangerous than it looks."
+                ]
+            },
+            {
+                "step": "Watch for electrical hazards",
+                "notes": [
+                    "Avoid downed wires and don’t touch wet electrical equipment."
+                ]
+            },
+            {
+                "step": "Stay away from damaged structures and roads",
+                "notes": [
+                    "Buildings may collapse and roads could be unstable."
+                ]
+            },
+            {
+                "step": "Seek medical help if you're injured or sick",
+                "notes": [
+                    "Contact emergency services or go to the nearest medical facility if possible."
+                ]
+            },
+            {
+                "step": "Document any property damage",
+                "notes": [
+                    "Take photos, make an inventory, and contact your local insurer or assistance service."
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Volcano",
+        "disasterType": "volcano",
+        "description": [
+            "A volcano is an opening in the Earth's surface that allows lava, gas, and debris to escape.",
+            "During an eruption, lava and debris can travel fast and destroy everything in their path.",
+            "Volcanic ash can spread far and cause breathing problems and damage buildings."
+        ],
+        "imageKey": "volcano",
+        "before": [
+            {
+                "step": "Find out if you live near an active volcano.",
+                "notes": [
+                    "Check local hazard maps or ask local authorities about volcanic risks in your area."
+                ]
+            },
+            {
+                "step": "Know your local evacuation zones and shelter locations.",
+                "notes": [
+                    "Ask emergency services or local authorities for evacuation plans and safe shelters away from ash and lava."
+                ]
+            },
+            {
+                "step": "Stock up on essentials in advance.",
+                "notes": [
+                    "Include food, water, medications, dust masks, pet supplies, and cleaning products for several days."
+                ]
+            },
+            {
+                "step": "Create and practice a family evacuation and communication plan.",
+                "notes": [
+                    "Include pets and livestock. Plan where to meet if separated."
+                ]
+            },
+            {
+                "step": "Have a plan to stay indoors if ashfall is expected.",
+                "notes": [
+                    "Close windows, seal doors, and prepare to shelter-in-place if needed."
+                ]
+            },
+            {
+                "step": "If you have breathing problems, consult your doctor.",
+                "notes": [
+                    "Ash can worsen asthma and other lung conditions — have any needed medications ready."
+                ]
+            },
+            {
+                "step": "Protect important documents.",
+                "notes": [
+                    "Store in a waterproof container or save password-protected digital copies online."
+                ]
+            },
+            {
+                "step": "Understand what your insurance covers.",
+                "notes": [
+                    "Some policies do not cover volcanic damage. Check what’s included in your plan."
+                ]
+            }
+        ],
+        "during": [
+            {
+                "step": "Stay informed and follow local alerts.",
+                "notes": [
+                    "Use a trusted source of emergency updates. Listen for instructions to evacuate or shelter."
+                ]
+            },
+            {
+                "step": "Evacuate early if told to do so.",
+                "notes": [
+                    "Do not wait until the last moment — lava and ash can spread quickly."
+                ]
+            },
+            {
+                "step": "Avoid areas near the volcano or downwind from it.",
+                "notes": [
+                    "Ash and debris move with wind and gravity, especially in river valleys."
+                ]
+            },
+            {
+                "step": "Shelter indoors if safe and you have supplies.",
+                "notes": [
+                    "Seal openings to prevent ash from entering. Wait for official updates before going out."
+                ]
+            },
+            {
+                "step": "If outside, protect your lungs, eyes, and skin.",
+                "notes": [
+                    "Wear a well-fitting mask (like an N95), goggles, and long sleeves to reduce ash exposure."
+                ]
+            },
+            {
+                "step": "Avoid driving in ash fall.",
+                "notes": [
+                    "Ash can reduce visibility and clog vehicle engines."
+                ]
+            }
+        ],
+        "after": [
+            {
+                "step": "Wait for official word before going outside or returning home.",
+                "notes": [
+                    "Even if the eruption stops, hazards like ash or mudflows may still exist."
+                ]
+            },
+            {
+                "step": "Use text or social media to check in with family.",
+                "notes": [
+                    "Phone lines may be overwhelmed — save calls for emergencies."
+                ]
+            },
+            {
+                "step": "Avoid driving unless necessary.",
+                "notes": [
+                    "Ash on roads reduces traction and can damage your vehicle."
+                ]
+            },
+            {
+                "step": "Avoid ash if you have respiratory issues.",
+                "notes": [
+                    "Use a mask indoors if ash enters your home. Ventilate only when air is clear."
+                ]
+            },
+            {
+                "step": "Be cautious when cleaning up ash.",
+                "notes": [
+                    "Ash is slippery and heavy. Do not climb on roofs without training. Wear protective gear."
+                ]
+            },
+            {
+                "step": "Keep children away from ash cleanup.",
+                "notes": [
+                    "Ash can be harmful if touched or inhaled, especially for young children."
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Wildfire",
+        "disasterType": "wildfire",
+        "description": [
+            "Wildfires are fast-spreading fires in natural areas like forests or grasslands.",
+            "They can destroy homes, wildlife, and entire communities."
+        ],
+        "imageKey": "wildfire",
+        "before": [
+            {
+                "step": "Set up multiple alert sources.",
+                "notes": [
+                    "Enable local emergency alerts and weather notifications on your phone.",
+                    "Sign up for regional text alerts or community warning systems if available."
+                ]
+            },
+            {
+                "step": "Monitor air quality warnings.",
+                "notes": [
+                    "Poor air can harm sensitive groups. Limit outdoor activity during smoky conditions."
+                ]
+            },
+            {
+                "step": "Make an evacuation plan.",
+                "notes": [
+                    "Include family, pets, and frequent locations like work or school.",
+                    "Practice the route ahead of time."
+                ]
+            },
+            {
+                "step": "Back up key documents.",
+                "notes": [
+                    "Store digital copies of ID and insurance in a secure cloud location."
+                ]
+            },
+            {
+                "step": "Prepare your home.",
+                "notes": [
+                    "Clear dry leaves and debris at least 30 feet from buildings.",
+                    "Seal a room with no outside air for smoky days. A portable air purifier helps.",
+                    "Use fire-resistant materials where possible."
+                ]
+            },
+            {
+                "step": "Know evacuation routes.",
+                "notes": [
+                    "Plan where to go and how you’ll get there.",
+                    "Include pets in your evacuation plans."
+                ]
+            },
+            {
+                "step": "Pack emergency supplies.",
+                "notes": [
+                    "Include food, water, masks, a flashlight, chargers, and a first aid kit.",
+                    "Slowly stock up in advance if needed."
+                ]
+            },
+            {
+                "step": "Store and handle flammable items carefully.",
+                "notes": [
+                    "Keep products like aerosols and alcohol-based cleaners away from heat."
+                ]
+            },
+            {
+                "step": "Have masks ready.",
+                "notes": [
+                    "N95 or similar masks protect your lungs from smoke particles."
+                ]
+            },
+            {
+                "step": "Keep phones charged.",
+                "notes": [
+                    "Buy power banks in case of outages or evacuation."
+                ]
+            }
+        ],
+        "during": [
+            {
+                "step": "Stay updated with emergency alerts.",
+                "notes": [
+                    "Follow instructions from local authorities immediately."
+                ]
+            },
+            {
+                "step": "Evacuate early when told.",
+                "notes": [
+                    "Shelter with friends or family if possible.",
+                    "Only use official shelters if you have no alternative."
+                ]
+            },
+            {
+                "step": "If trapped, call emergency services and turn on lights to help rescuers find you.",
+                "notes": [
+                    "Stay inside and away from windows if you can’t leave."
+                ]
+            },
+            {
+                "step": "Protect yourself from smoke.",
+                "notes": [
+                    "Stay indoors, seal doors/windows, and use an air purifier.",
+                    "If outside, wear an N95 mask or equivalent.",
+                    "Set AC to recirculate if available."
+                ]
+            },
+            {
+                "step": "If sick, contact your healthcare provider and avoid going out.",
+                "notes": [
+                    "Shelter in place unless it's an emergency."
+                ]
+            }
+        ],
+        "after": [
+            {
+                "step": "Return only when officials say it’s safe.",
+                "notes": [
+                    "Re-entering too soon can expose you to hidden dangers like gas leaks, structural instability, or toxic fumes."
+                ]
+            },
+            {
+                "step": "Avoid hazards like hot ash, smoldering debris, or unstable trees.",
+                "notes": [
+                    "Even after the immediate danger passes, these hazards can cause injuries or reignite fires."
+                ]
+            },
+            {
+                "step": "Wear protective clothing during cleanup.",
+                "notes": [
+                    "Use gloves, sturdy shoes, and long sleeves."
+                ]
+            },
+            {
+                "step": "Limit dust exposure during cleanup.",
+                "notes": [
+                    "Wet debris, wear a respirator, and avoid cleanup if you have breathing issues."
+                ]
+            },
+            {
+                "step": "Document damage with photos and contact your insurance provider.",
+                "notes": [
+                    "Take clear, wide-angle shots of structural damage and valuables before moving anything for insurance claims."
+                ]
+            },
+            {
+                "step": "Text or message loved ones to let them know you're safe.",
+                "notes": [
+                    "Avoid phone calls unless it’s an emergency."
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Winter Weather",
+        "disasterType": "winter weather",
+        "description": [
+            "Winter storms can bring extreme cold, snow, ice, and strong winds. They increase risks of accidents, hypothermia, frostbite, and power outages. Children, older adults, sick individuals, and pets are especially vulnerable."
+        ],
+        "imageKey": "winterWeather",
+        "before": [
+            {
+                "step": "Know the alerts",
+                "notes": [
+                    "Winter Storm Warning = Dangerous weather happening soon or now.",
+                    "Winter Storm Watch = Possible severe weather within 1–2 days.",
+                    "Advisory = Less severe, but still risky—be cautious."
+                ]
+            },
+            {
+                "step": "Prepare your home",
+                "notes": [
+                    "Seal windows and doors to keep heat in.",
+                    "Insulate pipes to prevent freezing.",
+                    "Install smoke and carbon monoxide alarms with battery backups."
+                ]
+            },
+            {
+                "step": "Gather supplies",
+                "notes": [
+                    "Stock food, water, flashlights, batteries, medications, and pet items.",
+                    "Have enough for several days without power."
+                ]
+            },
+            {
+                "step": "Prepare your vehicle",
+                "notes": [
+                    "Keep it fueled. Pack blankets, food, water, flashlight, jumper cables, and warm clothes."
+                ]
+            }
+        ],
+        "during": [
+            {
+                "step": "Stay indoors if possible",
+                "notes": [
+                    "Limit outdoor time. If outside, wear warm layers.",
+                    "Watch for signs of frostbite (numbness, pale skin) and hypothermia (shivering, confusion, slurred speech)."
+                ]
+            },
+            {
+                "step": "Avoid overexertion",
+                "notes": [
+                    "Take breaks when shoveling snow. Overexertion can trigger heart problems."
+                ]
+            },
+            {
+                "step": "Use heat safely",
+                "notes": [
+                    "Never use an oven or stove for heat.",
+                    "Use generators only outside, far from windows.",
+                    "Install carbon monoxide detectors."
+                ]
+            },
+            {
+                "step": "If trapped in a car",
+                "notes": [
+                    "Stay inside. Run the engine periodically to stay warm. Keep the exhaust pipe clear of snow."
+                ]
+            }
+        ],
+        "after": [
+            {
+                "step": "Check for hazards",
+                "notes": [
+                    "Watch for fallen power lines, icy surfaces, and damage to your home."
+                ]
+            },
+            {
+                "step": "Avoid carbon monoxide risks",
+                "notes": [
+                    "Continue using generators safely if power is still out."
+                ]
+            },
+            {
+                "step": "Help others",
+                "notes": [
+                    "Check in on neighbors, especially the elderly or those with health conditions."
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Epidemic",
+        "disasterType": "epidemic",
+        "description": [
+            "An epidemic is a sudden increase in the number of cases of an infectious disease in a specific area or population.",
+            "It can disrupt healthcare, strain resources, and lead to illness or death if not properly managed. Preparedness and early action are key to reducing spread and protecting vulnerable groups."
+        ],
+        "imageKey": "epidemic",
+        "before": [
+            {
+                "step": "Stay informed about common diseases and outbreaks.",
+                "notes": [
+                    "Follow official health sources and your local health ministry.",
+                    "Sign up for public health alerts if available."
+                ]
+            },
+            {
+                "step": "Get recommended vaccinations.",
+                "notes": [
+                    "Keep your routine immunizations up to date.",
+                    "During a known epidemic (e.g., flu, measles, COVID-19), get targeted vaccines if eligible."
+                ]
+            },
+            {
+                "step": "Build a personal and household hygiene plan.",
+                "notes": [
+                    "Stock soap, alcohol-based hand sanitizers, disinfectants, tissues, and face masks.",
+                    "Practice regular handwashing and cough/sneeze etiquette."
+                ]
+            },
+            {
+                "step": "Prepare for isolation or quarantine if needed.",
+                "notes": [
+                    "Have at least 14 days’ worth of essential supplies: food, water, medicine, hygiene products.",
+                    "Identify a separate room for isolation in your home, if possible.",
+                    "Plan for remote work or school if closures happen."
+                ]
+            },
+            {
+                "step": "Protect high-risk individuals.",
+                "notes": [
+                    "Create special plans for the elderly, chronically ill, or immunocompromised.",
+                    "Minimize their exposure during peak transmission periods."
+                ]
+            }
+        ],
+        "during": [
+            {
+                "step": "Follow public health instructions strictly.",
+                "notes": [
+                    "Comply with movement restrictions, mask mandates, or stay-at-home orders.",
+                    "Seek testing and treatment through official channels."
+                ]
+            },
+            {
+                "step": "Practice strict hygiene and distancing.",
+                "notes": [
+                    "Wash hands frequently for at least 20 seconds.",
+                    "Avoid touching your face, especially eyes, nose, and mouth.",
+                    "Maintain distance from people, especially in crowded or poorly ventilated areas."
+                ]
+            },
+            {
+                "step": "Monitor your health and symptoms.",
+                "notes": [
+                    "Stay alert for signs of illness (fever, cough, fatigue, loss of smell/taste, etc.).",
+                    "Seek medical advice early if symptoms develop."
+                ]
+            },
+            {
+                "step": "Use masks and protective equipment correctly.",
+                "notes": [
+                    "Wear masks in public settings, especially indoors or around vulnerable people.",
+                    "Do not reuse disposable masks; wash reusable ones properly."
+                ]
+            },
+            {
+                "step": "Support mental and emotional well-being.",
+                "notes": [
+                    "Stay connected with family and friends through digital means.",
+                    "Take breaks from news and focus on daily routines.",
+                    "Reach out for help if feeling overwhelmed or anxious."
+                ]
+            }
+        ],
+        "after": [
+            {
+                "step": "Continue protective habits.",
+                "notes": [
+                    "Maintain hand hygiene and respiratory etiquette.",
+                    "Stay home when sick to prevent future outbreaks."
+                ]
+            },
+            {
+                "step": "Get post-epidemic medical care if needed.",
+                "notes": [
+                    "Check in with healthcare providers for any lingering symptoms or missed appointments.",
+                    "Follow rehabilitation programs if you were seriously affected."
+                ]
+            },
+            {
+                "step": "Reflect and improve household preparedness.",
+                "notes": [
+                    "Restock used supplies and strengthen emergency plans.",
+                    "Discuss lessons learned with your household or community."
+                ]
+            },
+            {
+                "step": "Watch for resurgence or secondary waves.",
+                "notes": [
+                    "Keep monitoring news and updates from health authorities.",
+                    "Be ready to resume precautions if cases rise again."
+                ]
+            }
+        ]
+    }
+]

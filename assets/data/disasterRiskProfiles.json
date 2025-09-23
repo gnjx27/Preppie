@@ -1,0 +1,2176 @@
+{
+  "ISO": {
+    "Country": "Country",
+    "DisasterRiskTypes": [
+      "Disaster Subtype"
+    ]
+  },
+  "DJ": {
+    "Country": "Djibouti",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "thunderstorm"
+    ]
+  },
+  "SD": {
+    "Country": "Sudan",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "heat wave",
+      "thunderstorm"
+    ]
+  },
+  "SO": {
+    "Country": "Somalia",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "thunderstorm",
+      "tsunami"
+    ]
+  },
+  "AO": {
+    "Country": "Angola",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "landslide"
+    ]
+  },
+  "BD": {
+    "Country": "Bangladesh",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "heat wave",
+      "landslide",
+      "thunderstorm",
+      "tornado",
+      "tsunami",
+      "winter weather"
+    ]
+  },
+  "GT": {
+    "Country": "Guatemala",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "landslide",
+      "thunderstorm",
+      "volcano",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "IR": {
+    "Country": "Iran, Islamic Republic of",
+    "DisasterRiskTypes": [
+      "avalanche",
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "sand storm",
+      "thunderstorm",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "MZ": {
+    "Country": "Mozambique",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "landslide",
+      "thunderstorm",
+      "wildfire"
+    ]
+  },
+  "ZA": {
+    "Country": "South Africa",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "heat wave",
+      "thunderstorm",
+      "tornado",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "BR": {
+    "Country": "Brazil",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "heat wave",
+      "landslide",
+      "thunderstorm",
+      "tornado",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "IN": {
+    "Country": "India",
+    "DisasterRiskTypes": [
+      "avalanche",
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "heat wave",
+      "landslide",
+      "sand storm",
+      "thunderstorm",
+      "tornado",
+      "tsunami",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "US": {
+    "Country": "United States",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "heat wave",
+      "hurricane",
+      "landslide",
+      "sand storm",
+      "thunderstorm",
+      "tornado",
+      "volcano",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "RO": {
+    "Country": "Romania",
+    "DisasterRiskTypes": [
+      "drought",
+      "flood",
+      "heat wave",
+      "thunderstorm",
+      "winter weather"
+    ]
+  },
+  "BG": {
+    "Country": "Bulgaria",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "flood",
+      "heat wave",
+      "thunderstorm",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "CN": {
+    "Country": "China",
+    "DisasterRiskTypes": [
+      "avalanche",
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "heat wave",
+      "landslide",
+      "sand storm",
+      "thunderstorm",
+      "tornado",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "RE": {
+    "Country": "R\u00e9union",
+    "DisasterRiskTypes": [
+      "epidemic",
+      "thunderstorm"
+    ]
+  },
+  "PH": {
+    "Country": "Philippines",
+    "DisasterRiskTypes": [
+      "avalanche",
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "heat wave",
+      "landslide",
+      "thunderstorm",
+      "tornado",
+      "volcano"
+    ]
+  },
+  "BW": {
+    "Country": "Botswana",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "thunderstorm"
+    ]
+  },
+  "MN": {
+    "Country": "Mongolia",
+    "DisasterRiskTypes": [
+      "avalanche",
+      "drought",
+      "epidemic",
+      "flood",
+      "sand storm",
+      "thunderstorm",
+      "winter weather"
+    ]
+  },
+  "RU": {
+    "Country": "Russian Federation",
+    "DisasterRiskTypes": [
+      "avalanche",
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "heat wave",
+      "landslide",
+      "thunderstorm",
+      "tornado",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "CG": {
+    "Country": "Congo",
+    "DisasterRiskTypes": [
+      "epidemic",
+      "flood"
+    ]
+  },
+  "AF": {
+    "Country": "Afghanistan",
+    "DisasterRiskTypes": [
+      "avalanche",
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "landslide",
+      "thunderstorm",
+      "winter weather"
+    ]
+  },
+  "ET": {
+    "Country": "Ethiopia",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "landslide",
+      "volcano",
+      "wildfire"
+    ]
+  },
+  "TZ": {
+    "Country": "Tanzania, United Republic of",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "landslide",
+      "thunderstorm",
+      "tsunami"
+    ]
+  },
+  "LS": {
+    "Country": "Lesotho",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "thunderstorm",
+      "tornado"
+    ]
+  },
+  "KE": {
+    "Country": "Kenya",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "landslide",
+      "tsunami"
+    ]
+  },
+  "BA": {
+    "Country": "Bosnia and Herzegovina",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "heat wave",
+      "landslide",
+      "thunderstorm",
+      "winter weather"
+    ]
+  },
+  "IS": {
+    "Country": "Iceland",
+    "DisasterRiskTypes": [
+      "earthquake",
+      "heat wave",
+      "volcano"
+    ]
+  },
+  "NA": {
+    "Country": "Namibia",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood"
+    ]
+  },
+  "CO": {
+    "Country": "Colombia",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "landslide",
+      "thunderstorm",
+      "tornado",
+      "volcano",
+      "wildfire"
+    ]
+  },
+  "ID": {
+    "Country": "Indonesia",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "landslide",
+      "thunderstorm",
+      "tornado",
+      "tsunami",
+      "volcano",
+      "wildfire"
+    ]
+  },
+  "ZW": {
+    "Country": "Zimbabwe",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "thunderstorm"
+    ]
+  },
+  "EG": {
+    "Country": "Egypt",
+    "DisasterRiskTypes": [
+      "earthquake",
+      "epidemic",
+      "flood",
+      "heat wave",
+      "thunderstorm",
+      "winter weather"
+    ]
+  },
+  "IL": {
+    "Country": "Israel",
+    "DisasterRiskTypes": [
+      "epidemic",
+      "flood",
+      "heat wave",
+      "sand storm",
+      "thunderstorm",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "JO": {
+    "Country": "Jordan",
+    "DisasterRiskTypes": [
+      "drought",
+      "flood",
+      "heat wave",
+      "thunderstorm",
+      "winter weather"
+    ]
+  },
+  "SZ": {
+    "Country": "Eswatini",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "thunderstorm",
+      "wildfire"
+    ]
+  },
+  "AU": {
+    "Country": "Australia",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "heat wave",
+      "thunderstorm",
+      "tornado",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "ZM": {
+    "Country": "Zambia",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "landslide"
+    ]
+  },
+  "MG": {
+    "Country": "Madagascar",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "thunderstorm"
+    ]
+  },
+  "NG": {
+    "Country": "Nigeria",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "heat wave",
+      "landslide",
+      "thunderstorm"
+    ]
+  },
+  "AR": {
+    "Country": "Argentina",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "landslide",
+      "thunderstorm",
+      "volcano",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "MW": {
+    "Country": "Malawi",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "landslide",
+      "thunderstorm"
+    ]
+  },
+  "PK": {
+    "Country": "Pakistan",
+    "DisasterRiskTypes": [
+      "avalanche",
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "heat wave",
+      "landslide",
+      "thunderstorm",
+      "tornado",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "CD": {
+    "Country": "Congo, The Democratic Republic of the",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "landslide",
+      "thunderstorm",
+      "tornado",
+      "volcano",
+      "wildfire"
+    ]
+  },
+  "PE": {
+    "Country": "Peru",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "landslide",
+      "thunderstorm",
+      "tsunami",
+      "volcano",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "BO": {
+    "Country": "Bolivia, Plurinational State of",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "heat wave",
+      "landslide",
+      "thunderstorm",
+      "volcano",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "TD": {
+    "Country": "Chad",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "landslide",
+      "thunderstorm"
+    ]
+  },
+  "AT": {
+    "Country": "Austria",
+    "DisasterRiskTypes": [
+      "avalanche",
+      "flood",
+      "heat wave",
+      "thunderstorm",
+      "winter weather"
+    ]
+  },
+  "NE": {
+    "Country": "Niger",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "thunderstorm"
+    ]
+  },
+  "MY": {
+    "Country": "Malaysia",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "landslide",
+      "thunderstorm",
+      "tsunami",
+      "wildfire"
+    ]
+  },
+  "CM": {
+    "Country": "Cameroon",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "landslide"
+    ]
+  },
+  "CZ": {
+    "Country": "Czechia",
+    "DisasterRiskTypes": [
+      "flood",
+      "heat wave",
+      "hurricane",
+      "thunderstorm",
+      "winter weather"
+    ]
+  },
+  "JP": {
+    "Country": "Japan",
+    "DisasterRiskTypes": [
+      "earthquake",
+      "flood",
+      "heat wave",
+      "landslide",
+      "thunderstorm",
+      "tornado",
+      "tsunami",
+      "volcano",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "CF": {
+    "Country": "Central African Republic",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "thunderstorm",
+      "wildfire"
+    ]
+  },
+  "BJ": {
+    "Country": "Benin",
+    "DisasterRiskTypes": [
+      "epidemic",
+      "flood",
+      "thunderstorm",
+      "wildfire"
+    ]
+  },
+  "TR": {
+    "Country": "T\u00fcrkiye",
+    "DisasterRiskTypes": [
+      "avalanche",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "heat wave",
+      "landslide",
+      "thunderstorm",
+      "tornado",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "HU": {
+    "Country": "Hungary",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "flood",
+      "heat wave",
+      "thunderstorm",
+      "winter weather"
+    ]
+  },
+  "KR": {
+    "Country": "Korea, Republic of",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "heat wave",
+      "landslide",
+      "thunderstorm",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "SCG": {
+    "Country": "Serbia Montenegro",
+    "DisasterRiskTypes": [
+      "earthquake",
+      "epidemic",
+      "flood",
+      "heat wave",
+      "winter weather"
+    ]
+  },
+  "EC": {
+    "Country": "Ecuador",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "landslide",
+      "volcano",
+      "wildfire"
+    ]
+  },
+  "SA": {
+    "Country": "Saudi Arabia",
+    "DisasterRiskTypes": [
+      "epidemic",
+      "flood",
+      "heat wave",
+      "winter weather"
+    ]
+  },
+  "HN": {
+    "Country": "Honduras",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "thunderstorm",
+      "wildfire"
+    ]
+  },
+  "GF": {
+    "Country": "French Guiana",
+    "DisasterRiskTypes": [
+      "flood",
+      "landslide"
+    ]
+  },
+  "KZ": {
+    "Country": "Kazakhstan",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "landslide",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "BI": {
+    "Country": "Burundi",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "landslide",
+      "thunderstorm"
+    ]
+  },
+  "FM": {
+    "Country": "Micronesia, Federated States of",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "thunderstorm"
+    ]
+  },
+  "GB": {
+    "Country": "United Kingdom",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "heat wave",
+      "thunderstorm",
+      "winter weather"
+    ]
+  },
+  "BY": {
+    "Country": "Belarus",
+    "DisasterRiskTypes": [
+      "flood",
+      "thunderstorm",
+      "winter weather"
+    ]
+  },
+  "UY": {
+    "Country": "Uruguay",
+    "DisasterRiskTypes": [
+      "drought",
+      "flood",
+      "thunderstorm",
+      "winter weather"
+    ]
+  },
+  "MX": {
+    "Country": "Mexico",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "heat wave",
+      "landslide",
+      "thunderstorm",
+      "tornado",
+      "volcano",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "GR": {
+    "Country": "Greece",
+    "DisasterRiskTypes": [
+      "earthquake",
+      "flood",
+      "heat wave",
+      "thunderstorm",
+      "tornado",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "CL": {
+    "Country": "Chile",
+    "DisasterRiskTypes": [
+      "earthquake",
+      "flood",
+      "landslide",
+      "thunderstorm",
+      "tsunami",
+      "volcano",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "LR": {
+    "Country": "Liberia",
+    "DisasterRiskTypes": [
+      "epidemic",
+      "flood",
+      "thunderstorm"
+    ]
+  },
+  "HR": {
+    "Country": "Croatia",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "flood",
+      "heat wave",
+      "thunderstorm",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "CY": {
+    "Country": "Cyprus",
+    "DisasterRiskTypes": [
+      "drought",
+      "flood",
+      "heat wave",
+      "thunderstorm",
+      "tornado",
+      "wildfire"
+    ]
+  },
+  "UA": {
+    "Country": "Ukraine",
+    "DisasterRiskTypes": [
+      "drought",
+      "flood",
+      "thunderstorm",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "NI": {
+    "Country": "Nicaragua",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "landslide",
+      "thunderstorm",
+      "tornado",
+      "wildfire"
+    ]
+  },
+  "FR": {
+    "Country": "France",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "flood",
+      "heat wave",
+      "thunderstorm",
+      "tornado",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "ES": {
+    "Country": "Spain",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "heat wave",
+      "thunderstorm",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "VN": {
+    "Country": "Viet Nam",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "heat wave",
+      "landslide",
+      "thunderstorm",
+      "tornado",
+      "wildfire"
+    ]
+  },
+  "UG": {
+    "Country": "Uganda",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "landslide",
+      "thunderstorm"
+    ]
+  },
+  "SL": {
+    "Country": "Sierra Leone",
+    "DisasterRiskTypes": [
+      "epidemic",
+      "flood",
+      "landslide",
+      "thunderstorm",
+      "wildfire"
+    ]
+  },
+  "CR": {
+    "Country": "Costa Rica",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "landslide",
+      "thunderstorm",
+      "volcano"
+    ]
+  },
+  "LA": {
+    "Country": "Lao People's Democratic Republic",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "heat wave",
+      "thunderstorm"
+    ]
+  },
+  "TH": {
+    "Country": "Thailand",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "heat wave",
+      "landslide",
+      "thunderstorm",
+      "tsunami",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "CA": {
+    "Country": "Canada",
+    "DisasterRiskTypes": [
+      "epidemic",
+      "flood",
+      "heat wave",
+      "hurricane",
+      "thunderstorm",
+      "tornado",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "KH": {
+    "Country": "Cambodia",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "heat wave",
+      "thunderstorm"
+    ]
+  },
+  "NP": {
+    "Country": "Nepal",
+    "DisasterRiskTypes": [
+      "avalanche",
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "landslide",
+      "thunderstorm",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "BT": {
+    "Country": "Bhutan",
+    "DisasterRiskTypes": [
+      "earthquake",
+      "flood",
+      "thunderstorm"
+    ]
+  },
+  "PY": {
+    "Country": "Paraguay",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "thunderstorm",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "MA": {
+    "Country": "Morocco",
+    "DisasterRiskTypes": [
+      "earthquake",
+      "flood",
+      "heat wave",
+      "landslide",
+      "thunderstorm",
+      "winter weather"
+    ]
+  },
+  "IE": {
+    "Country": "Ireland",
+    "DisasterRiskTypes": [
+      "epidemic",
+      "flood",
+      "heat wave",
+      "thunderstorm"
+    ]
+  },
+  "TW": {
+    "Country": "Taiwan, Province of China",
+    "DisasterRiskTypes": [
+      "earthquake",
+      "flood",
+      "thunderstorm",
+      "winter weather"
+    ]
+  },
+  "RW": {
+    "Country": "Rwanda",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "landslide",
+      "thunderstorm",
+      "volcano"
+    ]
+  },
+  "SK": {
+    "Country": "Slovakia",
+    "DisasterRiskTypes": [
+      "flood",
+      "heat wave",
+      "hurricane",
+      "thunderstorm",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "ML": {
+    "Country": "Mali",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood"
+    ]
+  },
+  "NZ": {
+    "Country": "New Zealand",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "flood",
+      "heat wave",
+      "thunderstorm",
+      "tornado",
+      "tsunami",
+      "volcano",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "LV": {
+    "Country": "Latvia",
+    "DisasterRiskTypes": [
+      "epidemic",
+      "flood",
+      "heat wave",
+      "thunderstorm",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "KP": {
+    "Country": "Korea, Democratic People's Republic of",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "heat wave",
+      "thunderstorm"
+    ]
+  },
+  "IT": {
+    "Country": "Italy",
+    "DisasterRiskTypes": [
+      "avalanche",
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "heat wave",
+      "landslide",
+      "thunderstorm",
+      "volcano",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "SV": {
+    "Country": "El Salvador",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "landslide",
+      "thunderstorm",
+      "volcano",
+      "winter weather"
+    ]
+  },
+  "LK": {
+    "Country": "Sri Lanka",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "landslide",
+      "thunderstorm",
+      "tsunami"
+    ]
+  },
+  "YE": {
+    "Country": "Yemen",
+    "DisasterRiskTypes": [
+      "epidemic",
+      "flood",
+      "landslide",
+      "thunderstorm",
+      "volcano"
+    ]
+  },
+  "PA": {
+    "Country": "Panama",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "thunderstorm",
+      "wildfire"
+    ]
+  },
+  "MK": {
+    "Country": "North Macedonia",
+    "DisasterRiskTypes": [
+      "earthquake",
+      "epidemic",
+      "flood",
+      "heat wave",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "BZ": {
+    "Country": "Belize",
+    "DisasterRiskTypes": [
+      "flood",
+      "thunderstorm",
+      "wildfire"
+    ]
+  },
+  "VE": {
+    "Country": "Venezuela, Bolivarian Republic of",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "landslide",
+      "thunderstorm"
+    ]
+  },
+  "CH": {
+    "Country": "Switzerland",
+    "DisasterRiskTypes": [
+      "avalanche",
+      "flood",
+      "heat wave",
+      "landslide",
+      "thunderstorm",
+      "winter weather"
+    ]
+  },
+  "SG": {
+    "Country": "Singapore",
+    "DisasterRiskTypes": [
+      "epidemic"
+    ]
+  },
+  "KG": {
+    "Country": "Kyrgyzstan",
+    "DisasterRiskTypes": [
+      "avalanche",
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "heat wave",
+      "landslide",
+      "thunderstorm",
+      "winter weather"
+    ]
+  },
+  "NO": {
+    "Country": "Norway",
+    "DisasterRiskTypes": [
+      "flood",
+      "heat wave",
+      "landslide",
+      "thunderstorm"
+    ]
+  },
+  "DZ": {
+    "Country": "Algeria",
+    "DisasterRiskTypes": [
+      "earthquake",
+      "epidemic",
+      "flood",
+      "heat wave",
+      "thunderstorm",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "GN": {
+    "Country": "Guinea",
+    "DisasterRiskTypes": [
+      "epidemic",
+      "flood",
+      "landslide",
+      "wildfire"
+    ]
+  },
+  "TJ": {
+    "Country": "Tajikistan",
+    "DisasterRiskTypes": [
+      "avalanche",
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "landslide",
+      "thunderstorm",
+      "winter weather"
+    ]
+  },
+  "PG": {
+    "Country": "Papua New Guinea",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "landslide",
+      "thunderstorm",
+      "volcano"
+    ]
+  },
+  "AZ": {
+    "Country": "Azerbaijan",
+    "DisasterRiskTypes": [
+      "avalanche",
+      "drought",
+      "earthquake",
+      "flood",
+      "winter weather"
+    ]
+  },
+  "HT": {
+    "Country": "Haiti",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "landslide",
+      "thunderstorm"
+    ]
+  },
+  "MD": {
+    "Country": "Moldova, Republic of",
+    "DisasterRiskTypes": [
+      "drought",
+      "flood",
+      "winter weather"
+    ]
+  },
+  "TM": {
+    "Country": "Turkmenistan",
+    "DisasterRiskTypes": [
+      "earthquake"
+    ]
+  },
+  "PT": {
+    "Country": "Portugal",
+    "DisasterRiskTypes": [
+      "drought",
+      "flood",
+      "heat wave",
+      "thunderstorm",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "PL": {
+    "Country": "Poland",
+    "DisasterRiskTypes": [
+      "drought",
+      "flood",
+      "heat wave",
+      "hurricane",
+      "thunderstorm",
+      "tornado",
+      "winter weather"
+    ]
+  },
+  "MH": {
+    "Country": "Marshall Islands",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "thunderstorm"
+    ]
+  },
+  "CU": {
+    "Country": "Cuba",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "flood",
+      "thunderstorm",
+      "tornado"
+    ]
+  },
+  "GM": {
+    "Country": "Gambia",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "thunderstorm"
+    ]
+  },
+  "JM": {
+    "Country": "Jamaica",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "thunderstorm"
+    ]
+  },
+  "UZ": {
+    "Country": "Uzbekistan",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "flood",
+      "landslide"
+    ]
+  },
+  "AM": {
+    "Country": "Armenia",
+    "DisasterRiskTypes": [
+      "drought",
+      "flood",
+      "landslide",
+      "thunderstorm",
+      "winter weather"
+    ]
+  },
+  "GE": {
+    "Country": "Georgia",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "flood",
+      "landslide",
+      "thunderstorm"
+    ]
+  },
+  "BF": {
+    "Country": "Burkina Faso",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood"
+    ]
+  },
+  "VU": {
+    "Country": "Vanuatu",
+    "DisasterRiskTypes": [
+      "earthquake",
+      "epidemic",
+      "flood",
+      "thunderstorm",
+      "volcano"
+    ]
+  },
+  "SY": {
+    "Country": "Syrian Arab Republic",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "landslide",
+      "sand storm",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "TG": {
+    "Country": "Togo",
+    "DisasterRiskTypes": [
+      "epidemic",
+      "flood"
+    ]
+  },
+  "GH": {
+    "Country": "Ghana",
+    "DisasterRiskTypes": [
+      "epidemic",
+      "flood",
+      "thunderstorm"
+    ]
+  },
+  "WS": {
+    "Country": "Samoa",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "thunderstorm",
+      "tsunami"
+    ]
+  },
+  "PR": {
+    "Country": "Puerto Rico",
+    "DisasterRiskTypes": [
+      "earthquake",
+      "flood",
+      "thunderstorm"
+    ]
+  },
+  "TL": {
+    "Country": "Timor-Leste",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "thunderstorm"
+    ]
+  },
+  "SH": {
+    "Country": "Saint Helena, Ascension and Tristan da Cunha",
+    "DisasterRiskTypes": [
+      "thunderstorm"
+    ]
+  },
+  "DE": {
+    "Country": "Germany",
+    "DisasterRiskTypes": [
+      "earthquake",
+      "epidemic",
+      "flood",
+      "heat wave",
+      "thunderstorm",
+      "winter weather"
+    ]
+  },
+  "CI": {
+    "Country": "C\u00f4te d'Ivoire",
+    "DisasterRiskTypes": [
+      "epidemic",
+      "flood",
+      "landslide"
+    ]
+  },
+  "MR": {
+    "Country": "Mauritania",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "thunderstorm"
+    ]
+  },
+  "DO": {
+    "Country": "Dominican Republic",
+    "DisasterRiskTypes": [
+      "earthquake",
+      "epidemic",
+      "flood",
+      "thunderstorm",
+      "wildfire"
+    ]
+  },
+  "KY": {
+    "Country": "Cayman Islands",
+    "DisasterRiskTypes": [
+      "thunderstorm"
+    ]
+  },
+  "SPI": {
+    "Country": "Canary Islands",
+    "DisasterRiskTypes": [
+      "flood",
+      "heat wave",
+      "thunderstorm",
+      "volcano",
+      "wildfire"
+    ]
+  },
+  "CK": {
+    "Country": "Cook Islands",
+    "DisasterRiskTypes": [
+      "epidemic",
+      "thunderstorm"
+    ]
+  },
+  "GA": {
+    "Country": "Gabon",
+    "DisasterRiskTypes": [
+      "epidemic",
+      "flood",
+      "thunderstorm",
+      "tornado"
+    ]
+  },
+  "BS": {
+    "Country": "Bahamas",
+    "DisasterRiskTypes": [
+      "flood",
+      "thunderstorm"
+    ]
+  },
+  "TO": {
+    "Country": "Tonga",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "thunderstorm",
+      "tsunami",
+      "volcano"
+    ]
+  },
+  "LT": {
+    "Country": "Lithuania",
+    "DisasterRiskTypes": [
+      "drought",
+      "flood",
+      "heat wave",
+      "thunderstorm",
+      "winter weather"
+    ]
+  },
+  "MM": {
+    "Country": "Myanmar",
+    "DisasterRiskTypes": [
+      "earthquake",
+      "epidemic",
+      "flood",
+      "heat wave",
+      "landslide",
+      "thunderstorm",
+      "tornado",
+      "tsunami"
+    ]
+  },
+  "AL": {
+    "Country": "Albania",
+    "DisasterRiskTypes": [
+      "earthquake",
+      "epidemic",
+      "flood",
+      "heat wave",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "SN": {
+    "Country": "Senegal",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "thunderstorm"
+    ]
+  },
+  "MU": {
+    "Country": "Mauritius",
+    "DisasterRiskTypes": [
+      "epidemic",
+      "flood",
+      "thunderstorm"
+    ]
+  },
+  "BE": {
+    "Country": "Belgium",
+    "DisasterRiskTypes": [
+      "flood",
+      "heat wave",
+      "thunderstorm",
+      "winter weather"
+    ]
+  },
+  "SE": {
+    "Country": "Sweden",
+    "DisasterRiskTypes": [
+      "epidemic",
+      "flood",
+      "heat wave",
+      "thunderstorm",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "GU": {
+    "Country": "Guam",
+    "DisasterRiskTypes": [
+      "thunderstorm"
+    ]
+  },
+  "SC": {
+    "Country": "Seychelles",
+    "DisasterRiskTypes": [
+      "epidemic",
+      "flood",
+      "thunderstorm",
+      "tsunami"
+    ]
+  },
+  "BB": {
+    "Country": "Barbados",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "thunderstorm"
+    ]
+  },
+  "GD": {
+    "Country": "Grenada",
+    "DisasterRiskTypes": [
+      "drought",
+      "thunderstorm"
+    ]
+  },
+  "VC": {
+    "Country": "Saint Vincent and the Grenadines",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "thunderstorm",
+      "volcano"
+    ]
+  },
+  "NL": {
+    "Country": "Netherlands",
+    "DisasterRiskTypes": [
+      "flood",
+      "heat wave",
+      "thunderstorm",
+      "winter weather"
+    ]
+  },
+  "DK": {
+    "Country": "Denmark",
+    "DisasterRiskTypes": [
+      "heat wave",
+      "thunderstorm",
+      "winter weather"
+    ]
+  },
+  "LB": {
+    "Country": "Lebanon",
+    "DisasterRiskTypes": [
+      "epidemic",
+      "flood",
+      "sand storm",
+      "thunderstorm",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "SB": {
+    "Country": "Solomon Islands",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "thunderstorm",
+      "tsunami"
+    ]
+  },
+  "MP": {
+    "Country": "Northern Mariana Islands",
+    "DisasterRiskTypes": [
+      "thunderstorm",
+      "volcano"
+    ]
+  },
+  "GW": {
+    "Country": "Guinea-Bissau",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "thunderstorm"
+    ]
+  },
+  "CV": {
+    "Country": "Cabo Verde",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "thunderstorm",
+      "volcano"
+    ]
+  },
+  "FJ": {
+    "Country": "Fiji",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "thunderstorm"
+    ]
+  },
+  "TN": {
+    "Country": "Tunisia",
+    "DisasterRiskTypes": [
+      "flood",
+      "wildfire"
+    ]
+  },
+  "NC": {
+    "Country": "New Caledonia",
+    "DisasterRiskTypes": [
+      "epidemic",
+      "thunderstorm"
+    ]
+  },
+  "OM": {
+    "Country": "Oman",
+    "DisasterRiskTypes": [
+      "flood",
+      "thunderstorm"
+    ]
+  },
+  "IQ": {
+    "Country": "Iraq",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "sand storm"
+    ]
+  },
+  "AS": {
+    "Country": "American Samoa",
+    "DisasterRiskTypes": [
+      "flood",
+      "thunderstorm",
+      "tsunami"
+    ]
+  },
+  "HK": {
+    "Country": "Hong Kong",
+    "DisasterRiskTypes": [
+      "flood",
+      "thunderstorm"
+    ]
+  },
+  "ER": {
+    "Country": "Eritrea",
+    "DisasterRiskTypes": [
+      "drought",
+      "flood"
+    ]
+  },
+  "LU": {
+    "Country": "Luxembourg",
+    "DisasterRiskTypes": [
+      "flood",
+      "heat wave",
+      "thunderstorm",
+      "tornado"
+    ]
+  },
+  "SI": {
+    "Country": "Slovenia",
+    "DisasterRiskTypes": [
+      "earthquake",
+      "flood",
+      "heat wave",
+      "thunderstorm",
+      "winter weather"
+    ]
+  },
+  "BM": {
+    "Country": "Bermuda",
+    "DisasterRiskTypes": [
+      "thunderstorm"
+    ]
+  },
+  "KM": {
+    "Country": "Comoros",
+    "DisasterRiskTypes": [
+      "earthquake",
+      "epidemic",
+      "flood",
+      "thunderstorm",
+      "volcano"
+    ]
+  },
+  "NU": {
+    "Country": "Niue",
+    "DisasterRiskTypes": [
+      "thunderstorm"
+    ]
+  },
+  "TC": {
+    "Country": "Turks and Caicos Islands",
+    "DisasterRiskTypes": [
+      "thunderstorm"
+    ]
+  },
+  "LC": {
+    "Country": "Saint Lucia",
+    "DisasterRiskTypes": [
+      "drought",
+      "earthquake",
+      "epidemic",
+      "flood",
+      "thunderstorm"
+    ]
+  },
+  "TT": {
+    "Country": "Trinidad and Tobago",
+    "DisasterRiskTypes": [
+      "drought",
+      "flood",
+      "landslide",
+      "thunderstorm"
+    ]
+  },
+  "VI": {
+    "Country": "Virgin Islands, U.S.",
+    "DisasterRiskTypes": [
+      "thunderstorm"
+    ]
+  },
+  "DM": {
+    "Country": "Dominica",
+    "DisasterRiskTypes": [
+      "earthquake",
+      "thunderstorm"
+    ]
+  },
+  "GP": {
+    "Country": "Guadeloupe",
+    "DisasterRiskTypes": [
+      "earthquake",
+      "epidemic",
+      "thunderstorm"
+    ]
+  },
+  "MV": {
+    "Country": "Maldives",
+    "DisasterRiskTypes": [
+      "epidemic",
+      "flood",
+      "thunderstorm",
+      "tsunami"
+    ]
+  },
+  "GQ": {
+    "Country": "Equatorial Guinea",
+    "DisasterRiskTypes": [
+      "epidemic"
+    ]
+  },
+  "EE": {
+    "Country": "Estonia",
+    "DisasterRiskTypes": [
+      "heat wave",
+      "thunderstorm",
+      "winter weather"
+    ]
+  },
+  "GY": {
+    "Country": "Guyana",
+    "DisasterRiskTypes": [
+      "drought",
+      "flood"
+    ]
+  },
+  "TK": {
+    "Country": "Tokelau",
+    "DisasterRiskTypes": [
+      "thunderstorm"
+    ]
+  },
+  "FI": {
+    "Country": "Finland",
+    "DisasterRiskTypes": [
+      "flood",
+      "heat wave"
+    ]
+  },
+  "ST": {
+    "Country": "Sao Tome and Principe",
+    "DisasterRiskTypes": [
+      "epidemic",
+      "flood"
+    ]
+  },
+  "SR": {
+    "Country": "Suriname",
+    "DisasterRiskTypes": [
+      "flood"
+    ]
+  },
+  "MS": {
+    "Country": "Montserrat",
+    "DisasterRiskTypes": [
+      "volcano"
+    ]
+  },
+  "RS": {
+    "Country": "Serbia",
+    "DisasterRiskTypes": [
+      "earthquake",
+      "flood",
+      "heat wave",
+      "thunderstorm",
+      "winter weather"
+    ]
+  },
+  "MQ": {
+    "Country": "Martinique",
+    "DisasterRiskTypes": [
+      "earthquake",
+      "epidemic",
+      "thunderstorm"
+    ]
+  },
+  "ME": {
+    "Country": "Montenegro",
+    "DisasterRiskTypes": [
+      "flood",
+      "heat wave",
+      "wildfire",
+      "winter weather"
+    ]
+  },
+  "SS": {
+    "Country": "South Sudan",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "flood",
+      "wildfire"
+    ]
+  },
+  "KI": {
+    "Country": "Kiribati",
+    "DisasterRiskTypes": [
+      "flood",
+      "thunderstorm"
+    ]
+  },
+  "AG": {
+    "Country": "Antigua and Barbuda",
+    "DisasterRiskTypes": [
+      "thunderstorm"
+    ]
+  },
+  "KN": {
+    "Country": "Saint Kitts and Nevis",
+    "DisasterRiskTypes": [
+      "thunderstorm"
+    ]
+  },
+  "PS": {
+    "Country": "Palestine, State of",
+    "DisasterRiskTypes": [
+      "flood",
+      "winter weather"
+    ]
+  },
+  "PF": {
+    "Country": "French Polynesia",
+    "DisasterRiskTypes": [
+      "flood",
+      "thunderstorm"
+    ]
+  },
+  "TV": {
+    "Country": "Tuvalu",
+    "DisasterRiskTypes": [
+      "drought",
+      "thunderstorm"
+    ]
+  },
+  "WF": {
+    "Country": "Wallis and Futuna",
+    "DisasterRiskTypes": [
+      "thunderstorm"
+    ]
+  },
+  "PW": {
+    "Country": "Palau",
+    "DisasterRiskTypes": [
+      "drought",
+      "epidemic",
+      "thunderstorm"
+    ]
+  },
+  "LY": {
+    "Country": "Libya",
+    "DisasterRiskTypes": [
+      "flood",
+      "thunderstorm"
+    ]
+  },
+  "MO": {
+    "Country": "Macao",
+    "DisasterRiskTypes": [
+      "thunderstorm"
+    ]
+  },
+  "AI": {
+    "Country": "Anguilla",
+    "DisasterRiskTypes": [
+      "thunderstorm"
+    ]
+  },
+  "BL": {
+    "Country": "Saint Barth\u00e9lemy",
+    "DisasterRiskTypes": [
+      "thunderstorm"
+    ]
+  },
+  "MF": {
+    "Country": "Saint Martin (French part)",
+    "DisasterRiskTypes": [
+      "thunderstorm"
+    ]
+  },
+  "SX": {
+    "Country": "Sint Maarten (Dutch part)",
+    "DisasterRiskTypes": [
+      "thunderstorm"
+    ]
+  },
+  "VG": {
+    "Country": "Virgin Islands, British",
+    "DisasterRiskTypes": [
+      "thunderstorm"
+    ]
+  },
+  "AE": {
+    "Country": "United Arab Emirates",
+    "DisasterRiskTypes": [
+      "flood"
+    ]
+  },
+  "QA": {
+    "Country": "Qatar",
+    "DisasterRiskTypes": [
+      "flood"
+    ]
+  },
+  "KW": {
+    "Country": "Kuwait",
+    "DisasterRiskTypes": [
+      "flood"
+    ]
+  },
+  "MT": {
+    "Country": "Malta",
+    "DisasterRiskTypes": [
+      "heat wave"
+    ]
+  },
+  "LI": {
+    "Country": "Liechtenstein",
+    "DisasterRiskTypes": [
+      "heat wave"
+    ]
+  },
+  "YT": {
+    "Country": "Mayotte",
+    "DisasterRiskTypes": [
+      "thunderstorm"
+    ]
+  }
+}

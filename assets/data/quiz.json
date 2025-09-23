@@ -1,0 +1,2905 @@
+[
+    {
+        "title": "Avalanche Awareness Quiz",
+        "type": "disaster",
+        "disasterType": "avalanche",
+        "questions": [
+            {
+                "question": "Which slopes are most prone to avalanches?",
+                "options": [
+                    {
+                        "text": "30–45 degree slopes",
+                        "isCorrect": true,
+                        "explanation": "Slopes between 30–45° are the most unstable and likely to slide."
+                    },
+                    {
+                        "text": "Flat slopes",
+                        "isCorrect": false,
+                        "explanation": "Flat areas generally do not avalanche."
+                    },
+                    {
+                        "text": "Slopes above 60 degrees",
+                        "isCorrect": false,
+                        "explanation": "Steep slopes may shed snow constantly, but typical avalanches occur on 30–45°."
+                    },
+                    {
+                        "text": "Only forested slopes",
+                        "isCorrect": false,
+                        "explanation": "Forests can reduce avalanche risk, not increase it."
+                    }
+                ]
+            },
+            {
+                "question": "What safety equipment should you carry in avalanche-prone areas?",
+                "options": [
+                    {
+                        "text": "Helmet",
+                        "isCorrect": true,
+                        "explanation": "Protects your head from impact."
+                    },
+                    {
+                        "text": "Beacon",
+                        "isCorrect": true,
+                        "explanation": "Helps rescuers locate you under snow."
+                    },
+                    {
+                        "text": "Probe",
+                        "isCorrect": true,
+                        "explanation": "Used to pinpoint buried individuals."
+                    },
+                    {
+                        "text": "Shovel",
+                        "isCorrect": true,
+                        "explanation": "Essential for digging out snow quickly."
+                    },
+                    {
+                        "text": "Airbag",
+                        "isCorrect": true,
+                        "explanation": "Helps keep you on the surface during an avalanche."
+                    },
+                    {
+                        "text": "First aid kit",
+                        "isCorrect": true,
+                        "explanation": "Treat injuries while waiting for rescue."
+                    },
+                    {
+                        "text": "Sunglasses",
+                        "isCorrect": false,
+                        "explanation": "Useful for sun protection but not critical for avalanche safety."
+                    }
+                ]
+            },
+            {
+                "question": "If caught in an avalanche, what should you do?",
+                "options": [
+                    {
+                        "text": "Try to stay on the surface",
+                        "isCorrect": true,
+                        "explanation": "Staying near the surface increases survival chances."
+                    },
+                    {
+                        "text": "Create an air pocket near your face",
+                        "isCorrect": true,
+                        "explanation": "Allows you to breathe if buried."
+                    },
+                    {
+                        "text": "Swim motion to stay afloat",
+                        "isCorrect": false,
+                        "explanation": "Not all experts recommend swimming; focus on staying near the surface."
+                    },
+                    {
+                        "text": "Curl into a ball and stay still",
+                        "isCorrect": false,
+                        "explanation": "Could reduce survival chances compared to creating an air pocket."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Drought Awareness Quiz",
+        "type": "disaster",
+        "disasterType": "drought",
+        "questions": [
+            {
+                "question": "How can you prepare for a drought?",
+                "options": [
+                    {
+                        "text": "Conserve water daily",
+                        "isCorrect": true,
+                        "explanation": "Daily habits reduce strain on local water supplies."
+                    },
+                    {
+                        "text": "Fix leaks",
+                        "isCorrect": true,
+                        "explanation": "Leaking water wastes valuable resources."
+                    },
+                    {
+                        "text": "Plant drought-tolerant plants",
+                        "isCorrect": true,
+                        "explanation": "Reduces outdoor water usage."
+                    },
+                    {
+                        "text": "Use inefficient appliances",
+                        "isCorrect": false,
+                        "explanation": "Inefficient appliances waste water."
+                    },
+                    {
+                        "text": "Ignore water-saving tips",
+                        "isCorrect": false,
+                        "explanation": "Ignoring advice worsens drought impact."
+                    }
+                ]
+            },
+            {
+                "question": "What should you do during a drought?",
+                "options": [
+                    {
+                        "text": "Follow water use restrictions",
+                        "isCorrect": true,
+                        "explanation": "Rules help conserve local water supply."
+                    },
+                    {
+                        "text": "Take long showers frequently",
+                        "isCorrect": false,
+                        "explanation": "Wastes water unnecessarily."
+                    },
+                    {
+                        "text": "Water lawns in the early morning or late evening",
+                        "isCorrect": true,
+                        "explanation": "Reduces evaporation and saves water."
+                    },
+                    {
+                        "text": "Leave sprinklers running all day",
+                        "isCorrect": false,
+                        "explanation": "Wastes water and may violate restrictions."
+                    },
+                    {
+                        "text": "Turn off taps when not in use",
+                        "isCorrect": true,
+                        "explanation": "Simple way to save water daily."
+                    }
+                ]
+            },
+            {
+                "question": "After a drought, how can you continue to help conserve water?",
+                "options": [
+                    {
+                        "text": "Maintain water-saving habits",
+                        "isCorrect": true,
+                        "explanation": "Consistency prevents future shortages."
+                    },
+                    {
+                        "text": "Stay informed about local water conditions",
+                        "isCorrect": true,
+                        "explanation": "Updates help you comply with restrictions."
+                    },
+                    {
+                        "text": "Return to old high water usage immediately",
+                        "isCorrect": false,
+                        "explanation": "Reverting habits wastes water and risks shortages."
+                    },
+                    {
+                        "text": "Fix leaks promptly",
+                        "isCorrect": true,
+                        "explanation": "Prevents ongoing water waste."
+                    },
+                    {
+                        "text": "Use water inefficiently for fun",
+                        "isCorrect": false,
+                        "explanation": "Unsafe and wasteful."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Earthquake Safety Quiz",
+        "type": "disaster",
+        "disasterType": "earthquake",
+        "questions": [
+            {
+                "question": "What should you do to prepare for an earthquake?",
+                "options": [
+                    {
+                        "text": "Practice earthquake safety",
+                        "isCorrect": true,
+                        "explanation": "Knowing what to do reduces injuries."
+                    },
+                    {
+                        "text": "Make an emergency plan",
+                        "isCorrect": true,
+                        "explanation": "Planning ahead helps you respond effectively."
+                    },
+                    {
+                        "text": "Prepare your home",
+                        "isCorrect": true,
+                        "explanation": "Securing heavy furniture and appliances can prevent damage."
+                    },
+                    {
+                        "text": "Stand under a tree",
+                        "isCorrect": false,
+                        "explanation": "Trees can fall during earthquakes, causing injury."
+                    },
+                    {
+                        "text": "Leave doors open at all times",
+                        "isCorrect": false,
+                        "explanation": "Doors can swing and cause injuries during shaking."
+                    },
+                    {
+                        "text": "Fill your bathtub with water daily",
+                        "isCorrect": false,
+                        "explanation": "This is not a necessary preparation for earthquakes."
+                    }
+                ]
+            },
+            {
+                "question": "What should your supply kit contain?",
+                "options": [
+                    {
+                        "text": "Food",
+                        "isCorrect": true,
+                        "explanation": "Non-perishable food is essential for emergencies."
+                    },
+                    {
+                        "text": "Water",
+                        "isCorrect": true,
+                        "explanation": "You need water for hydration when supply is disrupted."
+                    },
+                    {
+                        "text": "Flashlight",
+                        "isCorrect": true,
+                        "explanation": "Power outages are common; a flashlight is necessary."
+                    },
+                    {
+                        "text": "Fire extinguisher",
+                        "isCorrect": true,
+                        "explanation": "Helps put out small fires caused by damaged electricals."
+                    },
+                    {
+                        "text": "Whistle",
+                        "isCorrect": true,
+                        "explanation": "Useful to signal for help if trapped."
+                    },
+                    {
+                        "text": "Candles",
+                        "isCorrect": false,
+                        "explanation": "Candles can be a fire hazard; avoid using if possible."
+                    },
+                    {
+                        "text": "Board games",
+                        "isCorrect": false,
+                        "explanation": "Board games are non-essential during emergencies."
+                    },
+                    {
+                        "text": "Fresh flowers",
+                        "isCorrect": false,
+                        "explanation": "Decorative items don’t help with disaster preparedness."
+                    }
+                ]
+            },
+            {
+                "question": "What should you do during an earthquake?",
+                "options": [
+                    {
+                        "text": "Drop, cover, and hold on",
+                        "isCorrect": true,
+                        "explanation": "This is the safest action to protect yourself from falling objects."
+                    },
+                    {
+                        "text": "Stand in a doorway",
+                        "isCorrect": false,
+                        "explanation": "Modern construction makes doorways no safer than other areas."
+                    },
+                    {
+                        "text": "Run outside immediately",
+                        "isCorrect": false,
+                        "explanation": "Running can be dangerous due to falling debris."
+                    },
+                    {
+                        "text": "Hide under a desk or table",
+                        "isCorrect": true,
+                        "explanation": "Protects you from falling objects and debris."
+                    },
+                    {
+                        "text": "Jump up and down to signal help",
+                        "isCorrect": false,
+                        "explanation": "Don’t waste time signaling; first protect yourself."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Heat Wave Safety Quiz",
+        "type": "disaster",
+        "disasterType": "heat wave",
+        "questions": [
+            {
+                "question": "How can you prepare for a heat wave?",
+                "options": [
+                    {
+                        "text": "Know the signs of heat illness",
+                        "isCorrect": true,
+                        "explanation": "Recognizing symptoms early prevents serious illness."
+                    },
+                    {
+                        "text": "Locate nearby cooling centers",
+                        "isCorrect": true,
+                        "explanation": "Provides refuge from extreme heat."
+                    },
+                    {
+                        "text": "Keep your home cool",
+                        "isCorrect": true,
+                        "explanation": "Prevents heat stress indoors."
+                    },
+                    {
+                        "text": "Rely on fans alone",
+                        "isCorrect": false,
+                        "explanation": "Fans don’t reduce body temperature during extreme heat."
+                    },
+                    {
+                        "text": "Ignore hydration",
+                        "isCorrect": false,
+                        "explanation": "Dehydration is dangerous during heat waves."
+                    }
+                ]
+            },
+            {
+                "question": "What should you do during a heat wave?",
+                "options": [
+                    {
+                        "text": "Drink plenty of water regularly",
+                        "isCorrect": true,
+                        "explanation": "Hydration helps regulate body temperature."
+                    },
+                    {
+                        "text": "Avoid outdoor activities during peak heat",
+                        "isCorrect": true,
+                        "explanation": "Reduces risk of heat-related illness."
+                    },
+                    {
+                        "text": "Wear light, loose-fitting clothing",
+                        "isCorrect": true,
+                        "explanation": "Helps body cool naturally."
+                    },
+                    {
+                        "text": "Leave people or pets in a hot car",
+                        "isCorrect": false,
+                        "explanation": "Extremely dangerous; never do this."
+                    },
+                    {
+                        "text": "Use the oven frequently to cook",
+                        "isCorrect": false,
+                        "explanation": "Generates more heat and increases risk."
+                    }
+                ]
+            },
+            {
+                "question": "After experiencing heat-related symptoms, what should you do?",
+                "options": [
+                    {
+                        "text": "Move to a cooler place and hydrate",
+                        "isCorrect": true,
+                        "explanation": "Restoring normal body temperature and fluids is essential."
+                    },
+                    {
+                        "text": "Call emergency services immediately if showing heat stroke signs",
+                        "isCorrect": true,
+                        "explanation": "Heat stroke is life-threatening and requires medical attention."
+                    },
+                    {
+                        "text": "Ignore lingering dizziness or headache",
+                        "isCorrect": false,
+                        "explanation": "Ignoring symptoms can worsen condition."
+                    },
+                    {
+                        "text": "Resume outdoor activities immediately",
+                        "isCorrect": false,
+                        "explanation": "Premature activity risks further heat illness."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Flood Safety Quiz",
+        "type": "disaster",
+        "disasterType": "flood",
+        "questions": [
+            {
+                "question": "How can you prepare before a flood?",
+                "options": [
+                    {
+                        "text": "Sign up for local weather alerts",
+                        "isCorrect": true,
+                        "explanation": "Alerts keep you informed of flood risks and evacuation orders."
+                    },
+                    {
+                        "text": "Get flood insurance early",
+                        "isCorrect": true,
+                        "explanation": "Flood insurance takes 30 days to become active."
+                    },
+                    {
+                        "text": "Store important documents in waterproof containers",
+                        "isCorrect": true,
+                        "explanation": "This keeps them safe from water damage."
+                    },
+                    {
+                        "text": "Leave valuables in low areas",
+                        "isCorrect": false,
+                        "explanation": "Move items to higher ground to protect them."
+                    },
+                    {
+                        "text": "Practice evacuation routes",
+                        "isCorrect": true,
+                        "explanation": "Knowing your route helps you evacuate quickly and safely."
+                    }
+                ]
+            },
+            {
+                "question": "What should you do during a flood?",
+                "options": [
+                    {
+                        "text": "Follow official evacuation orders immediately",
+                        "isCorrect": true,
+                        "explanation": "Delaying can put you in greater danger."
+                    },
+                    {
+                        "text": "Avoid walking, swimming, or driving through floodwaters",
+                        "isCorrect": true,
+                        "explanation": "Floodwaters can be deeper and faster than they appear."
+                    },
+                    {
+                        "text": "Stay on bridges over fast water",
+                        "isCorrect": false,
+                        "explanation": "Fast water can wash bridges away."
+                    },
+                    {
+                        "text": "Shelter in a closed attic if water rises",
+                        "isCorrect": false,
+                        "explanation": "Closed attics can trap you — move to the roof to signal for help."
+                    },
+                    {
+                        "text": "Stay informed via local alerts",
+                        "isCorrect": true,
+                        "explanation": "Authorities will provide updates and safety instructions."
+                    }
+                ]
+            },
+            {
+                "question": "What should you do after a flood?",
+                "options": [
+                    {
+                        "text": "Return home only when authorities say it’s safe",
+                        "isCorrect": true,
+                        "explanation": "Floodwaters may hide dangers like structural damage."
+                    },
+                    {
+                        "text": "Wear gloves, boots, and masks during cleanup",
+                        "isCorrect": true,
+                        "explanation": "Protects against contaminants and mold."
+                    },
+                    {
+                        "text": "Wade in floodwater to save time",
+                        "isCorrect": false,
+                        "explanation": "Floodwater may contain harmful chemicals or be electrically charged."
+                    },
+                    {
+                        "text": "Watch for snakes and wildlife inside buildings",
+                        "isCorrect": true,
+                        "explanation": "Floods can displace animals seeking shelter."
+                    },
+                    {
+                        "text": "Avoid touching wet electrical equipment",
+                        "isCorrect": true,
+                        "explanation": "It can be dangerous — shut off power if safe to do so."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Hurricane Safety Quiz",
+        "type": "disaster",
+        "disasterType": "hurricane",
+        "questions": [
+            {
+                "question": "How can you prepare before a hurricane?",
+                "options": [
+                    {
+                        "text": "Know your evacuation routes and safe places to stay",
+                        "isCorrect": true,
+                        "explanation": "Planning ahead ensures a faster and safer evacuation if needed."
+                    },
+                    {
+                        "text": "Stock enough food, water, and medications for several days",
+                        "isCorrect": true,
+                        "explanation": "Supplies help you stay safe if you cannot leave your home."
+                    },
+                    {
+                        "text": "Leave outdoor items unsecured",
+                        "isCorrect": false,
+                        "explanation": "Loose items can become dangerous projectiles in high winds."
+                    },
+                    {
+                        "text": "Sign up for local weather and emergency alerts",
+                        "isCorrect": true,
+                        "explanation": "Multiple alert sources ensure you get warnings in time."
+                    },
+                    {
+                        "text": "Store important documents in a secure place",
+                        "isCorrect": true,
+                        "explanation": "Protects them from wind and water damage."
+                    }
+                ]
+            },
+            {
+                "question": "What should you do during a hurricane?",
+                "options": [
+                    {
+                        "text": "Stay in an interior room away from windows",
+                        "isCorrect": true,
+                        "explanation": "Interior rooms offer better protection from wind and debris."
+                    },
+                    {
+                        "text": "Drive through flooded streets to escape quickly",
+                        "isCorrect": false,
+                        "explanation": "Floodwaters can hide dangers and sweep vehicles away."
+                    },
+                    {
+                        "text": "Move to the highest safe level if flooding occurs",
+                        "isCorrect": true,
+                        "explanation": "Prevents you from being trapped by rising water."
+                    },
+                    {
+                        "text": "Shelter in a closed attic to avoid the wind",
+                        "isCorrect": false,
+                        "explanation": "Closed attics can trap you; go to the roof if necessary to signal for help."
+                    },
+                    {
+                        "text": "Follow evacuation orders immediately",
+                        "isCorrect": true,
+                        "explanation": "Delaying evacuation can put you in greater danger."
+                    }
+                ]
+            },
+            {
+                "question": "What should you do after a hurricane?",
+                "options": [
+                    {
+                        "text": "Wear protective gear during cleanup",
+                        "isCorrect": true,
+                        "explanation": "Protects against mold, debris, and other hazards."
+                    },
+                    {
+                        "text": "Avoid floodwaters due to possible contamination and electrical hazards",
+                        "isCorrect": true,
+                        "explanation": "Floodwaters may contain chemicals, waste, and hidden dangers."
+                    },
+                    {
+                        "text": "Touch wet electrical devices to test them",
+                        "isCorrect": false,
+                        "explanation": "This can cause electrocution — turn off power first if safe."
+                    },
+                    {
+                        "text": "Use texts or social media to communicate",
+                        "isCorrect": true,
+                        "explanation": "Keeps phone lines open for emergencies."
+                    },
+                    {
+                        "text": "Document property damage for insurance",
+                        "isCorrect": true,
+                        "explanation": "Photos help with insurance claims and recovery."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Landslide Safety Quiz",
+        "type": "disaster",
+        "disasterType": "landslide",
+        "questions": [
+            {
+                "question": "How can you prepare for a landslide?",
+                "options": [
+                    {
+                        "text": "Prepare an emergency kit with supplies and important documents",
+                        "isCorrect": true,
+                        "explanation": "Having essential items ready allows quick evacuation if needed."
+                    },
+                    {
+                        "text": "Sign up for local alerts",
+                        "isCorrect": true,
+                        "explanation": "Timely warnings help you act before a landslide occurs."
+                    },
+                    {
+                        "text": "Evacuate immediately even if there is no risk",
+                        "isCorrect": false,
+                        "explanation": "Evacuation should be based on warnings or unsafe conditions."
+                    },
+                    {
+                        "text": "Consult experts for home protection",
+                        "isCorrect": true,
+                        "explanation": "Professional advice helps reduce landslide risk to your property."
+                    }
+                ]
+            },
+            {
+                "question": "What should you do during a landslide?",
+                "options": [
+                    {
+                        "text": "Move to higher ground immediately",
+                        "isCorrect": true,
+                        "explanation": "Seeking higher ground increases your safety during a landslide."
+                    },
+                    {
+                        "text": "Avoid valleys and low-lying areas",
+                        "isCorrect": true,
+                        "explanation": "Low areas are more likely to collect fast-moving debris and mud."
+                    },
+                    {
+                        "text": "Stay alert during heavy rain",
+                        "isCorrect": true,
+                        "explanation": "Landslides often occur during storms, so vigilance is critical."
+                    },
+                    {
+                        "text": "Attempt to cross flooded roads",
+                        "isCorrect": false,
+                        "explanation": "Flooded roads are dangerous and can sweep you away."
+                    }
+                ]
+            },
+            {
+                "question": "What should you do after a landslide?",
+                "options": [
+                    {
+                        "text": "Stay clear of the slide area",
+                        "isCorrect": true,
+                        "explanation": "Secondary slides can occur and returning too soon is dangerous."
+                    },
+                    {
+                        "text": "Check for injured people safely",
+                        "isCorrect": true,
+                        "explanation": "Alert authorities to help others without putting yourself at risk."
+                    },
+                    {
+                        "text": "Restore vegetation quickly",
+                        "isCorrect": true,
+                        "explanation": "Replanting helps stabilize soil and reduce future landslide risk."
+                    },
+                    {
+                        "text": "Return immediately to damaged buildings",
+                        "isCorrect": false,
+                        "explanation": "Entering damaged areas can expose you to further hazards."
+                    },
+                    {
+                        "text": "Listen for updates from officials",
+                        "isCorrect": true,
+                        "explanation": "Following official guidance ensures you act safely during recovery."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Sand Storm Safety Quiz",
+        "type": "disaster",
+        "disasterType": "sand storm",
+        "questions": [
+            {
+                "question": "How can you prepare for a sand storm?",
+                "options": [
+                    {
+                        "text": "Monitor weather forecasts and warnings",
+                        "isCorrect": true,
+                        "explanation": "Being aware of potential storms allows you to take action before it hits."
+                    },
+                    {
+                        "text": "Prepare an emergency kit with essentials",
+                        "isCorrect": true,
+                        "explanation": "Having supplies like water, first-aid, and medications ensures you can stay safe indoors."
+                    },
+                    {
+                        "text": "Know your evacuation plan and routes",
+                        "isCorrect": true,
+                        "explanation": "Having a clear plan helps you evacuate safely if necessary."
+                    },
+                    {
+                        "text": "Ignore weather alerts and stay outside",
+                        "isCorrect": false,
+                        "explanation": "Ignoring warnings increases your risk of injury or health problems."
+                    },
+                    {
+                        "text": "Secure your home and bring loose items indoors",
+                        "isCorrect": true,
+                        "explanation": "Securing your property prevents damage from wind and blowing sand."
+                    }
+                ]
+            },
+            {
+                "question": "What should you do during a sand storm?",
+                "options": [
+                    {
+                        "text": "Seek shelter indoors immediately",
+                        "isCorrect": true,
+                        "explanation": "Being inside a sturdy building protects you from blowing sand and debris."
+                    },
+                    {
+                        "text": "Close windows, doors, and vents",
+                        "isCorrect": true,
+                        "explanation": "Sealing openings reduces sand entering your home and protects indoor air quality."
+                    },
+                    {
+                        "text": "Wear a mask or damp cloth over nose and mouth",
+                        "isCorrect": true,
+                        "explanation": "Protecting your respiratory system is essential, especially if you have conditions like asthma."
+                    },
+                    {
+                        "text": "Go outside to check the storm",
+                        "isCorrect": false,
+                        "explanation": "Exposure to strong winds and sand can cause injuries and breathing problems."
+                    },
+                    {
+                        "text": "If driving, slow down and pull over safely",
+                        "isCorrect": true,
+                        "explanation": "Stopping in a safe location prevents accidents during low visibility."
+                    }
+                ]
+            },
+            {
+                "question": "What should you do after a sand storm?",
+                "options": [
+                    {
+                        "text": "Assess damage to your home and property",
+                        "isCorrect": true,
+                        "explanation": "Checking for damage helps you prioritize repairs and safety measures."
+                    },
+                    {
+                        "text": "Clean up sand and debris",
+                        "isCorrect": true,
+                        "explanation": "Removing debris and clearing drains prevents further problems and hazards."
+                    },
+                    {
+                        "text": "Seek medical attention if needed",
+                        "isCorrect": true,
+                        "explanation": "Respiratory issues or injuries should be addressed promptly after exposure."
+                    },
+                    {
+                        "text": "Ignore communication with family or neighbors",
+                        "isCorrect": false,
+                        "explanation": "Informing others that you are safe helps prevent unnecessary worry and coordinates community safety."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Thunderstorm Safety Quiz",
+        "type": "disaster",
+        "disasterType": "thunderstorm",
+        "questions": [
+            {
+                "question": "How can you prepare for a thunderstorm?",
+                "options": [
+                    {
+                        "text": "Know the risks and sign up for local alerts",
+                        "isCorrect": true,
+                        "explanation": "Being aware of potential thunderstorms lets you take precautions early."
+                    },
+                    {
+                        "text": "Trim trees near your home and use surge protectors",
+                        "isCorrect": true,
+                        "explanation": "Protecting your home reduces damage from falling trees and lightning."
+                    },
+                    {
+                        "text": "Make an emergency plan with your family",
+                        "isCorrect": true,
+                        "explanation": "Knowing where to go and what to do keeps everyone safe during storms."
+                    },
+                    {
+                        "text": "Ignore weather forecasts and hope for the best",
+                        "isCorrect": false,
+                        "explanation": "Ignoring alerts increases your risk of injury or property damage."
+                    }
+                ]
+            },
+            {
+                "question": "What should you do during a thunderstorm?",
+                "options": [
+                    {
+                        "text": "Go indoors or into a vehicle with a roof",
+                        "isCorrect": true,
+                        "explanation": "Sheltering protects you from lightning, strong winds, and hail."
+                    },
+                    {
+                        "text": "Avoid using wired electronics and plumbing",
+                        "isCorrect": true,
+                        "explanation": "Lightning can travel through electrical systems and plumbing, causing injury."
+                    },
+                    {
+                        "text": "Avoid driving through floodwaters",
+                        "isCorrect": true,
+                        "explanation": "Even shallow water can sweep away a person or a vehicle."
+                    },
+                    {
+                        "text": "Stand under trees to stay dry",
+                        "isCorrect": false,
+                        "explanation": "Trees can attract lightning and are unsafe during storms."
+                    },
+                    {
+                        "text": "Stay updated through reliable weather alerts",
+                        "isCorrect": true,
+                        "explanation": "Following alerts helps you know when it’s safe and if evacuation is needed."
+                    }
+                ]
+            },
+            {
+                "question": "What should you do after a thunderstorm?",
+                "options": [
+                    {
+                        "text": "Wait for the official all-clear before going outside",
+                        "isCorrect": true,
+                        "explanation": "This prevents exposure to flash floods or remaining hazards."
+                    },
+                    {
+                        "text": "Watch for hazards like fallen trees or downed power lines",
+                        "isCorrect": true,
+                        "explanation": "Avoiding hazards keeps you safe and allows proper reporting of dangers."
+                    },
+                    {
+                        "text": "Immediately resume normal outdoor activities",
+                        "isCorrect": false,
+                        "explanation": "There may still be hidden dangers, including water, debris, or electrical hazards."
+                    },
+                    {
+                        "text": "Check official sources for safety updates",
+                        "isCorrect": true,
+                        "explanation": "Authorities provide information about ongoing risks and recovery instructions."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Tornado Safety Quiz",
+        "type": "disaster",
+        "disasterType": "tornado",
+        "questions": [
+            {
+                "question": "How can you prepare for a tornado?",
+                "options": [
+                    {
+                        "text": "Know the risk and warning signs",
+                        "isCorrect": true,
+                        "explanation": "Recognizing funnel clouds, swirling debris, or a loud roaring sound helps you react quickly."
+                    },
+                    {
+                        "text": "Sign up for local weather alerts",
+                        "isCorrect": true,
+                        "explanation": "Alerts provide timely warnings so you can take action immediately."
+                    },
+                    {
+                        "text": "Identify a safe shelter in your home",
+                        "isCorrect": true,
+                        "explanation": "A small, windowless room or basement on the lowest floor offers maximum protection."
+                    },
+                    {
+                        "text": "Ignore warning signs and continue normal activities",
+                        "isCorrect": false,
+                        "explanation": "Delaying action can be extremely dangerous during a tornado."
+                    },
+                    {
+                        "text": "Stock emergency supplies like food, water, and first aid",
+                        "isCorrect": true,
+                        "explanation": "Having essential supplies ensures you can shelter in place safely."
+                    }
+                ]
+            },
+            {
+                "question": "What should you do during a tornado?",
+                "options": [
+                    {
+                        "text": "Take shelter immediately in your safe space",
+                        "isCorrect": true,
+                        "explanation": "Sheltering as soon as warnings or signs appear protects you from debris and strong winds."
+                    },
+                    {
+                        "text": "Cover your head and neck with arms, blankets, or cushions",
+                        "isCorrect": true,
+                        "explanation": "Protecting vital areas reduces the risk of injury from flying debris."
+                    },
+                    {
+                        "text": "If in a vehicle, avoid bridges and find low ground if possible",
+                        "isCorrect": true,
+                        "explanation": "Bridges can be dangerous and low ditches provide safer protection if reachable."
+                    },
+                    {
+                        "text": "Stay in open areas for better visibility",
+                        "isCorrect": false,
+                        "explanation": "Open areas expose you to extreme danger from flying debris and tornado winds."
+                    }
+                ]
+            },
+            {
+                "question": "What should you do after a tornado?",
+                "options": [
+                    {
+                        "text": "Communicate with text or social media to confirm safety",
+                        "isCorrect": true,
+                        "explanation": "Using texts frees up phone lines for emergency calls."
+                    },
+                    {
+                        "text": "Stay updated with official sources before moving around",
+                        "isCorrect": true,
+                        "explanation": "Authorities provide crucial information about ongoing risks and safe areas."
+                    },
+                    {
+                        "text": "Avoid downed power lines and damaged areas",
+                        "isCorrect": true,
+                        "explanation": "This prevents injury from hidden hazards or live electricity."
+                    },
+                    {
+                        "text": "Wear protective gear and face coverings during cleanup",
+                        "isCorrect": true,
+                        "explanation": "Safety equipment protects you from debris, mold, and contaminants."
+                    },
+                    {
+                        "text": "Rush back into damaged areas immediately",
+                        "isCorrect": false,
+                        "explanation": "Returning too soon can expose you to hidden dangers like unstable structures."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Tsunami Preparedness Challenge",
+        "type": "disaster",
+        "disasterType": "tsunami",
+        "questions": [
+            {
+                "question": "What should you do to prepare for a tsunami?",
+                "options": [
+                    {
+                        "text": "Learn tsunami warning signs",
+                        "isCorrect": true,
+                        "explanation": "Recognizing warning signs early helps you respond quickly."
+                    },
+                    {
+                        "text": "Know your local evacuation routes",
+                        "isCorrect": true,
+                        "explanation": "Evacuation routes help you get to safety fast."
+                    },
+                    {
+                        "text": "Create a family emergency plan",
+                        "isCorrect": true,
+                        "explanation": "A plan ensures everyone knows what to do."
+                    },
+                    {
+                        "text": "Sign up for local alerts and warnings",
+                        "isCorrect": true,
+                        "explanation": "Alerts provide timely information about risks."
+                    },
+                    {
+                        "text": "Consider insurance coverage if you live near the coast",
+                        "isCorrect": true,
+                        "explanation": "Insurance can help mitigate financial loss after damage."
+                    }
+                ]
+            },
+            {
+                "question": "What should you do immediately after feeling a strong earthquake in a coastal area?",
+                "options": [
+                    {
+                        "text": "Do not wait for official warnings if you notice natural signs of a tsunami.",
+                        "isCorrect": true,
+                        "explanation": "Natural signs can alert you faster than official channels."
+                    },
+                    {
+                        "text": "Head to higher ground or move inland quickly.",
+                        "isCorrect": true,
+                        "explanation": "Higher ground keeps you safe from incoming waves."
+                    },
+                    {
+                        "text": "Check social media for updates",
+                        "isCorrect": false,
+                        "explanation": "Social media may delay critical action; act immediately."
+                    },
+                    {
+                        "text": "Return home to collect valuables",
+                        "isCorrect": false,
+                        "explanation": "Fetching belongings can put you in serious danger."
+                    }
+                ]
+            },
+            {
+                "question": "During a tsunami warning, what should you do?",
+                "options": [
+                    {
+                        "text": "Move to higher ground or inland immediately",
+                        "isCorrect": true,
+                        "explanation": "Immediate relocation reduces risk of drowning."
+                    },
+                    {
+                        "text": "Stay on the beach to watch the waves",
+                        "isCorrect": false,
+                        "explanation": "Watching puts you in extreme danger."
+                    },
+                    {
+                        "text": "Follow evacuation orders from authorities",
+                        "isCorrect": true,
+                        "explanation": "Authorities provide instructions to keep people safe."
+                    },
+                    {
+                        "text": "Try to drive through flooded areas",
+                        "isCorrect": false,
+                        "explanation": "Flooded roads are extremely dangerous to drive on."
+                    },
+                    {
+                        "text": "Take photos to document the event",
+                        "isCorrect": false,
+                        "explanation": "Documenting is not safe during a tsunami."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Volcano Safety Quiz",
+        "type": "disaster",
+        "disasterType": "volcano",
+        "questions": [
+            {
+                "question": "How can you prepare for a volcanic eruption?",
+                "options": [
+                    {
+                        "text": "Know if you live near an active volcano",
+                        "isCorrect": true,
+                        "explanation": "Understanding risk helps you plan ahead."
+                    },
+                    {
+                        "text": "Stock up on essentials like food, water, and masks",
+                        "isCorrect": true,
+                        "explanation": "Supplies keep you safe if evacuation or sheltering is needed."
+                    },
+                    {
+                        "text": "Have a family evacuation and communication plan",
+                        "isCorrect": true,
+                        "explanation": "Everyone knows where to go and how to stay in contact."
+                    },
+                    {
+                        "text": "Ignore insurance coverage",
+                        "isCorrect": false,
+                        "explanation": "Insurance may help recover from volcanic damage."
+                    },
+                    {
+                        "text": "Prepare to stay indoors if ashfall is expected",
+                        "isCorrect": true,
+                        "explanation": "Sheltering reduces exposure to ash and debris."
+                    }
+                ]
+            },
+            {
+                "question": "What should you do during a volcanic eruption?",
+                "options": [
+                    {
+                        "text": "Follow local alerts and evacuate if advised",
+                        "isCorrect": true,
+                        "explanation": "Official instructions guide safe actions."
+                    },
+                    {
+                        "text": "Avoid areas near or downwind of the volcano",
+                        "isCorrect": true,
+                        "explanation": "Wind carries ash and lava can flow down valleys."
+                    },
+                    {
+                        "text": "Shelter indoors if safe",
+                        "isCorrect": true,
+                        "explanation": "Reduces ash exposure while waiting for updates."
+                    },
+                    {
+                        "text": "Wear a mask and goggles if outside",
+                        "isCorrect": true,
+                        "explanation": "Protects lungs and eyes from ash."
+                    },
+                    {
+                        "text": "Drive through heavy ashfall",
+                        "isCorrect": false,
+                        "explanation": "Ash reduces visibility and can damage engines."
+                    }
+                ]
+            },
+            {
+                "question": "What should you do after a volcanic eruption?",
+                "options": [
+                    {
+                        "text": "Wait for official word before going outside",
+                        "isCorrect": true,
+                        "explanation": "Hazards may remain even after the eruption stops."
+                    },
+                    {
+                        "text": "Use text or social media to check in",
+                        "isCorrect": true,
+                        "explanation": "Phone lines may be overloaded."
+                    },
+                    {
+                        "text": "Avoid driving unless necessary",
+                        "isCorrect": true,
+                        "explanation": "Ash makes roads slippery and can damage vehicles."
+                    },
+                    {
+                        "text": "Be cautious when cleaning ash",
+                        "isCorrect": true,
+                        "explanation": "Wear protective gear and avoid risky areas."
+                    },
+                    {
+                        "text": "Let children handle ash cleanup",
+                        "isCorrect": false,
+                        "explanation": "Ash can harm children if inhaled or touched."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Wildfire Safety Quiz",
+        "type": "disaster",
+        "disasterType": "wildfire",
+        "questions": [
+            {
+                "question": "How can you prepare for a wildfire?",
+                "options": [
+                    {
+                        "text": "Set up multiple alert sources",
+                        "isCorrect": true,
+                        "explanation": "Ensures you receive timely emergency updates."
+                    },
+                    {
+                        "text": "Monitor air quality warnings",
+                        "isCorrect": true,
+                        "explanation": "Protects sensitive groups from smoke exposure."
+                    },
+                    {
+                        "text": "Back up important documents",
+                        "isCorrect": true,
+                        "explanation": "Keeps your IDs and insurance safe in case of loss."
+                    },
+                    {
+                        "text": "Ignore evacuation routes",
+                        "isCorrect": false,
+                        "explanation": "Knowing routes is critical for safe escape."
+                    },
+                    {
+                        "text": "Prepare masks and emergency supplies",
+                        "isCorrect": true,
+                        "explanation": "Protects health and ensures survival if trapped."
+                    }
+                ]
+            },
+            {
+                "question": "What should you do during a wildfire?",
+                "options": [
+                    {
+                        "text": "Stay updated with emergency alerts",
+                        "isCorrect": true,
+                        "explanation": "Follow official instructions immediately."
+                    },
+                    {
+                        "text": "Evacuate early when advised",
+                        "isCorrect": true,
+                        "explanation": "Leaving early increases safety and reduces risk."
+                    },
+                    {
+                        "text": "Protect yourself from smoke",
+                        "isCorrect": true,
+                        "explanation": "Indoor sheltering and masks reduce inhalation hazards."
+                    },
+                    {
+                        "text": "Ignore sick household members",
+                        "isCorrect": false,
+                        "explanation": "Protect vulnerable people by sheltering them safely."
+                    },
+                    {
+                        "text": "Call emergency services if trapped",
+                        "isCorrect": true,
+                        "explanation": "Helps rescuers locate you safely."
+                    }
+                ]
+            },
+            {
+                "question": "What should you do after a wildfire?",
+                "options": [
+                    {
+                        "text": "Return only when officials say it’s safe",
+                        "isCorrect": true,
+                        "explanation": "Hidden dangers remain even after the fire passes."
+                    },
+                    {
+                        "text": "Wear protective clothing during cleanup",
+                        "isCorrect": true,
+                        "explanation": "Prevents injuries from debris and ash."
+                    },
+                    {
+                        "text": "Limit dust exposure",
+                        "isCorrect": true,
+                        "explanation": "Reduces respiratory risks during cleanup."
+                    },
+                    {
+                        "text": "Text loved ones to say you're safe",
+                        "isCorrect": true,
+                        "explanation": "Phone lines may be overloaded; texts are more reliable."
+                    },
+                    {
+                        "text": "Ignore hazards like hot ash",
+                        "isCorrect": false,
+                        "explanation": "Remaining hazards can cause injury or restart fires."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Winter Weather Safety Quiz",
+        "type": "disaster",
+        "disasterType": "winter weather",
+        "questions": [
+            {
+                "question": "How can you prepare for winter weather?",
+                "options": [
+                    {
+                        "text": "Know the alerts",
+                        "isCorrect": true,
+                        "explanation": "Understanding warnings helps you take timely action."
+                    },
+                    {
+                        "text": "Prepare your home",
+                        "isCorrect": true,
+                        "explanation": "Sealing windows, insulating pipes, and installing alarms protects you."
+                    },
+                    {
+                        "text": "Gather supplies",
+                        "isCorrect": true,
+                        "explanation": "Stocking essentials ensures survival during outages or emergencies."
+                    },
+                    {
+                        "text": "Ignore alerts",
+                        "isCorrect": false,
+                        "explanation": "Ignoring warnings puts you at serious risk."
+                    },
+                    {
+                        "text": "Prepare your vehicle",
+                        "isCorrect": true,
+                        "explanation": "Having fuel, blankets, and emergency gear helps if stranded."
+                    }
+                ]
+            },
+            {
+                "question": "What should you do during winter storms?",
+                "options": [
+                    {
+                        "text": "Stay indoors if possible",
+                        "isCorrect": true,
+                        "explanation": "Limits exposure to cold and ice hazards."
+                    },
+                    {
+                        "text": "Avoid overexertion",
+                        "isCorrect": true,
+                        "explanation": "Prevents heart problems when shoveling or clearing snow."
+                    },
+                    {
+                        "text": "Use heat safely",
+                        "isCorrect": true,
+                        "explanation": "Prevents fire or carbon monoxide poisoning."
+                    },
+                    {
+                        "text": "Ignore frostbite or hypothermia signs",
+                        "isCorrect": false,
+                        "explanation": "Early recognition is critical to avoid serious injury."
+                    },
+                    {
+                        "text": "If trapped in a car, stay inside",
+                        "isCorrect": true,
+                        "explanation": "Staying inside and keeping exhaust clear helps maintain warmth safely."
+                    }
+                ]
+            },
+            {
+                "question": "What should you do after winter weather?",
+                "options": [
+                    {
+                        "text": "Check for hazards",
+                        "isCorrect": true,
+                        "explanation": "Fallen power lines and icy surfaces can be dangerous."
+                    },
+                    {
+                        "text": "Avoid carbon monoxide risks",
+                        "isCorrect": true,
+                        "explanation": "Continue safe generator use to prevent poisoning."
+                    },
+                    {
+                        "text": "Help others",
+                        "isCorrect": true,
+                        "explanation": "Checking on neighbors keeps the community safe."
+                    },
+                    {
+                        "text": "Ignore hazards at home",
+                        "isCorrect": false,
+                        "explanation": "Damage or unsafe areas can cause injuries if not addressed."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Epidemic Safety Quiz",
+        "type": "disaster",
+        "disasterType": "epidemic",
+        "questions": [
+            {
+                "question": "How can you prepare for an epidemic?",
+                "options": [
+                    {
+                        "text": "Stay informed about outbreaks",
+                        "isCorrect": true,
+                        "explanation": "Following official sources ensures timely action."
+                    },
+                    {
+                        "text": "Get recommended vaccinations",
+                        "isCorrect": true,
+                        "explanation": "Vaccines protect you and vulnerable groups."
+                    },
+                    {
+                        "text": "Build a hygiene plan",
+                        "isCorrect": true,
+                        "explanation": "Handwashing, sanitizers, and masks reduce transmission."
+                    },
+                    {
+                        "text": "Ignore warnings",
+                        "isCorrect": false,
+                        "explanation": "Disregarding alerts increases risk of infection."
+                    },
+                    {
+                        "text": "Prepare for isolation if needed",
+                        "isCorrect": true,
+                        "explanation": "Having supplies and a plan helps if quarantined."
+                    }
+                ]
+            },
+            {
+                "question": "What should you do during an epidemic?",
+                "options": [
+                    {
+                        "text": "Follow public health instructions",
+                        "isCorrect": true,
+                        "explanation": "Compliance reduces spread and keeps you safe."
+                    },
+                    {
+                        "text": "Practice hygiene and distancing",
+                        "isCorrect": true,
+                        "explanation": "Prevents catching or transmitting the disease."
+                    },
+                    {
+                        "text": "Monitor your health",
+                        "isCorrect": true,
+                        "explanation": "Early detection allows prompt treatment."
+                    },
+                    {
+                        "text": "Ignore symptoms",
+                        "isCorrect": false,
+                        "explanation": "Neglecting symptoms can worsen illness and risk others."
+                    },
+                    {
+                        "text": "Use masks and protective equipment properly",
+                        "isCorrect": true,
+                        "explanation": "Correct use maximizes protection."
+                    }
+                ]
+            },
+            {
+                "question": "What actions are recommended after an epidemic?",
+                "options": [
+                    {
+                        "text": "Continue protective habits",
+                        "isCorrect": true,
+                        "explanation": "Maintains safety and prevents new outbreaks."
+                    },
+                    {
+                        "text": "Get post-epidemic medical care",
+                        "isCorrect": true,
+                        "explanation": "Addresses lingering symptoms and missed treatments."
+                    },
+                    {
+                        "text": "Reflect and improve household preparedness",
+                        "isCorrect": true,
+                        "explanation": "Restocking and planning strengthens future readiness."
+                    },
+                    {
+                        "text": "Ignore resurgence risks",
+                        "isCorrect": false,
+                        "explanation": "Being unprepared can lead to new waves of infection."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Allergic Reaction First Aid Quiz",
+        "type": "first-aid",
+        "disasterType": null,
+        "questions": [
+            {
+                "question": "What is the first thing you should do if someone is having a severe allergic reaction?",
+                "options": [
+                    {
+                        "text": "Call emergency services immediately",
+                        "isCorrect": true,
+                        "explanation": "Prompt emergency help is critical in anaphylaxis."
+                    },
+                    {
+                        "text": "Wait to see if symptoms improve",
+                        "isCorrect": false,
+                        "explanation": "Delaying treatment can be life-threatening."
+                    },
+                    {
+                        "text": "Offer them water",
+                        "isCorrect": false,
+                        "explanation": "This does not address the reaction and could be dangerous."
+                    }
+                ]
+            },
+            {
+                "question": "How should you assist someone using their prescribed medication for an allergic reaction?",
+                "options": [
+                    {
+                        "text": "Follow the package instructions",
+                        "isCorrect": true,
+                        "explanation": "Correct use ensures proper dosage and effect."
+                    },
+                    {
+                        "text": "Administer an autoinjector if trained",
+                        "isCorrect": true,
+                        "explanation": "Trained use of an autoinjector can save their life."
+                    },
+                    {
+                        "text": "Give them any available medication",
+                        "isCorrect": false,
+                        "explanation": "Only use prescribed medication for that person."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Asthma Attack First Aid Quiz",
+        "type": "first-aid",
+        "disasterType": null,
+        "questions": [
+            {
+                "question": "What is the recommended position for someone having an asthma attack?",
+                "options": [
+                    {
+                        "text": "Sit upright",
+                        "isCorrect": true,
+                        "explanation": "This helps open the airway and makes breathing easier."
+                    },
+                    {
+                        "text": "Lie flat on the ground",
+                        "isCorrect": false,
+                        "explanation": "This can make breathing more difficult."
+                    },
+                    {
+                        "text": "Stand and walk around",
+                        "isCorrect": false,
+                        "explanation": "Movement can worsen breathing difficulties."
+                    }
+                ]
+            },
+            {
+                "question": "What should you do if the person’s condition worsens or they do not have their inhaler?",
+                "options": [
+                    {
+                        "text": "Call emergency services immediately",
+                        "isCorrect": true,
+                        "explanation": "A worsening attack can be life-threatening without treatment."
+                    },
+                    {
+                        "text": "Tell them to hold their breath",
+                        "isCorrect": false,
+                        "explanation": "This does not help in an asthma attack."
+                    },
+                    {
+                        "text": "Offer them food",
+                        "isCorrect": false,
+                        "explanation": "Eating could worsen breathing difficulty."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Bleeding Heavily First Aid Quiz",
+        "type": "first-aid",
+        "disasterType": null,
+        "questions": [
+            {
+                "question": "What is the first priority when treating someone with severe bleeding?",
+                "options": [
+                    {
+                        "text": "Apply direct pressure to the wound",
+                        "isCorrect": true,
+                        "explanation": "Pressure slows bleeding and helps clotting."
+                    },
+                    {
+                        "text": "Look for the nearest hospital",
+                        "isCorrect": false,
+                        "explanation": "You must control bleeding before moving the person."
+                    },
+                    {
+                        "text": "Remove any soaked bandages immediately",
+                        "isCorrect": false,
+                        "explanation": "Leave soaked bandages on and add more layers to avoid breaking clots."
+                    }
+                ]
+            },
+            {
+                "question": "When should you call emergency services for severe bleeding?",
+                "options": [
+                    {
+                        "text": "As soon as possible",
+                        "isCorrect": true,
+                        "explanation": "Emergency services should be contacted immediately."
+                    },
+                    {
+                        "text": "Only if the bleeding continues after 30 minutes",
+                        "isCorrect": false,
+                        "explanation": "Waiting could cause life-threatening blood loss."
+                    },
+                    {
+                        "text": "After cleaning the wound",
+                        "isCorrect": false,
+                        "explanation": "Stopping bleeding is more urgent than cleaning."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Broken Bone First Aid Quiz",
+        "type": "first-aid",
+        "disasterType": null,
+        "questions": [
+            {
+                "question": "How should you immobilize a suspected broken bone?",
+                "options": [
+                    {
+                        "text": "Use hands, cushions, or clothing to support it",
+                        "isCorrect": true,
+                        "explanation": "These items help prevent movement and ease pain."
+                    },
+                    {
+                        "text": "Support the limb above and below the injury",
+                        "isCorrect": true,
+                        "explanation": "This provides extra stability and reduces risk of further damage."
+                    },
+                    {
+                        "text": "Remove any clothing near the injury",
+                        "isCorrect": false,
+                        "explanation": "Removing clothing can cause more pain and risk of further injury."
+                    },
+                    {
+                        "text": "Try to straighten the limb before supporting it",
+                        "isCorrect": false,
+                        "explanation": "Straightening could worsen the fracture."
+                    }
+                ]
+            },
+            {
+                "question": "When should you call emergency services for a broken bone?",
+                "options": [
+                    {
+                        "text": "If the person cannot move on their own",
+                        "isCorrect": true,
+                        "explanation": "Lack of mobility indicates a possible serious injury."
+                    },
+                    {
+                        "text": "If the person is experiencing severe pain",
+                        "isCorrect": true,
+                        "explanation": "Severe pain can indicate a serious fracture."
+                    },
+                    {
+                        "text": "If the injured area is slightly bruised",
+                        "isCorrect": false,
+                        "explanation": "Minor bruising alone doesn’t require emergency services."
+                    },
+                    {
+                        "text": "Only if bleeding is present",
+                        "isCorrect": false,
+                        "explanation": "Open fractures are serious, but pain and immobility are also reasons to call."
+                    }
+                ]
+            },
+            {
+                "question": "What should you do while waiting for help to arrive?",
+                "options": [
+                    {
+                        "text": "Maintain stabilization of the injury",
+                        "isCorrect": true,
+                        "explanation": "Keeping the limb still prevents further injury."
+                    },
+                    {
+                        "text": "Support the injured area from both sides if moving them",
+                        "isCorrect": true,
+                        "explanation": "This reduces risk of additional harm during movement."
+                    },
+                    {
+                        "text": "Encourage them to try moving the limb gently",
+                        "isCorrect": false,
+                        "explanation": "Avoid movement to prevent further injury."
+                    },
+                    {
+                        "text": "Apply heat to reduce pain",
+                        "isCorrect": false,
+                        "explanation": "Heat is not recommended; immobilization is key."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Burns First Aid Quiz",
+        "type": "first-aid",
+        "disasterType": null,
+        "questions": [
+            {
+                "question": "How long should you cool a burn under cold water?",
+                "options": [
+                    {
+                        "text": "At least 20 minutes",
+                        "isCorrect": true,
+                        "explanation": "The quicker and longer the burn is cooled, the less severe the injury."
+                    },
+                    {
+                        "text": "As soon as possible after injury",
+                        "isCorrect": true,
+                        "explanation": "Immediate cooling lessens severity."
+                    },
+                    {
+                        "text": "For only 5 minutes",
+                        "isCorrect": false,
+                        "explanation": "This is too short to be effective."
+                    },
+                    {
+                        "text": "After removing all clothing around the burn",
+                        "isCorrect": false,
+                        "explanation": "Only remove clothing if it’s not stuck to the burn."
+                    }
+                ]
+            },
+            {
+                "question": "What should you use to cover the burn after cooling it?",
+                "options": [
+                    {
+                        "text": "Cling film",
+                        "isCorrect": true,
+                        "explanation": "Protects from infection without sticking to the skin."
+                    },
+                    {
+                        "text": "A clean plastic bag",
+                        "isCorrect": true,
+                        "explanation": "An alternative that also protects the burn."
+                    },
+                    {
+                        "text": "Cotton wool",
+                        "isCorrect": false,
+                        "explanation": "Fibers can stick to the wound."
+                    },
+                    {
+                        "text": "A thick towel",
+                        "isCorrect": false,
+                        "explanation": "Heavy fabrics can retain heat and irritate the skin."
+                    }
+                ]
+            },
+            {
+                "question": "When should you call emergency services for a burn?",
+                "options": [
+                    {
+                        "text": "If the burn is severe",
+                        "isCorrect": true,
+                        "explanation": "Serious burns need urgent medical care."
+                    },
+                    {
+                        "text": "If a baby or child has sustained the burn",
+                        "isCorrect": true,
+                        "explanation": "Young children are more vulnerable to burn complications."
+                    },
+                    {
+                        "text": "Only if the burn is larger than your hand",
+                        "isCorrect": false,
+                        "explanation": "Severity and age matter more than size alone."
+                    },
+                    {
+                        "text": "Only if there is blistering",
+                        "isCorrect": false,
+                        "explanation": "Blistering may occur in minor burns too."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Choking First Aid Quiz",
+        "type": "first-aid",
+        "disasterType": null,
+        "questions": [
+            {
+                "question": "What should you do first if someone is choking but can still cough?",
+                "options": [
+                    {
+                        "text": "Encourage them to keep coughing",
+                        "isCorrect": true,
+                        "explanation": "Coughing may clear the obstruction naturally."
+                    },
+                    {
+                        "text": "Stay ready to assist if the blockage is severe",
+                        "isCorrect": true,
+                        "explanation": "If coughing stops being effective, you’ll need to help."
+                    },
+                    {
+                        "text": "Immediately start abdominal thrusts",
+                        "isCorrect": false,
+                        "explanation": "Thrusts are for when coughing fails."
+                    },
+                    {
+                        "text": "Give them a drink of water",
+                        "isCorrect": false,
+                        "explanation": "Water can worsen the blockage."
+                    }
+                ]
+            },
+            {
+                "question": "How should you perform back blows?",
+                "options": [
+                    {
+                        "text": "Lean the person forward",
+                        "isCorrect": true,
+                        "explanation": "This position helps gravity assist in clearing the object."
+                    },
+                    {
+                        "text": "Strike firmly between the shoulder blades",
+                        "isCorrect": true,
+                        "explanation": "This creates pressure to dislodge the blockage."
+                    },
+                    {
+                        "text": "Hit them on the chest",
+                        "isCorrect": false,
+                        "explanation": "Hitting the chest can cause further injury and is not effective for choking."
+                    },
+                    {
+                        "text": "Pat gently on the back",
+                        "isCorrect": false,
+                        "explanation": "Firm blows are needed to be effective."
+                    }
+                ]
+            },
+            {
+                "question": "What should you do if the person is still choking after back blows?",
+                "options": [
+                    {
+                        "text": "Perform up to 5 abdominal thrusts",
+                        "isCorrect": true,
+                        "explanation": "This can create enough pressure to expel the object."
+                    },
+                    {
+                        "text": "Call emergency services",
+                        "isCorrect": true,
+                        "explanation": "Ongoing choking is a life-threatening emergency."
+                    },
+                    {
+                        "text": "Lay them flat on the ground",
+                        "isCorrect": false,
+                        "explanation": "This position makes choking worse."
+                    },
+                    {
+                        "text": "Wait for them to faint before calling for help",
+                        "isCorrect": false,
+                        "explanation": "Call immediately if the blockage remains."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Dehydration First Aid Quiz",
+        "type": "first-aid",
+        "disasterType": null,
+        "questions": [
+            {
+                "question": "What should you do first if someone is showing signs of dehydration?",
+                "options": [
+                    {
+                        "text": "Encourage them to rest",
+                        "isCorrect": true,
+                        "explanation": "Rest helps the body recover and prevents further fluid loss."
+                    },
+                    {
+                        "text": "Calm and reassure them",
+                        "isCorrect": true,
+                        "explanation": "Reducing stress can help them recover faster."
+                    },
+                    {
+                        "text": "Encourage them to continue physical activity",
+                        "isCorrect": false,
+                        "explanation": "Activity increases fluid loss and worsens dehydration."
+                    },
+                    {
+                        "text": "Give them coffee or caffeinated drinks",
+                        "isCorrect": false,
+                        "explanation": "Caffeine can increase fluid loss."
+                    }
+                ]
+            },
+            {
+                "question": "What types of drinks should you offer someone who is dehydrated?",
+                "options": [
+                    {
+                        "text": "Water",
+                        "isCorrect": true,
+                        "explanation": "Water helps replenish lost fluids."
+                    },
+                    {
+                        "text": "Isotonic sports drinks",
+                        "isCorrect": true,
+                        "explanation": "These replace fluids and salts lost through sweating."
+                    },
+                    {
+                        "text": "Energy drinks",
+                        "isCorrect": false,
+                        "explanation": "High sugar and caffeine content can make dehydration worse."
+                    },
+                    {
+                        "text": "Alcohol",
+                        "isCorrect": false,
+                        "explanation": "Alcohol increases fluid loss and worsens dehydration."
+                    }
+                ]
+            },
+            {
+                "question": "When should you seek medical help for dehydration?",
+                "options": [
+                    {
+                        "text": "If symptoms worsen after 30 minutes",
+                        "isCorrect": true,
+                        "explanation": "Worsening symptoms indicate the need for urgent care."
+                    },
+                    {
+                        "text": "If the person has not urinated for 8 or more hours",
+                        "isCorrect": true,
+                        "explanation": "This is a serious sign of dehydration."
+                    },
+                    {
+                        "text": "If the person refuses to drink water",
+                        "isCorrect": false,
+                        "explanation": "This alone does not require emergency care unless other symptoms are present."
+                    },
+                    {
+                        "text": "If the person sweats excessively",
+                        "isCorrect": false,
+                        "explanation": "Sweating is normal in heat; focus on rehydration unless symptoms worsen."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Diabetic Emergency First Aid Quiz",
+        "type": "first-aid",
+        "disasterType": null,
+        "questions": [
+            {
+                "question": "What is the first thing you should give someone having a diabetic emergency from low blood sugar?",
+                "options": [
+                    {
+                        "text": "Something sugary to eat or drink",
+                        "isCorrect": true,
+                        "explanation": "Sugar quickly raises blood glucose levels."
+                    },
+                    {
+                        "text": "Non-diet soft drink",
+                        "isCorrect": true,
+                        "explanation": "Non-diet drinks contain sugar to help restore blood sugar."
+                    },
+                    {
+                        "text": "Diet soda",
+                        "isCorrect": false,
+                        "explanation": "Diet drinks contain no sugar and won’t help raise blood glucose."
+                    },
+                    {
+                        "text": "Alcohol",
+                        "isCorrect": false,
+                        "explanation": "Alcohol can lower blood sugar further."
+                    }
+                ]
+            },
+            {
+                "question": "What should you do once the person starts to feel better?",
+                "options": [
+                    {
+                        "text": "Offer more sugary food",
+                        "isCorrect": true,
+                        "explanation": "This helps keep their blood sugar stable."
+                    },
+                    {
+                        "text": "Give complex carbohydrates",
+                        "isCorrect": true,
+                        "explanation": "Foods like bread or crackers help prevent another drop."
+                    },
+                    {
+                        "text": "Encourage intense exercise",
+                        "isCorrect": false,
+                        "explanation": "Exercise can cause blood sugar to drop again."
+                    },
+                    {
+                        "text": "Remove all sugary food",
+                        "isCorrect": false,
+                        "explanation": "They may need more sugar to stabilize."
+                    }
+                ]
+            },
+            {
+                "question": "When should you call emergency services for a diabetic emergency?",
+                "options": [
+                    {
+                        "text": "If the person does not improve after 10–15 minutes",
+                        "isCorrect": true,
+                        "explanation": "Lack of improvement requires urgent medical help."
+                    },
+                    {
+                        "text": "If the person becomes unconscious",
+                        "isCorrect": true,
+                        "explanation": "Unconsciousness is a medical emergency."
+                    },
+                    {
+                        "text": "If the person refuses to eat sugar",
+                        "isCorrect": false,
+                        "explanation": "This alone is not enough unless symptoms worsen."
+                    },
+                    {
+                        "text": "If the person has had sugar but is still sweating",
+                        "isCorrect": false,
+                        "explanation": "Sweating can occur in mild cases and may improve with rest."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Distress First Aid Quiz",
+        "type": "first-aid",
+        "disasterType": null,
+        "questions": [
+            {
+                "question": "How can you best show support to someone in emotional distress?",
+                "options": [
+                    {
+                        "text": "Let them know you’re there to help",
+                        "isCorrect": true,
+                        "explanation": "Being present and supportive helps them feel less alone."
+                    },
+                    {
+                        "text": "Avoid making statements that minimize their feelings",
+                        "isCorrect": true,
+                        "explanation": "Phrases like 'everything will be okay' can feel dismissive."
+                    },
+                    {
+                        "text": "Tell them to stop overreacting",
+                        "isCorrect": false,
+                        "explanation": "This invalidates their emotions and can worsen distress."
+                    },
+                    {
+                        "text": "Force them to talk about their feelings",
+                        "isCorrect": false,
+                        "explanation": "They should share at their own pace."
+                    }
+                ]
+            },
+            {
+                "question": "What is important when listening to someone in distress?",
+                "options": [
+                    {
+                        "text": "Listen actively without judgment",
+                        "isCorrect": true,
+                        "explanation": "Active listening shows empathy and understanding."
+                    },
+                    {
+                        "text": "Understand that stress responses vary from person to person",
+                        "isCorrect": true,
+                        "explanation": "Each individual reacts differently to trauma."
+                    },
+                    {
+                        "text": "Interrupt to share your own experiences",
+                        "isCorrect": false,
+                        "explanation": "Interrupting shifts focus away from them."
+                    },
+                    {
+                        "text": "Tell them how they should feel",
+                        "isCorrect": false,
+                        "explanation": "This can make them feel misunderstood."
+                    }
+                ]
+            },
+            {
+                "question": "When should you seek professional help for someone in distress?",
+                "options": [
+                    {
+                        "text": "If they might harm themselves or others",
+                        "isCorrect": true,
+                        "explanation": "This requires immediate professional support."
+                    },
+                    {
+                        "text": "If their distress is prolonged or intense",
+                        "isCorrect": true,
+                        "explanation": "Long-lasting severe distress needs expert intervention."
+                    },
+                    {
+                        "text": "If they are quiet and withdrawn for a few minutes",
+                        "isCorrect": false,
+                        "explanation": "Short periods of withdrawal are not necessarily emergencies."
+                    },
+                    {
+                        "text": "If they refuse to talk to you",
+                        "isCorrect": false,
+                        "explanation": "Refusal alone is not an emergency unless risk of harm is present."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Seizures First Aid Quiz",
+        "type": "first-aid",
+        "disasterType": null,
+        "questions": [
+            {
+                "question": "What should you do to keep someone safe during a seizure?",
+                "options": [
+                    {
+                        "text": "Place a blanket or cushion under their head",
+                        "isCorrect": true,
+                        "explanation": "This helps protect them from head injury."
+                    },
+                    {
+                        "text": "Remove nearby objects that could cause injury",
+                        "isCorrect": true,
+                        "explanation": "Clearing the area prevents further harm."
+                    },
+                    {
+                        "text": "Restrain their movements",
+                        "isCorrect": false,
+                        "explanation": "Restraint can cause injury to both you and the person."
+                    },
+                    {
+                        "text": "Put something in their mouth",
+                        "isCorrect": false,
+                        "explanation": "This can block their airway or cause injury."
+                    }
+                ]
+            },
+            {
+                "question": "What should you do after the seizure ends?",
+                "options": [
+                    {
+                        "text": "Help them lie on their side",
+                        "isCorrect": true,
+                        "explanation": "This position helps keep their airway open."
+                    },
+                    {
+                        "text": "Tilt their head back",
+                        "isCorrect": true,
+                        "explanation": "This ensures they can continue breathing."
+                    },
+                    {
+                        "text": "Leave them flat on their back",
+                        "isCorrect": false,
+                        "explanation": "This can cause airway blockage."
+                    },
+                    {
+                        "text": "Stand them up immediately",
+                        "isCorrect": false,
+                        "explanation": "They may still be disoriented and could fall."
+                    }
+                ]
+            },
+            {
+                "question": "When should you call emergency services for a seizure?",
+                "options": [
+                    {
+                        "text": "If it is their first seizure",
+                        "isCorrect": true,
+                        "explanation": "A first seizure should always be medically assessed."
+                    },
+                    {
+                        "text": "If they have injured themselves",
+                        "isCorrect": true,
+                        "explanation": "Injury during a seizure needs urgent care."
+                    },
+                    {
+                        "text": "If the seizure lasts less than a minute",
+                        "isCorrect": false,
+                        "explanation": "Short seizures without complications usually don’t require emergency help."
+                    },
+                    {
+                        "text": "If they are breathing normally afterward",
+                        "isCorrect": false,
+                        "explanation": "Normal breathing post-seizure means they are recovering."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Head Injury First Aid Quiz",
+        "type": "first-aid",
+        "disasterType": null,
+        "questions": [
+            {
+                "question": "What should you do immediately after someone suffers a head injury?",
+                "options": [
+                    {
+                        "text": "Encourage them to rest",
+                        "isCorrect": true,
+                        "explanation": "Rest helps prevent further strain or injury."
+                    },
+                    {
+                        "text": "Apply a cold compress to the injury",
+                        "isCorrect": true,
+                        "explanation": "Cold reduces swelling and pain."
+                    },
+                    {
+                        "text": "Allow them to continue sports activity",
+                        "isCorrect": false,
+                        "explanation": "They should not return to play until medically cleared."
+                    },
+                    {
+                        "text": "Shake them to check if they are alert",
+                        "isCorrect": false,
+                        "explanation": "Shaking can worsen injury."
+                    }
+                ]
+            },
+            {
+                "question": "What symptoms after a head injury require calling emergency services?",
+                "options": [
+                    {
+                        "text": "Drowsiness",
+                        "isCorrect": true,
+                        "explanation": "This can indicate a serious head injury."
+                    },
+                    {
+                        "text": "Vomiting",
+                        "isCorrect": true,
+                        "explanation": "Vomiting is a possible sign of brain injury."
+                    },
+                    {
+                        "text": "A lump on the head",
+                        "isCorrect": false,
+                        "explanation": "A small lump alone does not require emergency services."
+                    },
+                    {
+                        "text": "Mild headache",
+                        "isCorrect": false,
+                        "explanation": "Headaches can occur with minor injuries."
+                    }
+                ]
+            },
+            {
+                "question": "Why should someone with a head injury avoid physical activity?",
+                "options": [
+                    {
+                        "text": "To prevent worsening of the injury",
+                        "isCorrect": true,
+                        "explanation": "Activity can increase bleeding or swelling in the brain."
+                    },
+                    {
+                        "text": "To allow proper recovery time",
+                        "isCorrect": true,
+                        "explanation": "Rest supports healing and reduces risk of complications."
+                    },
+                    {
+                        "text": "Because they might feel bored",
+                        "isCorrect": false,
+                        "explanation": "Boredom is not the reason to restrict activity."
+                    },
+                    {
+                        "text": "Because exercise causes fever",
+                        "isCorrect": false,
+                        "explanation": "Fever is unrelated to exercise in this case."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Heart Attack First Aid Quiz",
+        "type": "first-aid",
+        "disasterType": null,
+        "questions": [
+            {
+                "question": "What is the first step if you suspect someone is having a heart attack?",
+                "options": [
+                    {
+                        "text": "Call emergency services",
+                        "isCorrect": true,
+                        "explanation": "Urgent help is critical to survival."
+                    },
+                    {
+                        "text": "Follow instructions from the operator",
+                        "isCorrect": true,
+                        "explanation": "They will guide you through what to do until help arrives."
+                    },
+                    {
+                        "text": "Give them a glass of water",
+                        "isCorrect": false,
+                        "explanation": "Water does not address the emergency."
+                    },
+                    {
+                        "text": "Tell them to walk around",
+                        "isCorrect": false,
+                        "explanation": "Movement increases strain on the heart."
+                    }
+                ]
+            },
+            {
+                "question": "What is the recommended position for someone having a heart attack?",
+                "options": [
+                    {
+                        "text": "Sitting on the floor leaning against a chair or wall",
+                        "isCorrect": true,
+                        "explanation": "This reduces strain on the heart and prevents injury if they collapse."
+                    },
+                    {
+                        "text": "Sitting in a comfortable position",
+                        "isCorrect": true,
+                        "explanation": "Comfortable positioning reduces anxiety and physical strain."
+                    },
+                    {
+                        "text": "Standing up straight",
+                        "isCorrect": false,
+                        "explanation": "Standing can cause them to faint or fall."
+                    },
+                    {
+                        "text": "Lying flat on their back",
+                        "isCorrect": false,
+                        "explanation": "This can make breathing more difficult."
+                    }
+                ]
+            },
+            {
+                "question": "What should you do while waiting for help to arrive?",
+                "options": [
+                    {
+                        "text": "Stay with them and reassure them",
+                        "isCorrect": true,
+                        "explanation": "Calm support reduces stress and strain."
+                    },
+                    {
+                        "text": "Prevent them from moving around",
+                        "isCorrect": true,
+                        "explanation": "Movement increases the heart’s workload."
+                    },
+                    {
+                        "text": "Leave them alone to rest",
+                        "isCorrect": false,
+                        "explanation": "They need monitoring until help arrives."
+                    },
+                    {
+                        "text": "Encourage them to eat",
+                        "isCorrect": false,
+                        "explanation": "Eating during a heart attack is not recommended."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Heatstroke First Aid Quiz",
+        "type": "first-aid",
+        "disasterType": null,
+        "questions": [
+            {
+                "question": "What is the first thing you should do if someone has heatstroke?",
+                "options": [
+                    {
+                        "text": "Call emergency services",
+                        "isCorrect": true,
+                        "explanation": "Heatstroke is life-threatening and requires urgent help."
+                    },
+                    {
+                        "text": "Take the person to a cooler place",
+                        "isCorrect": true,
+                        "explanation": "Moving them to a cooler environment helps lower body temperature."
+                    },
+                    {
+                        "text": "Give them hot drinks",
+                        "isCorrect": false,
+                        "explanation": "Hot drinks increase body temperature."
+                    },
+                    {
+                        "text": "Wrap them in a blanket",
+                        "isCorrect": false,
+                        "explanation": "This will trap heat and worsen their condition."
+                    }
+                ]
+            },
+            {
+                "question": "How can you help lower the person’s body temperature?",
+                "options": [
+                    {
+                        "text": "Remove excess clothing",
+                        "isCorrect": true,
+                        "explanation": "This allows heat to escape and cooling to be more effective."
+                    },
+                    {
+                        "text": "Cover them with a damp cloth or sheet",
+                        "isCorrect": true,
+                        "explanation": "Evaporation cools the body."
+                    },
+                    {
+                        "text": "Wrap them tightly in dry towels",
+                        "isCorrect": false,
+                        "explanation": "This prevents heat from escaping."
+                    },
+                    {
+                        "text": "Massage their muscles",
+                        "isCorrect": false,
+                        "explanation": "Massage does not reduce body temperature."
+                    }
+                ]
+            },
+            {
+                "question": "What should you do while waiting for help to arrive?",
+                "options": [
+                    {
+                        "text": "Keep cooling them continuously",
+                        "isCorrect": true,
+                        "explanation": "Continuous cooling prevents further damage from overheating."
+                    },
+                    {
+                        "text": "Stop cooling only when they return to normal temperature",
+                        "isCorrect": true,
+                        "explanation": "Cooling should continue until their condition improves."
+                    },
+                    {
+                        "text": "Leave them alone once they look better",
+                        "isCorrect": false,
+                        "explanation": "They may deteriorate quickly again."
+                    },
+                    {
+                        "text": "Give them strong coffee",
+                        "isCorrect": false,
+                        "explanation": "Caffeine is not recommended in heatstroke."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Heat Exhaustion First Aid Quiz",
+        "type": "first-aid",
+        "disasterType": null,
+        "questions": [
+            {
+                "question": "Where should you move someone suffering from heat exhaustion?",
+                "options": [
+                    {
+                        "text": "To a cool place",
+                        "isCorrect": true,
+                        "explanation": "A cool environment helps their body recover."
+                    },
+                    {
+                        "text": "Somewhere they can rest",
+                        "isCorrect": true,
+                        "explanation": "Rest prevents further strain on the body."
+                    },
+                    {
+                        "text": "Back into direct sunlight",
+                        "isCorrect": false,
+                        "explanation": "Sunlight makes heat exhaustion worse."
+                    },
+                    {
+                        "text": "Into a sauna",
+                        "isCorrect": false,
+                        "explanation": "A sauna would dangerously raise their temperature."
+                    }
+                ]
+            },
+            {
+                "question": "What should you give a person with heat exhaustion to drink?",
+                "options": [
+                    {
+                        "text": "Plenty of water",
+                        "isCorrect": true,
+                        "explanation": "Water replaces lost fluids."
+                    },
+                    {
+                        "text": "Isotonic sports drinks",
+                        "isCorrect": true,
+                        "explanation": "These help replace lost salts as well as fluids."
+                    },
+                    {
+                        "text": "Alcohol",
+                        "isCorrect": false,
+                        "explanation": "Alcohol dehydrates the body further."
+                    },
+                    {
+                        "text": "Energy drinks",
+                        "isCorrect": false,
+                        "explanation": "Energy drinks can worsen dehydration."
+                    }
+                ]
+            },
+            {
+                "question": "Why should you seek medical advice even if they seem better?",
+                "options": [
+                    {
+                        "text": "Because their condition could get worse",
+                        "isCorrect": true,
+                        "explanation": "Heat exhaustion can progress to heatstroke."
+                    },
+                    {
+                        "text": "Because heat exhaustion always requires a doctor’s evaluation",
+                        "isCorrect": true,
+                        "explanation": "Medical assessment ensures full recovery and prevents complications."
+                    },
+                    {
+                        "text": "Because they might feel bored",
+                        "isCorrect": false,
+                        "explanation": "Boredom is not relevant to medical care."
+                    },
+                    {
+                        "text": "Because they might want to exercise again",
+                        "isCorrect": false,
+                        "explanation": "The main concern is their health, not activity level."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Hypothermia First Aid Quiz",
+        "type": "first-aid",
+        "disasterType": null,
+        "questions": [
+            {
+                "question": "What is the first thing you should do for someone with hypothermia?",
+                "options": [
+                    {
+                        "text": "Move them to a warm, sheltered location",
+                        "isCorrect": true,
+                        "explanation": "A warmer environment prevents further heat loss."
+                    },
+                    {
+                        "text": "Protect them from the cold floor with blankets or newspapers",
+                        "isCorrect": true,
+                        "explanation": "Insulation helps conserve body heat."
+                    },
+                    {
+                        "text": "Leave them outside to acclimatize",
+                        "isCorrect": false,
+                        "explanation": "Exposure worsens hypothermia."
+                    },
+                    {
+                        "text": "Spray them with cold water",
+                        "isCorrect": false,
+                        "explanation": "This would make their condition worse."
+                    }
+                ]
+            },
+            {
+                "question": "What clothing clothing steps help with hypothermia?",
+                "options": [
+                    {
+                        "text": "Take off any wet clothing",
+                        "isCorrect": true,
+                        "explanation": "Wet clothes accelerate heat loss."
+                    },
+                    {
+                        "text": "Replace with dry clothing",
+                        "isCorrect": true,
+                        "explanation": "Dry clothes help trap body heat."
+                    },
+                    {
+                        "text": "Give them your own clothes immediately",
+                        "isCorrect": false,
+                        "explanation": "Giving them your own clothes can leave you exposed to the cold."
+                    },
+                    {
+                        "text": "Leave wet clothes on to conserve heat",
+                        "isCorrect": false,
+                        "explanation": "Wet clothing rapidly drains body heat."
+                    }
+                ]
+            },
+            {
+                "question": "What should you do while waiting for emergency services?",
+                "options": [
+                    {
+                        "text": "Offer warm drinks",
+                        "isCorrect": true,
+                        "explanation": "Warm fluids help raise body temperature."
+                    },
+                    {
+                        "text": "Offer high-energy snacks like chocolate",
+                        "isCorrect": true,
+                        "explanation": "High-energy foods provide fuel for heat generation."
+                    },
+                    {
+                        "text": "Give them alcohol",
+                        "isCorrect": false,
+                        "explanation": "Alcohol lowers core body temperature further."
+                    },
+                    {
+                        "text": "Ignore their symptoms until they sleep",
+                        "isCorrect": false,
+                        "explanation": "They must be monitored closely until help arrives."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Meningitis First Aid Quiz",
+        "type": "first-aid",
+        "disasterType": null,
+        "questions": [
+            {
+                "question": "What should you do if you suspect someone has meningitis?",
+                "options": [
+                    {
+                        "text": "Call emergency services (999) immediately",
+                        "isCorrect": true,
+                        "explanation": "Meningitis can worsen quickly and requires urgent medical care."
+                    },
+                    {
+                        "text": "Wait until all symptoms appear before acting",
+                        "isCorrect": false,
+                        "explanation": "You should not delay—early action saves lives."
+                    },
+                    {
+                        "text": "Give them painkillers and monitor at home",
+                        "isCorrect": false,
+                        "explanation": "Meningitis needs professional treatment, not home remedies."
+                    },
+                    {
+                        "text": "Ask them to rest until they feel better",
+                        "isCorrect": false,
+                        "explanation": "Rest is not enough; urgent medical help is required."
+                    }
+                ]
+            },
+            {
+                "question": "Which of these are symptoms of meningitis?",
+                "options": [
+                    {
+                        "text": "Severe headache",
+                        "isCorrect": true,
+                        "explanation": "Headache is a key warning sign of meningitis."
+                    },
+                    {
+                        "text": "High fever",
+                        "isCorrect": true,
+                        "explanation": "A sudden high fever is a common meningitis symptom."
+                    },
+                    {
+                        "text": "Stiff neck and light sensitivity",
+                        "isCorrect": true,
+                        "explanation": "Neck stiffness and sensitivity to light are classic meningitis symptoms."
+                    },
+                    {
+                        "text": "Mild stomach ache",
+                        "isCorrect": false,
+                        "explanation": "Stomach ache is not a typical symptom of meningitis."
+                    }
+                ]
+            },
+            {
+                "question": "What should you do while waiting for emergency services?",
+                "options": [
+                    {
+                        "text": "Keep the person calm and reassured",
+                        "isCorrect": true,
+                        "explanation": "Staying calm helps reduce distress and confusion."
+                    },
+                    {
+                        "text": "Stay with them until help arrives",
+                        "isCorrect": true,
+                        "explanation": "They may feel scared or confused, so your presence provides comfort."
+                    },
+                    {
+                        "text": "Check for a rash on lighter skin areas",
+                        "isCorrect": true,
+                        "explanation": "Rash may indicate meningitis, but even without it, emergency help is needed."
+                    },
+                    {
+                        "text": "Leave them alone to rest",
+                        "isCorrect": false,
+                        "explanation": "They should not be left unattended in case symptoms worsen suddenly."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Strain or Sprain First Aid Quiz",
+        "type": "first-aid",
+        "disasterType": null,
+        "questions": [
+            {
+                "question": "What are common symptoms of a strain or sprain?",
+                "options": [
+                    {
+                        "text": "Pain, swelling, and bruising",
+                        "isCorrect": true,
+                        "explanation": "These are the main signs of a strain or sprain."
+                    },
+                    {
+                        "text": "Difficulty moving the affected joint",
+                        "isCorrect": true,
+                        "explanation": "Limited mobility is a common symptom when a joint is involved."
+                    },
+                    {
+                        "text": "Mild stomach ache",
+                        "isCorrect": false,
+                        "explanation": "Stomach ache is unrelated to muscle or joint injuries."
+                    },
+                    {
+                        "text": "Runny nose",
+                        "isCorrect": false,
+                        "explanation": "This symptom is not linked to strains or sprains."
+                    }
+                ]
+            },
+            {
+                "question": "What is the first thing you should do if someone has a strain or sprain?",
+                "options": [
+                    {
+                        "text": "Have them rest and stop using the injured area",
+                        "isCorrect": true,
+                        "explanation": "Rest prevents further damage to the injured muscle or joint."
+                    },
+                    {
+                        "text": "Encourage them to walk it off",
+                        "isCorrect": false,
+                        "explanation": "Using the injured area can worsen the injury."
+                    },
+                    {
+                        "text": "Apply heat immediately",
+                        "isCorrect": false,
+                        "explanation": "Cold, not heat, should be applied first to reduce swelling."
+                    },
+                    {
+                        "text": "Massage the area firmly",
+                        "isCorrect": false,
+                        "explanation": "Massage can cause more pain and worsen the injury."
+                    }
+                ]
+            },
+            {
+                "question": "How can you help reduce swelling and relieve pain?",
+                "options": [
+                    {
+                        "text": "Apply a cold compress or ice pack wrapped in a cloth",
+                        "isCorrect": true,
+                        "explanation": "Cold helps control swelling and provides pain relief."
+                    },
+                    {
+                        "text": "Use a bag of frozen vegetables wrapped in a towel",
+                        "isCorrect": true,
+                        "explanation": "This works as an effective cold compress in the absence of an ice pack."
+                    },
+                    {
+                        "text": "Apply ice directly on the skin",
+                        "isCorrect": false,
+                        "explanation": "Direct ice contact can damage the skin."
+                    },
+                    {
+                        "text": "Rub the injury to improve blood flow",
+                        "isCorrect": false,
+                        "explanation": "Rubbing can increase swelling and pain."
+                    }
+                ]
+            },
+            {
+                "question": "When should you seek medical advice for a strain or sprain?",
+                "options": [
+                    {
+                        "text": "If the injury does not start to improve",
+                        "isCorrect": true,
+                        "explanation": "Medical professionals can assess if further treatment is needed."
+                    },
+                    {
+                        "text": "Immediately, for every minor sprain",
+                        "isCorrect": false,
+                        "explanation": "Not every minor sprain needs emergency care, only if it doesn’t improve."
+                    },
+                    {
+                        "text": "Only if a rash appears",
+                        "isCorrect": false,
+                        "explanation": "A rash is unrelated to strains or sprains."
+                    },
+                    {
+                        "text": "Never—it always heals on its own",
+                        "isCorrect": false,
+                        "explanation": "Some sprains may require medical attention."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Stroke First Aid Quiz",
+        "type": "first-aid",
+        "disasterType": null,
+        "questions": [
+            {
+                "question": "What does the FAST test stand for when checking for stroke signs?",
+                "options": [
+                    {
+                        "text": "Face — is one side drooping?",
+                        "isCorrect": true,
+                        "explanation": "A drooping face is a common stroke symptom."
+                    },
+                    {
+                        "text": "Arms — can they raise both?",
+                        "isCorrect": true,
+                        "explanation": "Arm weakness is another key sign."
+                    },
+                    {
+                        "text": "Speech — is it slurred or unclear?",
+                        "isCorrect": true,
+                        "explanation": "Trouble speaking or understanding is a major indicator."
+                    },
+                    {
+                        "text": "Time — call emergency services immediately",
+                        "isCorrect": true,
+                        "explanation": "Quick medical help is critical in reducing damage from stroke."
+                    }
+                ]
+            },
+            {
+                "question": "Which of these are symptoms of a stroke?",
+                "options": [
+                    {
+                        "text": "Sudden numbness or weakness, often on one side",
+                        "isCorrect": true,
+                        "explanation": "Stroke symptoms typically affect one side of the body."
+                    },
+                    {
+                        "text": "Blurred vision or difficulty seeing",
+                        "isCorrect": true,
+                        "explanation": "Vision problems can be a warning sign of stroke."
+                    },
+                    {
+                        "text": "A sudden, intense headache",
+                        "isCorrect": true,
+                        "explanation": "Severe headache is a common stroke symptom."
+                    },
+                    {
+                        "text": "Mild stomach ache",
+                        "isCorrect": false,
+                        "explanation": "Stomach ache is not a sign of stroke."
+                    }
+                ]
+            },
+            {
+                "question": "What should you do if you suspect someone is having a stroke?",
+                "options": [
+                    {
+                        "text": "Call emergency services immediately",
+                        "isCorrect": true,
+                        "explanation": "Time is critical—early medical care reduces risk of severe damage."
+                    },
+                    {
+                        "text": "Stay with the person and reassure them",
+                        "isCorrect": true,
+                        "explanation": "Your support can help keep them calm until help arrives."
+                    },
+                    {
+                        "text": "Note the time the symptoms started",
+                        "isCorrect": true,
+                        "explanation": "Doctors need to know when symptoms began to guide treatment."
+                    },
+                    {
+                        "text": "Wait and see if symptoms go away on their own",
+                        "isCorrect": false,
+                        "explanation": "Delaying treatment can lead to permanent disability or death."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Poisoning First Aid Quiz",
+        "type": "first-aid",
+        "disasterType": null,
+        "questions": [
+            {
+                "question": "Which of these may be signs of poisoning?",
+                "options": [
+                    {
+                        "text": "Unusual paleness or confusion",
+                        "isCorrect": true,
+                        "explanation": "Poisoning can affect awareness and skin colour."
+                    },
+                    {
+                        "text": "Vomiting or stomach pain",
+                        "isCorrect": true,
+                        "explanation": "Stomach upset is a common symptom of poisoning."
+                    },
+                    {
+                        "text": "Strange smell or visible traces of a substance around the mouth",
+                        "isCorrect": true,
+                        "explanation": "These can indicate recent exposure to a toxic substance."
+                    },
+                    {
+                        "text": "Mild itchiness on the skin",
+                        "isCorrect": false,
+                        "explanation": "Itching is not a typical poisoning symptom."
+                    }
+                ]
+            },
+            {
+                "question": "What should you do first if the person is conscious and you suspect poisoning?",
+                "options": [
+                    {
+                        "text": "Find out what substance they took, how much, and when",
+                        "isCorrect": true,
+                        "explanation": "This information is vital for emergency responders."
+                    },
+                    {
+                        "text": "Give them water to flush out the poison",
+                        "isCorrect": false,
+                        "explanation": "Never give food or drink unless advised by a professional."
+                    },
+                    {
+                        "text": "Make them vomit immediately",
+                        "isCorrect": false,
+                        "explanation": "Inducing vomiting can cause choking or further harm."
+                    },
+                    {
+                        "text": "Wait to see if their symptoms pass",
+                        "isCorrect": false,
+                        "explanation": "You must act quickly—poisoning can worsen rapidly."
+                    }
+                ]
+            },
+            {
+                "question": "What actions should you take while waiting for emergency help?",
+                "options": [
+                    {
+                        "text": "Call emergency services immediately",
+                        "isCorrect": true,
+                        "explanation": "Urgent medical attention is required in all suspected poisonings."
+                    },
+                    {
+                        "text": "Monitor their condition closely",
+                        "isCorrect": true,
+                        "explanation": "Keep watching for changes while waiting for help."
+                    },
+                    {
+                        "text": "Do not try to make them vomit",
+                        "isCorrect": true,
+                        "explanation": "Vomiting can cause choking or damage to the throat."
+                    },
+                    {
+                        "text": "Leave them alone until help arrives",
+                        "isCorrect": false,
+                        "explanation": "They should never be left unattended in case their condition worsens."
+                    }
+                ]
+            }
+        ]
+    }
+]

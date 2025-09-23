@@ -1,0 +1,789 @@
+[
+    {
+        "title": "Allergic Reaction",
+        "sub-title": "What to do if someone is having a serious allergic reaction (anaphylaxis).",
+        "description": "Anaphylaxis Emergency",
+        "imageKey": "allergicReaction",
+        "symptoms": [
+            "Itchy skin and eyes",
+            "Swelling of the tongue or neck",
+            "Difficulty breathing",
+            "Flushed or paler skin",
+            "Confusion or feel very scared"
+        ],
+        "steps": [
+            {
+                "step": "Call 999.",
+                "note": ["Time is critical, don't hesitate"]
+            },
+            {
+                "step": "If they have medication, assist them in taking it.",
+                "note": [
+                    "Follow the directions on the package.",
+                    "If you’ve been trained to use an autoinjector, you can administer it to them yourself."
+                ]
+            }
+        ],
+        "video": "https://youtu.be/8EyYTW-1EP0"
+    },
+    {
+        "title": "Asthma Attack",
+        "sub-title": "First aid for an adult experiencing an asthma attack.",
+        "description": "Asthma narrows the airways, making breathing difficult during an attack.",
+        "imageKey": "asthmaAttack",
+        "symptoms": [
+            "Coughing, wheezing, or struggling to breathe",
+            "Chest tightness",
+            "Can’t speak in full sentences",
+            "Pale, sweaty skin"
+        ],
+        "steps": [
+            {
+                "step": "Help them sit upright and use their inhaler.",
+                "note": [
+                    "The inhaler relaxes airway muscles, easing breathing."
+                ] 
+            },
+            {
+                "step": "Comfort and reassure them. If the attack worsens or they don’t have their inhaler, call 999 immediately.",
+                "note": [
+                    "Mild attacks often improve quickly.",
+                    "If it doesn’t, they can keep using their inhaler.",
+                    "No inhaler, no improvement, worsening condition, or inability to speak - Call 999",
+                    "If you’re unable to call 999, ask someone else to do it."
+                ]
+            }
+        ],
+        "video": "https://youtu.be/ZspA-YNd2C8"
+    },
+    {
+        "title": "Bleeding Heavily",
+        "sub-title": "Emergency first aid to stop severe blood loss.",
+        "description": "Uncontrolled bleeding can be deadly—act fast to stabilize the person until help arrives.",
+        "imageKey": "bleedingHeavily",
+        "symptoms": [
+            "A large or deep wound with continuous bleeding",
+            "Blood soaking through clothing or bandages",
+            "Pale, cold, or clammy skin",
+            "Feeling faint, dizzy, or weak",
+            "Signs of shock such as confusion or rapid breathing"
+        ],
+        "steps": [
+            {
+                "step": "Apply pressure to the wound using anything nearby to slow or stop the bleeding.",
+                "note": [
+                    "By doing this, you act as a “plug” to prevent blood from escaping.",
+                    "The pressure encourages clotting, which helps stop the bleeding."
+                ]
+            },
+            {
+                "step": "Call 999",
+                "note": [
+                    "Yell for help if you can’t call yourself."
+                ]
+            },
+            {
+                "step": "Apply steady pressure to the wound until assistance gets there.",
+                "note": [
+                    "Do not remove soaked bandages—add more layers on top."
+                ]
+            }
+        ],
+        "video": "https://youtu.be/L6jjyikFwmA"
+    },
+    {
+        "title": "Broken Bone",
+        "sub-title": "How to recognize and stabilize a fracture.",
+        "description": "A fracture can be a crack, snap, or complete break—first aid focuses on preventing further damage.",
+        "imageKey": "brokenBone",
+        "symptoms": [
+            "Experiencing intense pain",
+            "Lying awkwardly after a fall or impact",
+            "In serious cases, the limb may appear deformed or have a visible wound"
+        ],
+        "steps": [
+            {
+                "step": "Immobilize the injury using hands, cushions, or clothing.",
+                "note": [
+                    "Providing support can ease pain and stop further injury.",
+                    "If you can, support the limb both above and below the affected area."
+                ]
+            },
+            {
+                "step": "Transport the person to the hospital or arrange for them to be taken there.",
+                "note": [
+                    "Call 999 if they cannot move on their own or are experiencing severe pain."
+                ]
+            },
+            {
+                "step": "Maintain stabilization until help arrives.",
+                "note": [
+                    "Continued support minimizes pain and prevents accidental movement that could cause further injury.",
+                    "If you must reposition them, always support the injured area from both sides."
+                ]
+            }
+        ],
+        "video": "https://youtu.be/CP-vb0xxzFM"
+    },
+    {
+        "title": "Burns",
+        "sub-title": "First aid for thermal and scald injuries.",
+        "description": "Burns (from dry heat) and scalds (from hot liquids) damage skin - treat both the same way.",
+        "imageKey": "burn",
+        "symptoms": [
+            "Pain or discomfort in the affected area",
+            "Red, peeling, or blistered skin",
+            "Swelling around the burn",
+            "In severe cases, the skin may appear white or charred"
+        ],
+        "steps": [
+            {
+                "step": "Run cold water over the burn for at least 20 minutes.",
+                "note": [
+                    "Cooling the burn helps lessen pain, swelling, and scarring.",
+                    "The quicker and longer the burn is cooled with cold running water, the less severe the injury will be."
+                ]
+            },
+            {
+                "step": "Once the burn is cooled, gently cover it with cling film or a clean plastic bag.",
+                "note": [
+                    "This protects the burn from infection by keeping it clean.",
+                    "Cling film or plastic won’t stick to the burn and helps ease pain by blocking air from touching the skin.",
+                    "Avoid pulling off clothes or anything stuck to the burn, as this could cause more harm.",
+                    "You may remove clothing close to the burn if it’s not stuck."
+                ]
+            },
+            {
+                "step": "Dial 999 if you believe the burn is severe.",
+                "note": [
+                    "Seek medical advice if you’re uncertain or if a baby or child has sustained the burn."
+                ]
+            }
+        ],
+        "video": "https://youtu.be/dQozahCH8IE"
+    },
+    {
+        "title": "Choking",
+        "sub-title": "Emergency response for airway blockage.",
+        "description": "Choking occurs when something becomes lodged in the throat, blocking the airway and making it difficult to breathe.",
+        "imageKey": "choking",
+        "symptoms": [
+            "Grabbing at their throat or chest in distress",
+            "Unable to talk, breathe, or cough"
+        ],
+        "steps": [
+            {
+                "step": "If someone is choking, encourage them to keep coughing.",
+                "note": [
+                    "If the blockage is severe, they might clutch their chest or neck and be unable to speak, breathe, or cough, in which case you’ll need to assist them."
+                ]
+            },
+            {
+                "step": "Lean the person forward and deliver up to 5 back blows to try to clear the blockage.",
+                "note": [
+                    "Use the heel of your hand to strike firmly between their shoulder blades.",
+                    "These back blows create a strong vibration and pressure in the airway, often enough to dislodge the obstruction and help them breathe again."
+                ]
+            },
+            {
+                "step": "If still choking, do 5 abdominal thrusts.",
+                "note": [
+                    "Wrap your arms around their waist and pull inward and upward just above their belly button.",
+                    "These thrusts force air out of the lungs, which can help clear the blockage."
+                ]
+            },
+            {
+                "step": "If the person is still choking, call 999.",
+                "note": [
+                    "Keep repeating the steps until they can breathe normally or until medical help arrives."
+                ]
+            }
+        ],
+        "video": "https://youtu.be/WeY4KJUnfMc"
+    },
+    {
+        "title": "Dehydration",
+        "sub-title": "Recognizing and treating fluid loss.",
+        "description": "When the body loses more fluids than it takes in, often from heat/exertion.",
+        "imageKey": "dehydration",
+        "symptoms": [
+            "A dry mouth and cracked or chapped lips",
+            "Headache, dizziness, or confusion",
+            "Darker-colored urine",
+            "Urinating less often than usual"
+        ],
+        "steps": [
+            {
+                "step": "Encourage them to rest.",
+                "note": [
+                    "Calm and reassure the person while helping them sit down."
+                ]
+            },
+            {
+                "step": "Offer them plenty of fluids to drink, avoiding energy drinks, fizzy drinks, or alcohol.",
+                "note": [
+                    "Water will help replenish lost fluids, and isotonic sports drinks can help replace salts lost through sweating if available."
+                ]
+            },
+            {
+                "step": "Seek medical help if.",
+                "note": [
+                    "Symptoms worsen after 30 mins",
+                    "Vomiting occurs",
+                    "No urine for 8+ hours",
+                    "Confusion persists"
+                ]
+            }
+        ],
+        "video": ""
+    },
+    {
+        "title": "Diabetic Emergency",
+        "sub-title": "First aid for hypoglycemia (low blood sugar)",
+        "description": "Occurs when a diabetic person's blood sugar drops too low, requiring quick action.",
+        "imageKey": "diabeticEmergency",
+        "symptoms": [
+            "Clammy skin",
+            "Excessive sweating",
+            "Feeling drowsy or confused",
+            "Feeling faint",
+            "Becoming unresponsive"
+        ],
+        "steps": [
+            {
+                "step": "Help them sit down and rest, and give them something sugary to eat or a non-diet drink.",
+                "note": [
+                    "Good options: Fruit juice, regular soda, glucose tablets, candy.",
+                    "Avoid diet/drinks - they won't raise blood sugar."
+                ]
+            },
+            {
+                "step": "Calm and reassure the person. If they start to improve, offer more sugary food.",
+                "note": [
+                    "Prevents blood sugar from dropping again.",
+                    "Give complex carbs (crackers, bread) after initial sugar."
+                ]
+            },
+            {
+                "step": "If their condition doesn’t get better, call 999 immediately.",
+                "note": [
+                    "If they don't get better in 10-15 minutes.",
+                    "If they become unconscious.",
+                    "If you're unsure about their condition."
+                ]
+            }
+        ],
+        "video": "https://youtu.be/sWYxsU53ZCo"
+    },
+    {
+        "title": "Distress",
+        "sub-title": "First aid for mental health crisis.",
+        "description": "Intense emotional suffering that affects a person's ability to cope.",
+        "imageKey": "distress",
+        "symptoms": [
+            "Appear shocked and confused",
+            "Cry, scream, sweat, or shake",
+            "Have difficulty breathing or show other physical signs of anxiety and stress",
+            "Be very quiet, withdrawn, and seem sad or upset",
+            "Express feelings of hopelessness, worthlessness, or thoughts of self-harm",
+            "Describe feeling confused or disconnected from others"
+        ],
+        "steps": [
+            {
+                "step": "Let them know you’re there to support and help them.",
+                "note": [
+                    "While offering a hug might feel natural, it may not be appropriate if you don’t know them well.",
+                    "Avoid saying “everything will be okay” as it might not be true in every situation and can make them feel like their emotions are being minimized."
+                ]
+            }, 
+            {
+                "step": "Listen actively without judgment.",
+                "note": [
+                    "Experiencing or witnessing trauma can be frightening and unexpected, triggering emotional reactions. Stress responses are normal, but how someone reacts varies from person to person."
+                ]
+            },
+            {
+                "step": "Encourage them to seek professional help if necessary.",
+                "note": [
+                    "Assist them in finding self-help resources.",
+                    "If their distress is prolonged, intense, or they might harm themselves or others, or lack other support, professional help is important."
+                ]
+            },
+            {
+                "step": "Help them reach out to someone who can support them before you leave.",
+                "note": [
+                    "If they’re having thoughts of self-harm, help them contact a helpline or someone they trust.",
+                    "If they have tried to harm themselves, call 999 immediately."
+                ]
+            }
+        ],
+        "video": "https://youtu.be/gEi0q34BNOY"
+    },
+    {
+        "title": "Seizures",
+        "sub-title": "Emergency response for convulsions or fits.",
+        "description": "Sudden, uncontrolled electrical brain disturbance causing physical changes.",
+        "imageKey": "seizure",
+        "symptoms": [
+            "Sudden collapse",
+            "Muscle stiffness/jerking",
+            "Possible mouth frothing"
+        ],
+        "steps": [
+            {
+                "step": "Ensure their safety and prevent injury by placing a blanket or cushion under their head. Avoid restraining them.",
+                "note": [
+                    "Restraining can cause harm to both you and the person.",
+                    "Allow the seizure to take its natural course, and remove any nearby objects that could cause injury during the seizure."
+                ]
+            },
+            {
+                "step": "Once the seizure ends, help the person lie on their side with their head tilted back.",
+                "note": [
+                    "This position helps keep their airway open and ensures they continue to breathe."
+                ]
+            },
+            {
+                "step": "Call 999 if needed.",
+                "note": [
+                    "Urgent medical help is required if: it’s their first seizure, they have injured themselves, or the cause of the seizure is unclear"
+                ]
+            }
+        ],
+        "video": "https://youtu.be/1SMFUwyEafw"
+    },
+    {
+        "title": "Head Injury",
+        "sub-title": "Adult first aid for a head injury, including recognizing signs and symptoms and knowing what to do in an emergency.",
+        "description": "Head injuries range from minor bumps to serious brain trauma. Even seemingly mild impacts can cause internal damage that requires medical attention.",
+        "imageKey": "headInjury",
+        "symptoms": [
+            "They have hit their head.",
+            "Their head may hurt or they might have a headache.",
+            "A lump could form on their head."
+        ],
+        "steps": [
+            {
+                "step": "Encourage them to rest and apply a cold compress—such as frozen vegetables wrapped in a tea towel—to the injury.",
+                "note": [
+                    "Using something cold for up to 20 minutes helps reduce swelling and pain on the surface.",
+                    "A blow to the head can also cause the brain to shake inside the skull, potentially leading to a more serious injury that may cause nausea or drowsiness.",
+                    "If the injury occurred during sports, they should not return to play until evaluated by a medical professional."
+                ]
+            },
+            {
+                "step": "If they start feeling drowsy, vomit, or appear confused, call 999 immediately.",
+                "note": [
+                    "These symptoms may indicate a serious head injury."
+                ]
+            }
+        ],
+        "video": "https://youtu.be/Wu53L0oKkKg"
+    },
+    {
+        "title": "Heart Attack",
+        "sub-title": "Emergency response for cardiac crisis.",
+        "description": "A heart attack occurs when the blood flow to the heart muscle is suddenly blocked, preventing the heart from functioning properly.",
+        "imageKey": "heartAttack",
+        "symptoms": [
+            "Constant, crushing chest pain that may radiate to the arms, neck, jaw, back, or stomach",
+            "Difficulty breathing",
+            "Feeling generally unwell",
+            "Excessive sweating"
+        ],
+        "steps": [
+            {
+                "step": "Call 999.",
+                "note": [
+                    "Emergency services will guide you."
+                ]
+            },
+            {
+                "step": "Help the person to sit down.", 
+                "note": [
+                    "Make sure they are comfortable—for instance, sitting on the floor while leaning against a chair or wall.",
+                    "Sitting reduces the strain on the heart and lowers the risk of injury if they collapse."
+                ]
+            },
+            {
+                "step": "Stay with them until help arrives.",
+                "note": [
+                    "Keep calm and reassure.",
+                    "Don't let them move around."
+                ]
+            }
+        ],
+        "video": "https://youtu.be/vYWFVebej5A"
+    },
+    {
+        "title": "Heatstroke",
+        "sub-title": "Emergency response for dangerous overheating.",
+        "description": "When extreme heat overwhelms the body's cooling system, becoming life-threatening.",
+        "imageKey": "heatStroke",
+        "symptoms": [
+            "Hot, flushed, and dry skin",
+            "Headache",
+            "Feeling dizzy, confused, or restless",
+            "Rapidly worsening condition that may lead to unresponsiveness",
+            "Body temperature exceeding 40°C"
+        ],
+        "steps": [
+            {
+                "step": "Call 999",
+                "note": [
+                    "This is a time-sensitive crisis."
+                ]
+            },
+            {
+                "step": "Promptly take the person to a cooler place.",
+                "note": [
+                    "Remove excess clothing.",
+                    "Cover with damp cloth/sheet."
+                ]
+            },
+            {
+                "step": "Pour cool water continuously over the sheet or clothes.",
+                "note": [
+                    "If there is no sheet, you may fan them or sponge them with cool water."
+                ]
+            },
+            {
+                "step": "Keep cooling them while waiting for help to arrive.",
+                "note": [
+                    "If their temperature returns to normal and they don't feel hot to the touch, you may stop cooling them.",
+                    "Replace the wet sheet with a dry one and help them to rest."
+                ]
+            }
+        ],
+        "video": ""
+    },
+    {
+        "title": "Heat Exhaustion",
+        "sub-title": "Helping someone with heat exhaustion.",
+        "description": "Heat exhaustion occurs when the body is too hot. Someone suffering from heat exhaustion may have been in the sun or heat for a long time.",
+        "imageKey": "heatExhaustion",
+        "symptoms": [
+            "Headaches, dizziness, or confusion",
+            "Sweating with cooler skin to the touch",
+            "Paler than usual"
+        ],
+        "steps": [
+            {
+                "step": "Get them to a cool place and help them rest.",
+                "note": [
+                    "Heat exhaustion happens when someone loses too much fluid and salt usually from sweating in hot conditions."
+                ]
+            },
+            {
+                "step": "Serve them plenty of water to drink.",
+                "note": [
+                    "Drinking plenty of water will replace lost fluids.",
+                    "Isotonic sports drinks will also help replace salts lost through sweating."
+                ]
+            },
+            {
+                "step": "Seek medical advice.",
+                "note": [
+                    "Even if the person seems fully recovered, you should seek medical advice.",
+                    "If their condition gets worse, call 999."
+                ]
+            }
+        ],
+        "video": "https://youtu.be/W-Us9IP33Gs"
+    },
+    {
+        "title": "Hypothermia",
+        "sub-title": "Cold Can Kill: Spot the Signs, Act Fast.",
+        "description": "Hypothermia happens when a person’s body temperature drops so low that blood circulation slows down, especially near the skin.",
+        "imageKey": "hypothermia",
+        "symptoms": [
+            "Shiver, have pale skin, and feel cold to the touch",
+            "Show confusion",
+            "Breathe more slowly than usual",
+            "Have a body temperature under 35°C (95°F)"
+        ],
+        "steps": [
+            {
+                "step": "Move the person to a warm, sheltered location as quickly as you can.",
+                "note": [
+                    "Protect them from the cold floor and cover them with blankets, newspapers, or any available materials."
+                ]
+            },
+            {
+                "step": "Take off any wet clothing if possible and replace it with dry items.",
+                "note": [
+                    "Avoid giving them your own clothes, but make sure their head is covered."
+                ]
+            },
+            {
+                "step": "Call emergency services (999).",
+                "note": [
+                    "Clearly describe their symptoms. Stay on the line for further instructions."
+                ]
+            },
+            {
+                "step": "Keep warming and comforting the person while waiting for help.",
+                "note": [
+                    "Offer warm drinks and high-energy snacks like chocolate to help raise their body heat."
+                ]
+            }
+        ],
+        "video": "https://youtu.be/DewzkBh2onc"
+    },
+    {
+        "title": "Meningitis",
+        "sub-title": "How to Spot Meningitis Early and Respond Safely.",
+        "description": "Meningitis is a serious condition where the protective membranes around the brain and spinal cord become inflamed. It can be caused by bacteria or viruses and can affect people of any age.",
+        "imageKey": "meningitis",
+        "symptoms": [
+            "Symptoms similar to the flu",
+            "Severe headache",
+            "High fever",
+            "Stiff neck",
+            "Sensitivity to bright light"
+        ],
+        "steps": [
+            {
+                "step": "Call emergency services (999) immediately if you notice any symptoms.",
+                "note": [
+                    "Don’t wait for all the signs to appear—meningitis can worsen very quickly and requires urgent medical care."
+                ]
+            },
+            {
+                "step": "Look for a rash.",
+                "note": [
+                    "Check lighter areas of skin—like the palms or inside the eyelids—especially on darker skin tones.", 
+                    "Even if a rash isn’t present, still call 999 if you suspect meningitis."
+                ]
+            },
+            {
+                "step": "Keep the person calm and reassured while waiting for help to arrive.",
+                "note": [
+                    "Stay with them and offer comfort—they may feel scared or confused."
+                ]
+            }
+        ],
+        "video": "https://youtu.be/nwXfAEcHcQA"
+    },
+    {
+        "title": "Strain or a Sprain",
+        "sub-title": "Managing Joint and Muscle Injuries with Basic First Aid.",
+        "description": "A strain or sprain occurs when a person experiences pain, swelling, or bruising around a joint or muscle, usually following a sudden or awkward movement.",
+        "imageKey": "sprain",
+        "symptoms": [
+            "Pain",
+            "Swelling",
+            "Bruising",
+            "Difficulty moving the limb if a joint is involved"
+        ],
+        "steps": [
+            {
+                "step": "Have the person rest and stop using the injured area.",
+                "note": [
+                    "Avoid putting weight on it."
+                ]
+            },
+            {
+                "step": "Apply a cold compress to reduce swelling and relieve pain.",
+                "note": [
+                    "This can be an ice pack or a bag of frozen vegetables wrapped in a cloth or towel."
+                ]
+            },
+            {
+                "step": "Seek medical advice if the injury doesn’t start to improve.",
+                "note": [
+                    "Emergency services will guide you."
+                ]
+            }
+        ],
+        "video": "https://youtu.be/3CEiFmVzzyc"
+    },
+    {
+        "title": "Stroke",
+        "sub-title": "How to Identify and Respond to a Stroke Before Help Arrives.",
+        "description": "A stroke occurs when blood flow to part of the brain is blocked or reduced, leading to brain cell damage. Quick recognition and action are crucial to reduce the risk of permanent disability or death. Symptoms often appear suddenly and may affect one side of the body.",
+        "imageKey": "stroke",
+        "symptoms": [
+            "Drooping or dribbling from the mouth",
+            "Numbness",
+            "Blurred vision",
+            "A sudden, intense headache",
+            "Difficulty with balance",
+            "Feeling dizzy or light-headed",
+            "Trouble speaking or understanding speech"
+        ],
+        "steps": [
+            {
+                "step": "Use the FAST test to check for signs.",
+                "note": [
+                    "Face — is one side drooping?",
+                    "Arms — can they raise both?",
+                    "Speech — slurred or unclear?",
+                    "Time — call 999 immediately."
+                ]
+            },
+            {
+                "step": "Call emergency services straight away.",
+                "note": [
+                    "Time is critical—getting urgent medical help can make a big difference."
+                ]
+            },
+            {
+                "step": "Stay with the person and reassure them while waiting for help to arrive.",
+                "note": [
+                    "Note the time symptoms started."
+                ]
+            }
+        ],
+        "video": "https://youtu.be/7Ee1o05x5kw"
+    },
+    {
+        "title": "Poisoning",
+        "sub-title": "Recognising Poisoning Early and Taking Safe, Effective Action.",
+        "description": "Poisoning occurs when a toxic substance enters the body and causes harm, injury, or death.",
+        "imageKey": "poisoning",
+        "symptoms": [
+            "Appear unusually pale",
+            "Seem confused or unaware of their surroundings",
+            "Vomit or complain of stomach pain",
+            "Have a strange smell or visible traces of a substance around their mouth",
+            "Be found near empty packaging, such as medicine bottles, cleaning products, or alcohol containers"
+        ],
+        "steps": [
+            {
+                "step": "If they are conscious, try to find out what substance they took, how much, and when they took it.",
+                "note": [
+                    "This information will be important for emergency responders."
+                ]
+            },
+            {
+                "step": "Call 999 immediately.",
+                "note": [
+                    "The substance might be very dangerous, and urgent medical care may be needed."
+                ]
+            },
+            {
+                "step": "Monitor the person while waiting for help.",
+                "note": [
+                    "Keep checking their condition but do not try to make them vomit—this can cause more harm, including damage to the throat or choking."
+                ]
+            }
+        ],
+        "video": "https://youtu.be/PgGUSAM6XJw"
+    },
+    {
+        "title": "Unresponsive and Breathing",
+        "sub-title": "First Aid: Unresponsive but Breathing – What to Do",
+        "description": "Someone who is unresponsive won't answer or move if you call their name or tap their shoulders. If it's an adult who is unresponsive, gently shake their shoulders. Shout for help.",
+        "imageKey": "unresponsiveAndBreathing",
+        "symptoms": [
+            "No response to voice or touch",
+            "Breathing normally"
+        ],
+        "steps": [
+            {
+                "step": "Check for breathing. Tilt their head back and check if their chest is rising. Look for chest movement. Listen for breathing sounds. Feel for breath on your cheek.",
+                "note": [
+                    "When someone is unconscious, their tongue can block the airway.",
+                    "Tilting the head back helps to keep the airway open by shifting the tongue forward."
+                ]
+            },
+            {
+                "step": "If they are breathing, roll them onto their side.",
+                "note": [
+                    "Place them in the recovery position with their head tilted back.",
+                    "This helps to keep the airway open and allows fluids like blood or vomit to drain safely, reducing the risk of choking."
+                ]
+            },
+            {
+                "step": "Call 999.",
+                "note": [
+                    "Emergency services will guide you."
+                ]
+            }
+        ],
+        "video": "https://youtu.be/5fK2oCiz8VU"
+    },
+    {
+        "title": "Unresponsive and Not Breathing",
+        "sub-title": "Adult First Aid: Unresponsive and Not Breathing – What to Do",
+        "description": "If someone doesn’t react when you call their name or tap their shoulders, they are unresponsive. Take immediate action.",
+        "imageKey": "unresponsiveAndNotBreathing",
+        "symptoms": [
+            "No response to voice or touch",
+            "Not breathing or gasping"
+        ],
+        "steps": [
+            {
+                "step": "Check for breathing. Tilt their head back and check if their chest is rising. Look for chest movement. Listen for breathing sounds. Feel for breath on your cheek.",
+                "note": [
+                    "When someone is unconscious, their tongue can block the airway.",
+                    "Tilting the head back helps to keep the airway open by shifting the tongue forward."
+                ]
+            },
+            {
+                "step": "If there is no breathing, call 999 immediately",
+                "note": [
+                    "Get emergency help right away."
+                ]
+            },
+            {
+                "step": "Start chest compressions",
+                "note": [
+                    "Push firmly and quickly in the center of the chest—around two compressions per second (roughly the beat of the song 'Stayin Alive').", 
+                    "Keep going until emergency services arrive.", 
+                    "Chest compressions help keep blood flowing to vital organs like the brain and heart."
+                ]
+            }
+        ],
+        "video": "https://youtu.be/gDmy0of0XAk"
+    },
+    {
+        "title": "Unresponsive and Not Breathing when an AED is Available",
+        "sub-title": "Adult First Aid: Unresponsive and Not Breathing (with an AED)",
+        "description": "If an adult doesn’t respond when you call their name or gently shake their shoulders, act quickly.",
+        "imageKey": "unresponsiveAndAEDAvailable",
+        "symptoms": [
+            "No response to voice or touch",
+            "Not breathing or gasping"
+        ],
+        "steps": [
+            {
+                "step": "Check for breathing. Tilt their head back to open the airway. Look for chest movement. Listen for breathing sounds. Feel for breath on your cheek.",
+                "note": [
+                    "Do this for no more than 10 seconds.", 
+                    "If there’s no sign of breathing, move to the next step."
+                ]
+            },
+            {
+                "step": "Call 999",
+                "note": [
+                    "Get emergency help immediately."
+                ]
+            },
+            {
+                "step": "Ask someone to fetch an AED (defibrillator)",
+                "note": [
+                    "An AED (Automated External Defibrillator) can deliver a shock to help restart the heart.",
+                    "They are commonly found in public places."
+                ]
+            },
+            {
+                "step": "Start chest compressions (CPR).",
+                "note": [
+                    "Press down hard and fast in the center of the chest—twice per second (about 100–120 compressions per minute).", 
+                    "This helps maintain blood flow to the brain and other vital organs."
+                ]
+            },
+            {
+                "step": "Use the AED as soon as it arrives.",
+                "note": [
+                    "Open the device and follow its voice instructions.", 
+                    "It will guide you through attaching the pads and delivering a shock if needed.", 
+                    "Keep giving compressions and follow AED directions until emergency services take over."
+                ]
+            }
+        ],
+        "video": "https://youtu.be/lYyWMZlKDPc"
+    }
+]

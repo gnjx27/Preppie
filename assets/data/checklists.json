@@ -1,0 +1,55 @@
+[
+    {
+        "title": "Build An Emergency Kit",
+        "type": "one-time",
+        "frequency": "none",
+        "description": "A basic emergency supply kit with essential items to help you survive independently for several days after a disaster.",
+        "items": [
+            "Water (one gallon per person per day for several days, for drinking and sanitation)",
+            "Food (at least a several-day supply of non-perishable food)",
+            "Battery-powered or hand crank radio and a NOAA Weather Radio with tone alert",
+            "Flashlight",
+            "First aid kit",
+            "Extra batteries",
+            "Whistle (to signal for help)",
+            "Dust mask (to help filter contaminated air)",
+            "Plastic sheeting, scissors and duct tape (to shelter in place)",
+            "Moist towelettes, garbage bags and plastic ties (for personal sanitation)",
+            "Wrench or pliers (to turn off utilities)",
+            "Manual can opener (for food)",
+            "Local maps",
+            "Cell phone with chargers and a backup battery"
+        ]
+    },
+    {
+        "title": "Prepare an Emergency Kit for Your Car",
+        "type": "one-time",
+        "frequency": "none",
+        "description": "Essential items to keep in your vehicle to stay safe during emergencies on the road.",
+        "items": [
+            "Battery-powered radio, flashlight and extra batteries",
+            "Blanket",
+            "Booster cables",
+            "Fire extinguisher (5 lb., A-B-C type)",
+            "First aid kit and manual",
+            "Bottled water and non-perishable high-energy foods such as granola bars, raisins and peanut butter"
+        ]
+    },
+    {
+        "title": "Monthly Emergency Kit Check",
+        "type": "recurring",
+        "frequency": "monthly",
+        "description": "Keep your emergency kit up-to-date year round.",
+        "items": [
+            "Check food expiry dates and replace if expired",
+            "Check water containers for leaks and freshness",
+            "Test flashlight and radio batteries",
+            "Recharge power banks or backup chargers",
+            "Check first aid supplies and restock if needed",
+            "Review and update personal medication (check expiry)",
+            "Ensure all documents are still valid and up-to-date",
+            "Confirm pet supplies (if applicable) are ready",
+            "Make sure the kit is easily accessible and not blocked"
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Safety Scout",
+    "description": "Just starting out",
+    "icon": "✨",
+    "pointsRequired": 0
+  },
+  {
+    "title": "First Responder",
+    "description": "Earn 25 points",
+    "icon": "🏆",
+    "pointsRequired": 25
+  },
+  {
+    "title": "Kit Master",
+    "description": "Earn 100 points",
+    "icon": "🎖️",
+    "pointsRequired": 100
+  },
+  {
+    "title": "Knowledge Builder (Bronze)",
+    "description": "Earn 250 points",
+    "icon": "🥉",
+    "pointsRequired": 250
+  },
+  {
+    "title": "Knowledge Builder (Silver)",
+    "description": "Earn 500 points",
+    "icon": "🥈",
+    "pointsRequired": 500
+  },
+  {
+    "title": "Knowledge Builder (Gold)",
+    "description": "Earn 750 points",
+    "icon": "🥇",
+    "pointsRequired": 750
+  },
+  {
+    "title": "Disaster Hero",
+    "description": "Earn 1050 points",
+    "icon": "🌟",
+    "pointsRequired": 1050
+  }
+]
